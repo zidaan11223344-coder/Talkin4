@@ -989,6 +989,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789336004
+      },
+      "zf---t": {
+        "username": "zf---t",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789336010
       }
     }
   }
