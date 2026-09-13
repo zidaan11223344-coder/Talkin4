@@ -1109,6 +1109,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789336402
+      },
+      "...bessan...": {
+        "username": "...bessan...",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789336432
       }
     }
   }
