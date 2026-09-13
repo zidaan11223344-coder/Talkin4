@@ -1703,6 +1703,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789340047
+      },
+      "halaz": {
+        "username": "halaz",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789340073
       }
     }
   }
