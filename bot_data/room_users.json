@@ -2715,6 +2715,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789341463
+      },
+      "gawhara-aljana": {
+        "username": "gawhara-aljana",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789341726
       }
     }
   }
