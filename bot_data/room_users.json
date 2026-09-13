@@ -922,7 +922,7 @@
         "username": "7rami.",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789336909
+        "last_seen": 1789336912
       },
       "vegas88": {
         "username": "vegas88",
@@ -1211,6 +1211,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789336840
+      },
+      "almystro": {
+        "username": "almystro",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789336935
       }
     }
   }
