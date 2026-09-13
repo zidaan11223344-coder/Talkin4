@@ -512,7 +512,7 @@
         "username": "kt",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789336758
+        "last_seen": 1789336759
       }
     },
     "اتكيت": {
@@ -1187,6 +1187,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789336752
+      },
+      "kt": {
+        "username": "kt",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789336760
       }
     }
   }
