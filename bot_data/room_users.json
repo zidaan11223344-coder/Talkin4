@@ -1079,6 +1079,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789336138
+      },
+      "ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ": {
+        "username": "ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789336154
       }
     }
   }
