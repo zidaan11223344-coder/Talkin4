@@ -1697,6 +1697,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789340015
+      },
+      "_babygirl_": {
+        "username": "_babygirl_",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789340047
       }
     }
   }
