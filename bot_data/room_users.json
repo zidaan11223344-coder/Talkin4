@@ -1103,6 +1103,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789336336
+      },
+      "watan.33": {
+        "username": "watan.33",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789336371
       }
     }
   }
