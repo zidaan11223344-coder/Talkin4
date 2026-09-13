@@ -1121,6 +1121,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789336461
+      },
+      "..game.": {
+        "username": "..game.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789336530
       }
     }
   }
