@@ -1145,6 +1145,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789336596
+      },
+      "jassam": {
+        "username": "jassam",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789336628
       }
     }
   }
