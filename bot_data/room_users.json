@@ -11810,9 +11810,9 @@
       },
       ".skip.": {
         "username": ".skip.",
-        "role": "member",
+        "role": "none",
         "user_id": "",
-        "last_seen": 1789418837
+        "last_seen": 1789420750
       },
       "35353": {
         "username": "35353",
