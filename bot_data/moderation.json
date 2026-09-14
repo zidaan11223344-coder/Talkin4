@@ -2,5 +2,12 @@
   "enabled": true,
   "words": [
     "كلبه"
-  ]
+  ],
+  "rooms": {
+    "مشاعر": {
+      "enabled": true,
+      "repeat_limit": 3,
+      "words": []
+    }
+  }
 }
