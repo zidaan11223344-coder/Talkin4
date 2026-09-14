@@ -4697,6 +4697,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789345378
+      },
+      "perfecto.": {
+        "username": "perfecto.",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789345571
       }
     }
   }
