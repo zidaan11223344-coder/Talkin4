@@ -6461,6 +6461,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789373087
+      },
+      "nobody-knows-me-1969": {
+        "username": "nobody-knows-me-1969",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789373398
       }
     }
   }
