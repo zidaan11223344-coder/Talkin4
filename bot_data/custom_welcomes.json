@@ -4,6 +4,10 @@
     "al-sfeer": {
       "username": "al-sfeer",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "༺✿آلــطــلُــقــــۂ›ⓡ‹الــشــﺂمّـ͜يـــۂ✿༻": {
+      "username": "༺✿آلــطــلُــقــــۂ›Ⓡ‹الــشــﺂمّـ͜يـــۂ✿༻",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
