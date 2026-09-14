@@ -5,7 +5,7 @@
   ],
   "rooms": {
     "مشاعر": {
-      "enabled": true,
+      "enabled": false,
       "repeat_limit": 3,
       "words": []
     }
