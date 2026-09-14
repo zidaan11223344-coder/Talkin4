@@ -13525,6 +13525,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789428555
+      },
+      "daahd": {
+        "username": "daahd",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789429264
       }
     }
   }
