@@ -6479,6 +6479,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789373398
+      },
+      "haakkeem": {
+        "username": "haakkeem",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789373521
       }
     }
   }
