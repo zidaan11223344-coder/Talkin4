@@ -4745,6 +4745,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789345820
+      },
+      "zeko-king": {
+        "username": "zeko-king",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789345902
       }
     }
   }
