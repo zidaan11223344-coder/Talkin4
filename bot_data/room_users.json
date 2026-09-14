@@ -8177,6 +8177,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789392212
+      },
+      "indifferent": {
+        "username": "indifferent",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789392226
       }
     }
   }
