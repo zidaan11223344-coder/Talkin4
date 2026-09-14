@@ -18,7 +18,7 @@
         "username": "<٠٠٠>",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789339732
+        "last_seen": 1789345754
       },
       "_bot_": {
         "username": "_bot_",
@@ -1148,7 +1148,7 @@
         "username": "dewi",
         "role": "member",
         "user_id": "",
-        "last_seen": 1789345586
+        "last_seen": 1789345761
       },
       "man30": {
         "username": "man30",
@@ -4727,6 +4727,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789345571
+      },
+      "<٠٠٠>": {
+        "username": "<٠٠٠>",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789345761
       }
     }
   }
