@@ -390,9 +390,9 @@
       },
       "selga": {
         "username": "selga",
-        "role": "admin",
+        "role": "none",
         "user_id": "",
-        "last_seen": 1789339750
+        "last_seen": 1789380354
       },
       "ـ°☆°صـــٰٓـٰـ✯ـوت❈ٰٓالـمٰٰٓٓـٰ✯ــَٰٓـ͡ـطــر°☆°": {
         "username": "ـ°☆°صـــٰٓـٰـ✯ـوت❈ٰٓالـمٰٰٓٓـٰ✯ــَٰٓـ͡ـطــر°☆°",
@@ -3696,7 +3696,7 @@
         "username": "selga",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789340081
+        "last_seen": 1789380354
       },
       "188vote": {
         "username": "188vote",
@@ -6923,6 +6923,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789379931
+      },
+      "selga": {
+        "username": "selga",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789380354
       }
     }
   }
