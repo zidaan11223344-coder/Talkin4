@@ -3480,7 +3480,7 @@
         "username": "sabbe3",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789340081
+        "last_seen": 1789380923
       },
       "hedr..515": {
         "username": "hedr..515",
@@ -7115,6 +7115,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789380889
+      },
+      "zᵢₐ": {
+        "username": "Zᵢₐ",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789380923
       }
     }
   }
