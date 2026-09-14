@@ -21,6 +21,11 @@
         "plays": 6,
         "points": 15,
         "staked": 0
+      },
+      "farm": {
+        "plays": 1,
+        "points": 1000,
+        "staked": 0
       }
     }
   },
