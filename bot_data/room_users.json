@@ -10421,6 +10421,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789405362
+      },
+      "y": {
+        "username": "y",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789406236
       }
     }
   }
