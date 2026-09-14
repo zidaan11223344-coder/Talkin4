@@ -13447,6 +13447,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789428250
+      },
+      "hamed": {
+        "username": "hamed",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789428555
       }
     }
   }
