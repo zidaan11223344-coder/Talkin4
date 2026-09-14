@@ -11093,6 +11093,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789410594
+      },
+      "me_eme": {
+        "username": "me_eme",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789410727
       }
     }
   }
