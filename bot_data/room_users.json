@@ -5339,6 +5339,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789353833
+      },
+      "autism": {
+        "username": "autism",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789354534
       }
     }
   }
