@@ -7169,6 +7169,12 @@
         "role": "creator",
         "user_id": "",
         "last_seen": 1789381212
+      },
+      ".bot.rim.": {
+        "username": ".bot.rim.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789381577
       }
     }
   }
