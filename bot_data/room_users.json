@@ -10589,6 +10589,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789406506
+      },
+      "looolty": {
+        "username": "looolty",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789406516
       }
     }
   }
