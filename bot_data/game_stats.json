@@ -148,5 +148,15 @@
         "staked": 0
       }
     }
+  },
+  "mo.ali": {
+    "username": "mo.ali",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
