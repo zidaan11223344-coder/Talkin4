@@ -81,6 +81,11 @@
         "plays": 30,
         "points": 0,
         "staked": 0
+      },
+      "luck_free": {
+        "plays": 1,
+        "points": 50,
+        "staked": 0
       }
     }
   },
