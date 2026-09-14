@@ -3852,7 +3852,7 @@
         "username": "_-s-_-n-_",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789340081
+        "last_seen": 1789382017
       },
       "selga": {
         "username": "selga",
@@ -7223,6 +7223,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789381997
+      },
+      "mz3ta": {
+        "username": "mz3ta",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789382017
       }
     }
   }
