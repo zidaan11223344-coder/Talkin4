@@ -1,4 +1,9 @@
 {
   "enabled": true,
-  "welcomes": {}
+  "welcomes": {
+    "al-sfeer": {
+      "username": "al-sfeer",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    }
+  }
 }
