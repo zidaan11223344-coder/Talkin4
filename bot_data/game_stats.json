@@ -908,5 +908,15 @@
         "staked": 10000
       }
     }
+  },
+  "..skndr..": {
+    "username": "..skndr..",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
