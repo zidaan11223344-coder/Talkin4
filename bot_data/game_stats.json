@@ -821,6 +821,11 @@
         "plays": 2,
         "points": 1000,
         "staked": 1000
+      },
+      "بحث": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
