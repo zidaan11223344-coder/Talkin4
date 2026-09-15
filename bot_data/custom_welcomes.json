@@ -152,6 +152,10 @@
     "perfecto.": {
       "username": "perfecto.",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "؍ڛـ⃮ـَٰمۘᤳᡴ⃘ꪫ𝄒ݪْذﯾ𓏺ـ۫ذ𝂅𝂅": {
+      "username": "؍ڛـ⃮ـَٰمۘᤳᡴ⃘ꪫ𝄒ݪْذﯾ𓏺ـ۫ذ𝂅𝂅",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
