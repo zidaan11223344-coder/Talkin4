@@ -216,9 +216,9 @@
       },
       "selga": {
         "username": "selga",
-        "role": "admin",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789479602
+        "last_seen": 1789489140
       },
       "جوليا": {
         "username": "جوليا",
@@ -20342,7 +20342,7 @@
         "username": "selga",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789480120
+        "last_seen": 1789489140
       },
       "hms_alshoq": {
         "username": "hms_alshoq",
