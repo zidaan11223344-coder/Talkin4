@@ -986,6 +986,11 @@
         "plays": 1,
         "points": 5,
         "staked": 0
+      },
+      "luck": {
+        "plays": 1,
+        "points": -3,
+        "staked": 3
       }
     }
   }
