@@ -11,6 +11,11 @@
       "enabled": false,
       "repeat_limit": 3,
       "words": []
+    },
+    "اتكيت": {
+      "enabled": true,
+      "repeat_limit": 3,
+      "words": []
     }
   }
 }
