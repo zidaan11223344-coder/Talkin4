@@ -216,6 +216,10 @@
     "17l01": {
       "username": "17l01",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "december...": {
+      "username": "december...",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
