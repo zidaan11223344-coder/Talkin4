@@ -3770,9 +3770,9 @@
       },
       "🦉ّ": {
         "username": "🦉ّ",
-        "role": "owner",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1789488441
+        "last_seen": 1789489382
       },
       "𔕄": {
         "username": "𔕄",
@@ -4106,9 +4106,9 @@
       },
       "asma19.": {
         "username": "asma19.",
-        "role": "none",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1789463918
+        "last_seen": 1789489383
       },
       "عـــــــ🐞ــــــقوبه": {
         "username": "عـــــــ🐞ــــــقوبه",
@@ -4136,9 +4136,9 @@
       },
       "juries": {
         "username": "juries",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789463918
+        "last_seen": 1789489383
       },
       "▸𝃛𝐈𓏺َ𓏺𝐡𝐚𝐭𝐞𑩖𝂆𝐲𝐨𝐮ᅠ𔘓ᤳ𝃛": {
         "username": "▸𝃛𝐈𓏺َ𓏺𝐡𝐚𝐭𝐞𑩖𝂆𝐲𝐨𝐮ᅠ𔘓ᤳ𝃛",
@@ -4220,9 +4220,9 @@
       },
       ".ocean": {
         "username": ".ocean",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789463918
+        "last_seen": 1789489383
       },
       "𝚰𝐭'𝐬𓆩𝐭𝐢̶𝐦⃪ꤪꤨ𝐞𝃛✿𝃛𝐭𝐨𝃛𓏺𝐥𝐨𝐭𓆪𝐆𝐨": {
         "username": "𝚰𝐭'𝐬𓆩𝐭𝐢̶𝐦⃪ꤪꤨ𝐞𝃛✿𝃛𝐭𝐨𝃛𓏺𝐥𝐨𝐭𓆪𝐆𝐨",
@@ -4274,9 +4274,9 @@
       },
       "loneliness": {
         "username": "loneliness",
-        "role": "none",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789463918
+        "last_seen": 1789489383
       },
       "❥𓆩〭〬𝕭𝐚፝֯֟𝐫𝐛𝗶⃪𝐞𝇃ٜ𝇄✿̸̸̸": {
         "username": "❥𓆩〭〬𝕭𝐚፝֯֟𝐫𝐛𝗶⃪𝐞𝇃ٜ𝇄✿̸̸̸",
@@ -4352,9 +4352,9 @@
       },
       ".imagination": {
         "username": ".imagination",
-        "role": "none",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789463918
+        "last_seen": 1789489383
       },
       "..game.": {
         "username": "..game.",
@@ -4406,9 +4406,9 @@
       },
       "rmadi.": {
         "username": "rmadi.",
-        "role": "none",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1789463918
+        "last_seen": 1789489383
       },
       "ll.-.ll": {
         "username": "ll.-.ll",
@@ -5530,7 +5530,13 @@
         "username": "hard-to-reach",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789488371
+        "last_seen": 1789489382
+      },
+      "s-boot": {
+        "username": "s-boot",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789489382
       }
     },
     "يجمعنا💕الـــــــــود": {
@@ -9224,7 +9230,7 @@
         "username": "ll.-.ll",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789489242
+        "last_seen": 1789489383
       },
       "მl3fγἶནმ": {
         "username": "მl3fΓἶནმ",
@@ -16792,7 +16798,7 @@
         "username": "ll.-.ll",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789489242
+        "last_seen": 1789489383
       },
       ".skip.": {
         "username": ".skip.",
