@@ -388,7 +388,7 @@
     "username": "__________nickname__________",
     "games": {
       "million": {
-        "plays": 64,
+        "plays": 65,
         "points": 2000000,
         "staked": 0
       },
