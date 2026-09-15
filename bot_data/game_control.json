@@ -1,4 +1,6 @@
 {
-  "disabled_rooms": [],
+  "disabled_rooms": [
+    "ملتقى🥂العرب"
+  ],
   "global_enabled": true
 }
