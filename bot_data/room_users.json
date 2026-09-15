@@ -5779,6 +5779,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789472816
+      },
+      "karim_fareed": {
+        "username": "karim_fareed",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789473419
       }
     },
     "اتكيت": {
@@ -12980,9 +12986,9 @@
       },
       "🔥🐆ٰ": {
         "username": "🔥🐆ٰ",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789466000
+        "last_seen": 1789473419
       },
       "0o030o0": {
         "username": "0o030o0",
