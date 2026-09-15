@@ -348,5 +348,15 @@
         "staked": 0
       }
     }
+  },
+  "الثرياء": {
+    "username": "الثرياء",
+    "games": {
+      "misc": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
