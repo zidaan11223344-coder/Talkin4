@@ -511,6 +511,11 @@
         "plays": 1,
         "points": -100,
         "staked": 100
+      },
+      "صيد": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
