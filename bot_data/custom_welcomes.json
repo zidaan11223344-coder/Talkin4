@@ -112,6 +112,10 @@
     "•𖠷الـۦٰـسـ♚ـبـۦٰـع𖠷•": {
       "username": "•𖠷الـۦٰـسـ♚ـبـۦٰـع𖠷•",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "__________nickname__________": {
+      "username": "__________nickname__________",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
