@@ -246,6 +246,11 @@
         "plays": 1,
         "points": 500,
         "staked": 500
+      },
+      "مصارعة": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
