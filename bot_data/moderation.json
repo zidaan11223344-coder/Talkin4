@@ -5,17 +5,5 @@
     "اخو رجلي",
     "كلبب",
     "كلبه"
-  ],
-  "rooms": {
-    "مشاعر": {
-      "enabled": false,
-      "repeat_limit": 3,
-      "words": []
-    },
-    "اتكيت": {
-      "enabled": false,
-      "repeat_limit": 3,
-      "words": []
-    }
-  }
+  ]
 }
