@@ -968,5 +968,15 @@
         "staked": 0
       }
     }
+  },
+  "amert_alehsas": {
+    "username": "amert_alehsas",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
