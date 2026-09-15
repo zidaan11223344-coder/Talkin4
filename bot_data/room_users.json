@@ -6170,9 +6170,9 @@
       },
       "indifferent": {
         "username": "indifferent",
-        "role": "none",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789506064
+        "last_seen": 1789507131
       },
       "q7144": {
         "username": "q7144",
@@ -29567,6 +29567,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789506783
+      },
+      "عُمُږهْ،ٱڷڣږـح،مُٱعُٱڜ،ٻڍٱڅڷﻲ،ڷـحضٍهْ": {
+        "username": "عُمُږهْ،ٱڷڣږـح،مُٱعُٱڜ،ٻڍٱڅڷﻲ،ڷـحضٍهْ",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789507129
       }
     }
   }
