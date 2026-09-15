@@ -281,6 +281,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "misc": {
+        "plays": 1,
+        "points": 40,
+        "staked": 0
       }
     }
   },
