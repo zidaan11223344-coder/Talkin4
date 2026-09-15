@@ -423,9 +423,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       },
       "صيد": {
         "plays": 2,
@@ -658,9 +658,9 @@
     "username": "ᵈ᭄♡⁷ᵃ",
     "games": {
       "steal": {
-        "plays": 1,
-        "points": 0,
-        "staked": 500
+        "plays": 2,
+        "points": -500,
+        "staked": 1000
       },
       "million": {
         "plays": 2,
