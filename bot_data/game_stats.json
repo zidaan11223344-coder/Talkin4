@@ -288,5 +288,15 @@
         "staked": 0
       }
     }
+  },
+  "ɱ": {
+    "username": "ɱ",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
