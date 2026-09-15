@@ -693,5 +693,15 @@
         "staked": 0
       }
     }
+  },
+  "ْْ": {
+    "username": "ْْ",
+    "games": {
+      "misc": {
+        "plays": 1,
+        "points": 16,
+        "staked": 0
+      }
+    }
   }
 }
