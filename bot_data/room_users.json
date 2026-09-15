@@ -5947,6 +5947,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789475769
+      },
+      "_.s3d": {
+        "username": "_.s3d",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789475890
       }
     },
     "اتكيت": {
