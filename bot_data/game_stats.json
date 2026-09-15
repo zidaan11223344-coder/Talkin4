@@ -713,5 +713,15 @@
         "staked": 0
       }
     }
+  },
+  "basel94": {
+    "username": "basel94",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
