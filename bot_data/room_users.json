@@ -5156,9 +5156,9 @@
       },
       "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ": {
         "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789446117
+        "last_seen": 1789447726
       },
       "attaboy": {
         "username": "attaboy",
@@ -22633,6 +22633,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789446861
+      },
+      "kareem.kareem89": {
+        "username": "kareem.kareem89",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789447726
       }
     },
     "سوريا": {
