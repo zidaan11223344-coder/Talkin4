@@ -218,5 +218,15 @@
         "staked": 0
       }
     }
+  },
+  "⇡⁽ℳ₎⇣": {
+    "username": "⇡⁽ℳ₎⇣",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 50,
+        "staked": 0
+      }
+    }
   }
 }
