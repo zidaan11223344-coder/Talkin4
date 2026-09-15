@@ -11979,6 +11979,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789481792
+      },
+      "abo.wal": {
+        "username": "abo.wal",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789482191
       }
     },
     "بنات_المجرة🎀": {
@@ -21753,6 +21759,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789481158
+      },
+      "gawhara-aljana": {
+        "username": "gawhara-aljana",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789482192
       }
     }
   }
