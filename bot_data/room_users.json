@@ -3123,6 +3123,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789478092
+      },
+      "all-a": {
+        "username": "all-a",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789478324
       }
     },
     "مشاعر": {
