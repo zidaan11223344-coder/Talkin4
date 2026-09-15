@@ -251,6 +251,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "سرعة": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
