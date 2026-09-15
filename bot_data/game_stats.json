@@ -563,5 +563,15 @@
         "staked": 0
       }
     }
+  },
+  "f.a.r.ss": {
+    "username": "f.a.r.ss",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
