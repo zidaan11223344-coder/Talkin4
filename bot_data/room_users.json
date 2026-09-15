@@ -5285,6 +5285,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789467456
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789467685
       }
     },
     "سوريا": {
