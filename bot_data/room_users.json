@@ -326,7 +326,7 @@
         "username": "_bot_",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789501514
+        "last_seen": 1789511432
       },
       "anooooooo": {
         "username": "anooooooo",
@@ -31707,6 +31707,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789511403
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789511433
       }
     }
   }
