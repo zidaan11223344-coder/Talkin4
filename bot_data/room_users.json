@@ -23435,6 +23435,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789504238
+      },
+      "hgcmd": {
+        "username": "hgcmd",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789504546
       }
     },
     "شام": {
