@@ -376,6 +376,11 @@
         "plays": 1,
         "points": 20,
         "staked": 0
+      },
+      "investment": {
+        "plays": 1,
+        "points": 50,
+        "staked": 0
       }
     }
   },
