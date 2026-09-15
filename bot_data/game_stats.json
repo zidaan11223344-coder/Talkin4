@@ -423,5 +423,15 @@
         "staked": 0
       }
     }
+  },
+  "_6fla.": {
+    "username": "_6fla.",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
