@@ -22,6 +22,10 @@
     "بوسني": {
       "trigger": "بوسني",
       "reply": "امووووووواح😘"
+    },
+    "تحبني": {
+      "trigger": "تحبني",
+      "reply": "اه بحبك اموت😊"
     }
   },
   "auto_replies_enabled": true
