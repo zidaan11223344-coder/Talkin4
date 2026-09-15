@@ -373,5 +373,15 @@
         "staked": 0
       }
     }
+  },
+  "𝐍𝐎𝐎𝐑": {
+    "username": "𝐍𝐎𝐎𝐑",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
