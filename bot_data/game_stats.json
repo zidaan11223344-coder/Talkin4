@@ -283,9 +283,9 @@
         "staked": 0
       },
       "صيد": {
-        "plays": 10,
-        "points": 1000,
-        "staked": 5000
+        "plays": 11,
+        "points": 500,
+        "staked": 5500
       },
       "مصارعة": {
         "plays": 1,
@@ -973,6 +973,11 @@
         "staked": 0
       },
       "سرعة": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
+      },
+      "صيد": {
         "plays": 1,
         "points": 500,
         "staked": 500
