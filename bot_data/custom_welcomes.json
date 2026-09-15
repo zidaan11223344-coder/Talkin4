@@ -56,6 +56,10 @@
     "meraalnabd": {
       "username": "meraalnabd",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "جوليا": {
+      "username": "جوليا",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
