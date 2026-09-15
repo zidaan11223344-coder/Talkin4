@@ -266,6 +266,11 @@
         "plays": 1,
         "points": 50,
         "staked": 0
+      },
+      "كنز": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
