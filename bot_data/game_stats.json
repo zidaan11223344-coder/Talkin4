@@ -1083,5 +1083,15 @@
         "staked": 500
       }
     }
+  },
+  "i_gamd_i": {
+    "username": "i_gamd_i",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
