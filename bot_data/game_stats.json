@@ -48,9 +48,9 @@
         "staked": 2000
       },
       "صيد": {
-        "plays": 6,
-        "points": 2000,
-        "staked": 3000
+        "plays": 7,
+        "points": 2500,
+        "staked": 3500
       },
       "steal": {
         "plays": 12,
@@ -288,9 +288,9 @@
         "staked": 0
       },
       "صيد": {
-        "plays": 15,
-        "points": -500,
-        "staked": 7500
+        "plays": 16,
+        "points": -1000,
+        "staked": 8000
       },
       "مصارعة": {
         "plays": 1,
