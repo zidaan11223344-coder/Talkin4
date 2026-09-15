@@ -483,5 +483,15 @@
         "staked": 0
       }
     }
+  },
+  "𝗢²": {
+    "username": "𝗢²",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
