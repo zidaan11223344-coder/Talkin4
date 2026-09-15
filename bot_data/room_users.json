@@ -103,6 +103,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789485027
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789487338
       }
     },
     "ملتقى🥂العرب": {
@@ -9704,7 +9710,7 @@
         "username": "_bot_",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789470227
+        "last_seen": 1789487337
       },
       "anooooooo": {
         "username": "anooooooo",
