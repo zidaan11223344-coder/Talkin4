@@ -196,6 +196,10 @@
     "امال": {
       "username": "امال",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "-natasha-": {
+      "username": "-natasha-",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
