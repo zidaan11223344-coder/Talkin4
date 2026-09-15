@@ -32867,6 +32867,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789515346
+      },
+      "<٠٠٠>": {
+        "username": "<٠٠٠>",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789516627
       }
     }
   }
