@@ -738,5 +738,15 @@
         "staked": 0
       }
     }
+  },
+  "𝓩.₄₄₄": {
+    "username": "𝓩.₄₄₄",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 1000000,
+        "staked": 0
+      }
+    }
   }
 }
