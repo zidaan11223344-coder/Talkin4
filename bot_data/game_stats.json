@@ -1463,7 +1463,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 6,
+        "plays": 7,
         "points": 1000000,
         "staked": 0
       },
@@ -1508,8 +1508,8 @@
         "staked": 0
       },
       "farm": {
-        "plays": 5,
-        "points": 9700,
+        "plays": 6,
+        "points": 10400,
         "staked": 0
       }
     }
