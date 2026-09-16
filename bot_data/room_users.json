@@ -37175,6 +37175,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789555934
+      },
+      "zeed00": {
+        "username": "zeed00",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789556201
       }
     }
   }
