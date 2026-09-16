@@ -34683,6 +34683,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789529509
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789530596
       }
     }
   }
