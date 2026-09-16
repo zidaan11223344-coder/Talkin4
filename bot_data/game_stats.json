@@ -371,6 +371,11 @@
         "plays": 3,
         "points": -500,
         "staked": 1500
+      },
+      "كنز": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -733,9 +738,9 @@
         "staked": 11500
       },
       "كنز": {
-        "plays": 1,
-        "points": 500,
-        "staked": 500
+        "plays": 2,
+        "points": 1000,
+        "staked": 1000
       }
     }
   },
