@@ -7333,6 +7333,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789586113
+      },
+      "y": {
+        "username": "y",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789586233
       }
     }
   }
