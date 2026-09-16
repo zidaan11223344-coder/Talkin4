@@ -11385,6 +11385,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789594059
+      },
+      "all-a": {
+        "username": "all-a",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789594183
       }
     }
   }
