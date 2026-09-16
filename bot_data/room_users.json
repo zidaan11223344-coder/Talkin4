@@ -6972,7 +6972,7 @@
         "username": "<٠٠٠>",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789517790
+        "last_seen": 1789522608
       },
       "ﭑݪــسـيـۦْٰ𓆪ﺂݪمصـرآتـي𓆩ۦْٰـطـرهۂٴ": {
         "username": "ﭑݪــسـيـۦْٰ𓆪ﺂݪمصـرآتـي𓆩ۦْٰـطـرهۂٴ",
@@ -6984,7 +6984,7 @@
         "username": "⎀",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789517790
+        "last_seen": 1789522608
       },
       "__-___": {
         "username": "__-___",
@@ -7026,13 +7026,13 @@
         "username": "_bot_",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789517790
+        "last_seen": 1789522608
       },
       "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
         "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
-        "role": "admin",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789518633
+        "last_seen": 1789522608
       },
       "vivyan": {
         "username": "vivyan",
@@ -7092,7 +7092,7 @@
         "username": "🦉ّ",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789517790
+        "last_seen": 1789522608
       },
       "aboali": {
         "username": "aboali",
@@ -10240,9 +10240,9 @@
       },
       "🃏اﺄلجـٖـــ𖢲͜͡🐲ـ𖢲͜͡ـ͜ـــو̲୭ڪر🃏": {
         "username": "🃏اﺄلجـٖـــ𖢲͜͡🐲ـ𖢲͜͡ـ͜ـــو̲୭ڪر🃏",
-        "role": "member",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789517790
+        "last_seen": 1789522608
       },
       "ڪَميـטּ": {
         "username": "ڪَميـטּ",
@@ -11773,6 +11773,144 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789520253
+      },
+      "-.jerry.-": {
+        "username": "-.jerry.-",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "-7azl2om": {
+        "username": "-7azl2om",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "..pinocchio.-": {
+        "username": "..pinocchio.-",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "..simba..": {
+        "username": "..simba..",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "..toom..": {
+        "username": "..toom..",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".7asona.": {
+        "username": ".7asona.",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".detective.conan.": {
+        "username": ".detective.conan.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".el2rmoty.": {
+        "username": ".el2rmoty.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".el5ala.nosa.": {
+        "username": ".el5ala.nosa.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".elbaz.afandy.": {
+        "username": ".elbaz.afandy.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".elkat3a.": {
+        "username": ".elkat3a.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".mickey_mouse.": {
+        "username": ".mickey_mouse.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".nafady.": {
+        "username": ".nafady.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".ostaz.lemby.": {
+        "username": ".ostaz.lemby.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".popeye.": {
+        "username": ".popeye.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      ".scooby-doo.": {
+        "username": ".scooby-doo.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "3m-b5.": {
+        "username": "3m-b5.",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "b7bk_moot": {
+        "username": "b7bk_moot",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "crazygoledn": {
+        "username": "crazygoledn",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "elbahz..beh": {
+        "username": "elbahz..beh",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "girl_from_another_planet": {
+        "username": "girl_from_another_planet",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "night.fury": {
+        "username": "night.fury",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
+      },
+      "the.polite.girl": {
+        "username": "the.polite.girl",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789522608
       }
     },
     "اتكيت": {
