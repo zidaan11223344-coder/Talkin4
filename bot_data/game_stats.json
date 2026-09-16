@@ -713,8 +713,8 @@
     "username": "perfecto.",
     "games": {
       "million": {
-        "plays": 78,
-        "points": 0,
+        "plays": 79,
+        "points": 1000000,
         "staked": 0
       },
       "luck_free": {
