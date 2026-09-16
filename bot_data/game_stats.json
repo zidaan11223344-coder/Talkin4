@@ -1143,5 +1143,15 @@
         "staked": 0
       }
     }
+  },
+  "iiii.": {
+    "username": "iiii.",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
