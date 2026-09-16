@@ -9789,6 +9789,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789591673
+      },
+      "hgcmd": {
+        "username": "hgcmd",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789591821
       }
     }
   }
