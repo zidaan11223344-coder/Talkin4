@@ -6990,7 +6990,7 @@
         "username": "<٠٠٠>",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789522608
+        "last_seen": 1789524808
       },
       "ﭑݪــسـيـۦْٰ𓆪ﺂݪمصـرآتـي𓆩ۦْٰـطـرهۂٴ": {
         "username": "ﭑݪــسـيـۦْٰ𓆪ﺂݪمصـرآتـي𓆩ۦْٰـطـرهۂٴ",
@@ -7000,9 +7000,9 @@
       },
       "⎀": {
         "username": "⎀",
-        "role": "admin",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789522608
+        "last_seen": 1789524808
       },
       "__-___": {
         "username": "__-___",
@@ -7044,13 +7044,13 @@
         "username": "_bot_",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789522608
+        "last_seen": 1789524808
       },
       "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
         "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
-        "role": "member",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789522608
+        "last_seen": 1789524808
       },
       "vivyan": {
         "username": "vivyan",
@@ -7158,7 +7158,7 @@
         "username": "឵឵ㅤ",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789524454
+        "last_seen": 1789524808
       },
       "zeed00": {
         "username": "zeed00",
@@ -7240,9 +7240,9 @@
       },
       "ۦ•ﻣﺣﻣـِٰـ͢ۦَد◗🇱🇾◖اﻟﻗﯿݪـِٰـ͢ۦَوشـٚيے🦅ۦ": {
         "username": "ۦ•ﻣﺣﻣـِٰـ͢ۦَد◗🇱🇾◖اﻟﻗﯿݪـِٰـ͢ۦَوشـٚيے🦅ۦ",
-        "role": "member",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789464121
+        "last_seen": 1789524808
       },
       "sherwan": {
         "username": "sherwan",
@@ -10260,7 +10260,7 @@
         "username": "🃏اﺄلجـٖـــ𖢲͜͡🐲ـ𖢲͜͡ـ͜ـــو̲୭ڪر🃏",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789522608
+        "last_seen": 1789524808
       },
       "ڪَميـטּ": {
         "username": "ڪَميـטּ",
@@ -11947,6 +11947,48 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789523474
+      },
+      "geilo": {
+        "username": "geilo",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789524808
+      },
+      "i.love.y.y": {
+        "username": "i.love.y.y",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789524808
+      },
+      "اا▒▓█جـنـگيـ°♠°ـزخآن█▓▒اا": {
+        "username": "اا▒▓█جـنـگيـ°♠°ـزخآن█▓▒اا",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789524808
+      },
+      "سيجما": {
+        "username": "سيجما",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789524808
+      },
+      "عـِۘمۘريِ𝇅𝇄𝇃❟ضيِعـٰۡت𝇅𝇄𝇃اެْڪثـۧرۿ̣ﮧᯓ": {
+        "username": "عـِۘمۘريِ𝇅𝇄𝇃❟ضيِعـٰۡت𝇅𝇄𝇃اެْڪثـۧرۿ̣ﮧᯓ",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789524808
+      },
+      "ٱلحقېْڔּۦּاذٱּۦּۄڄدּۦּٱلبدٻڸּۦּنڪڕּۦּٱلچمېْڸ": {
+        "username": "ٱلحقېْڔּۦּاذٱּۦּۄڄدּۦּٱلبدٻڸּۦּنڪڕּۦּٱلچمېْڸ",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789524808
+      },
+      "𑜼": {
+        "username": "𑜼",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789524808
       }
     },
     "اتكيت": {
