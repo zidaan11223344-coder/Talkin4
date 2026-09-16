@@ -12883,6 +12883,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789565031
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789565850
       }
     },
     "اتكيت": {
