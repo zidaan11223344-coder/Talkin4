@@ -35447,6 +35447,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789536477
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789537367
       }
     }
   }
