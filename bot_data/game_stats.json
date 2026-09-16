@@ -201,6 +201,11 @@
         "plays": 1,
         "points": 100,
         "staked": 0
+      },
+      "bet": {
+        "plays": 1,
+        "points": -1000,
+        "staked": 1000
       }
     }
   },
