@@ -8685,6 +8685,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789587061
+      },
+      "al-sfeer": {
+        "username": "al-sfeer",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789587226
       }
     }
   }
