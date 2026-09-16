@@ -11487,6 +11487,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789594183
+      },
+      "sammi": {
+        "username": "sammi",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789594722
       }
     }
   }
