@@ -361,6 +361,11 @@
         "plays": 1,
         "points": 40,
         "staked": 0
+      },
+      "صيد": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -708,9 +713,9 @@
         "staked": 0
       },
       "صيد": {
-        "plays": 8,
-        "points": -1000,
-        "staked": 4000
+        "plays": 9,
+        "points": -500,
+        "staked": 4500
       }
     }
   },
