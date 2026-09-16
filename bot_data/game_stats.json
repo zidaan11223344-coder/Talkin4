@@ -1263,5 +1263,15 @@
         "staked": 0
       }
     }
+  },
+  "دميـہ": {
+    "username": "دميـہ",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
