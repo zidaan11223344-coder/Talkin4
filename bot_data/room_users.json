@@ -33341,6 +33341,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789517670
+      },
+      ".turki.": {
+        "username": ".turki.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789518498
       }
     }
   }
