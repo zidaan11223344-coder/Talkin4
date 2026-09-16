@@ -17913,6 +17913,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789565517
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789565645
       }
     },
     "بنات_المجرة🎀": {
