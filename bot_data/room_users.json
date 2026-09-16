@@ -9765,6 +9765,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789591521
+      },
+      "alfox": {
+        "username": "alfox",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789591613
       }
     }
   }
