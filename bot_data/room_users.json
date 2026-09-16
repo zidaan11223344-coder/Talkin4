@@ -34335,6 +34335,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789525518
+      },
+      "zawia": {
+        "username": "zawia",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789525696
       }
     }
   }
