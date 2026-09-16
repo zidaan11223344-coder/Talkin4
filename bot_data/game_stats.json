@@ -723,9 +723,9 @@
         "staked": 0
       },
       "صيد": {
-        "plays": 18,
-        "points": -2000,
-        "staked": 9000
+        "plays": 19,
+        "points": -1500,
+        "staked": 9500
       },
       "كنز": {
         "plays": 1,
@@ -978,9 +978,9 @@
         "staked": 0
       },
       "صيد": {
-        "plays": 6,
-        "points": 0,
-        "staked": 3000
+        "plays": 7,
+        "points": -500,
+        "staked": 3500
       },
       "misc": {
         "plays": 1,
