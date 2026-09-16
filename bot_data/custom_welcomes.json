@@ -220,6 +220,10 @@
     "december...": {
       "username": "december...",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "taghreeda": {
+      "username": "taghreeda",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
