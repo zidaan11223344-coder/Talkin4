@@ -423,8 +423,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 1,
-        "points": 15,
+        "plays": 2,
+        "points": 30,
         "staked": 0
       },
       "cup": {
