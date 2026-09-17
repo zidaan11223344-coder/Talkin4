@@ -10,5 +10,7 @@
     "قحبه",
     "كلبب",
     "كلبه"
-  ]
+  ],
+  "bot_blocked_users": [],
+  "bot_protection_enabled": true
 }
