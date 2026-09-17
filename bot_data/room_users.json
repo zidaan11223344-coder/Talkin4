@@ -12647,6 +12647,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789606680
+      },
+      "shp_fager": {
+        "username": "shp_fager",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789607110
       }
     }
   }
