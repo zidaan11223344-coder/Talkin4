@@ -513,8 +513,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 37,
-        "points": 2750,
+        "plays": 38,
+        "points": 2830,
         "staked": 0
       },
       "billion": {
@@ -2193,9 +2193,9 @@
         "staked": 6000
       },
       "برق": {
-        "plays": 5,
-        "points": -1500,
-        "staked": 2500
+        "plays": 6,
+        "points": -2000,
+        "staked": 3000
       },
       "كاشف": {
         "plays": 11,
