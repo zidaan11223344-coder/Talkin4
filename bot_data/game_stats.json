@@ -2753,5 +2753,15 @@
         "staked": 0
       }
     }
+  },
+  "arta1234": {
+    "username": "arta1234",
+    "games": {
+      "volcano": {
+        "plays": 1,
+        "points": 30,
+        "staked": 0
+      }
+    }
   }
 }
