@@ -10771,6 +10771,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789612019
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789612634
       }
     },
     "ملتقى🥂العرب": {
