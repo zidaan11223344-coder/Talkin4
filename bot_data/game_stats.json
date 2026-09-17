@@ -1108,9 +1108,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 3,
-        "points": 500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       }
     }
   },
@@ -1638,8 +1638,8 @@
         "staked": 1000
       },
       "rps": {
-        "plays": 8,
-        "points": 70,
+        "plays": 9,
+        "points": 85,
         "staked": 0
       },
       "farm": {
@@ -1688,9 +1688,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 6,
-        "points": 1000,
-        "staked": 3000
+        "plays": 7,
+        "points": 1500,
+        "staked": 3500
       },
       "ياقوت": {
         "plays": 1,
