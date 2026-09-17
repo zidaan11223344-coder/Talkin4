@@ -13,9 +13,9 @@
         "staked": 0
       },
       "bet": {
-        "plays": 5,
-        "points": 4000,
-        "staked": 24000
+        "plays": 6,
+        "points": -6000,
+        "staked": 34000
       },
       "rps": {
         "plays": 15,
@@ -1768,9 +1768,9 @@
         "staked": 500
       },
       "bet": {
-        "plays": 2,
-        "points": 9000,
-        "staked": 11000
+        "plays": 3,
+        "points": 19000,
+        "staked": 21000
       },
       "كاشف": {
         "plays": 6,
