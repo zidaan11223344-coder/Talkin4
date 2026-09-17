@@ -508,7 +508,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 86,
+        "plays": 87,
         "points": 1000000000,
         "staked": 0
       },
@@ -2223,7 +2223,7 @@
         "staked": 400
       },
       "coin": {
-        "plays": 2,
+        "plays": 3,
         "points": 400,
         "staked": 0
       },
