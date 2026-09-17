@@ -1313,9 +1313,9 @@
         "staked": 6000
       },
       "صدام": {
-        "plays": 7,
-        "points": 2500,
-        "staked": 3500
+        "plays": 8,
+        "points": 2000,
+        "staked": 4000
       },
       "billion": {
         "plays": 1,
@@ -2148,9 +2148,9 @@
         "staked": 2500
       },
       "صدام": {
-        "plays": 4,
-        "points": -1000,
-        "staked": 2000
+        "plays": 5,
+        "points": -500,
+        "staked": 2500
       },
       "luck_free": {
         "plays": 3,
