@@ -248,6 +248,10 @@
     "vi@wat_een": {
       "username": "vi@wat_een",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "wat_een": {
+      "username": "wat_een",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
