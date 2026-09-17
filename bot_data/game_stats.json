@@ -1978,9 +1978,9 @@
         "staked": 1500
       },
       "luck": {
-        "plays": 3,
-        "points": 20000,
-        "staked": 50000
+        "plays": 4,
+        "points": 10000,
+        "staked": 60000
       }
     }
   },
