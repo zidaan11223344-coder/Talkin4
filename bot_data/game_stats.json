@@ -473,9 +473,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 21,
-        "points": -500,
-        "staked": 10500
+        "plays": 22,
+        "points": -1000,
+        "staked": 11000
       },
       "برق": {
         "plays": 28,
@@ -503,8 +503,8 @@
         "staked": 900
       },
       "volcano": {
-        "plays": 13,
-        "points": 1090,
+        "plays": 14,
+        "points": 1150,
         "staked": 0
       },
       "monster": {
