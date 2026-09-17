@@ -1511,6 +1511,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "صدام": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -2113,9 +2118,9 @@
         "staked": 500
       },
       "صدام": {
-        "plays": 2,
-        "points": -1000,
-        "staked": 1000
+        "plays": 3,
+        "points": -500,
+        "staked": 1500
       }
     }
   },
