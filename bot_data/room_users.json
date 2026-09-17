@@ -22435,6 +22435,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789649310
+      },
+      "sammi": {
+        "username": "sammi",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789649593
       }
     }
   }
