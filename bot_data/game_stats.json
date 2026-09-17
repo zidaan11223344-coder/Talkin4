@@ -2361,6 +2361,11 @@
         "plays": 1,
         "points": 2000,
         "staked": 0
+      },
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   }
