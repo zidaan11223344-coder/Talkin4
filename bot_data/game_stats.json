@@ -2161,6 +2161,11 @@
         "plays": 1,
         "points": 100,
         "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
