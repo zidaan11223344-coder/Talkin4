@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "generated_at": 1789680571,
+  "files": {
+    "blocked_rooms.json": {
+      "sha256": "2db52d0a788c7bbfc420779179155ef7f65e4c1b9a8c8e2c2881365935bbb5c7",
+      "bytes": 307
+    },
+    "crop_plots.json": {
+      "sha256": "c475aead11a1107f035020c7c2cf59955c43015dfe3bd4eaf25bd99a5c9028b7",
+      "bytes": 896
+    },
+    "custom_welcomes.json": {
+      "sha256": "de0cf1a48d75ec29c92f72e7c799afdea0372017c7d7403e9ebd8af0175959d3",
+      "bytes": 12547
+    },
+    "game_control.json": {
+      "sha256": "84e8129a97f8f207ef4b127794fd560932f859feac9fa3a56f23fd565d39d017",
+      "bytes": 52
+    },
+    "game_levels.json": {
+      "sha256": "a3ae49efb891a666979d4c5fe45f0a98510b889e84b4551b48b5ccdee0916f43",
+      "bytes": 22983
+    },
+    "game_stats.json": {
+      "sha256": "e54d7573b60ba523d0cec9f09ad3947de55025ec35bf6aa0ef0ed5e63d6a3e93",
+      "bytes": 54195
+    },
+    "masters.json": {
+      "sha256": "31026874baa9f83e2d9c6875db1bebca93da130d44dfbab1e38cfb1d24d254ed",
+      "bytes": 155
+    },
+    "messages.json": {
+      "sha256": "3f25a47e35a881dcbc007a8ca0b2597a2e3b1ae84401bfb35527d993825e41c8",
+      "bytes": 5993
+    },
+    "mf.json": {
+      "sha256": "3dd60d2e3f96d8b77b65631c35ac2aa69022542ba5f833e21d70a27eac921412",
+      "bytes": 199
+    },
+    "moderation.json": {
+      "sha256": "545eae8e7dbb0f6c5e68a065a1d7f67a0b90bdb3cb414319dec04744e22da97a",
+      "bytes": 260
+    },
+    "mvip_masters.json": {
+      "sha256": "d4e4cc5f29a15cf46016d5ad43f16dc7572ceb6aa628a31cfbcb5e299c9536a2",
+      "bytes": 249
+    },
+    "points.json": {
+      "sha256": "4af29c86a33beeefcd53883392a84ef5d9950b75c66cf13a4899485c51e6648a",
+      "bytes": 8746
+    },
+    "published_posts.json": {
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "bytes": 3
+    },
+    "replies.json": {
+      "sha256": "9d61422bb8fb48a296d70caa94081b98d1545b501742af1ab1d2447ba0cfc482",
+      "bytes": 1873
+    },
+    "room_users.json": {
+      "sha256": "f22040d682a4d61e68a11141ceeb6878779560f5c97470a317f36b0462518f43",
+      "bytes": 984553
+    },
+    "tracked_rooms.json": {
+      "sha256": "f1b9013c1c82cc6a21b2d160f564fed2848cb966ea0870a92f1a6c0d49f7acd9",
+      "bytes": 742
+    },
+    "verified_users.json": {
+      "sha256": "03118c236ec7ef772084b355d32de93a0a482ac4c37dabbe0a35c7907a16f4ad",
+      "bytes": 258160
+    },
+    "vip_users.json": {
+      "sha256": "62aa61fdea7b426e7f16d4b3a96a18173787024057f04856d7be973fe4828795",
+      "bytes": 15408
+    },
+    "wager_state.json": {
+      "sha256": "c96c64ff050cc289a516e56b97c1bde4f759c655c03a804dd71bab462b137122",
+      "bytes": 23
+    }
+  }
+}
