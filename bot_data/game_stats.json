@@ -358,8 +358,8 @@
         "staked": 500
       },
       "coin": {
-        "plays": 1,
-        "points": 40,
+        "plays": 2,
+        "points": 80,
         "staked": 0
       }
     }
