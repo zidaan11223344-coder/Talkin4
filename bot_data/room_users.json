@@ -22939,6 +22939,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789656772
+      },
+      "white_fang": {
+        "username": "white_fang",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789657504
       }
     }
   }
