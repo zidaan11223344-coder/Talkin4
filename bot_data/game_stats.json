@@ -866,6 +866,11 @@
         "plays": 1,
         "points": 25,
         "staked": 0
+      },
+      "star": {
+        "plays": 1,
+        "points": 30,
+        "staked": 0
       }
     }
   },
