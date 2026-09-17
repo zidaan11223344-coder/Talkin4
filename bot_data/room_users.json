@@ -14857,6 +14857,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789618041
+      },
+      "fares.com": {
+        "username": "fares.com",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789618261
       }
     }
   }
