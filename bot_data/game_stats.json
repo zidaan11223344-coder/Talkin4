@@ -2171,6 +2171,11 @@
         "plays": 1,
         "points": 200,
         "staked": 0
+      },
+      "wheel": {
+        "plays": 1,
+        "points": 60,
+        "staked": 0
       }
     }
   },
