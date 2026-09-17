@@ -386,6 +386,11 @@
         "plays": 1,
         "points": 40,
         "staked": 0
+      },
+      "monster": {
+        "plays": 1,
+        "points": 80,
+        "staked": 0
       }
     }
   },
@@ -501,6 +506,11 @@
         "plays": 1,
         "points": 500,
         "staked": 500
+      },
+      "wheel": {
+        "plays": 1,
+        "points": 10,
+        "staked": 0
       }
     }
   },
