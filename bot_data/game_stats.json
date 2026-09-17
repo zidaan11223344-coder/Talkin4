@@ -1691,6 +1691,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -2173,9 +2178,9 @@
         "staked": 3000
       },
       "برق": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": -1000,
+        "staked": 2000
       },
       "كاشف": {
         "plays": 8,
