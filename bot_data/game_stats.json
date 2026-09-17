@@ -141,6 +141,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 200,
+        "staked": 200
       }
     }
   },
