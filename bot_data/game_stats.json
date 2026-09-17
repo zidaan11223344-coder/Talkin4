@@ -2391,6 +2391,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 150,
+        "staked": 0
       }
     }
   }
