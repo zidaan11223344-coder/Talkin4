@@ -78,7 +78,7 @@
         "staked": 3500
       },
       "monster": {
-        "plays": 4,
+        "plays": 5,
         "points": 200,
         "staked": 0
       },
@@ -138,8 +138,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 2,
-        "points": 0,
+        "plays": 3,
+        "points": 50,
         "staked": 0
       },
       "طاولة": {
