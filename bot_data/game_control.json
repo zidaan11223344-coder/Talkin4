@@ -1,6 +1,4 @@
 {
-  "disabled_rooms": [
-    "اتكيت"
-  ],
+  "disabled_rooms": [],
   "global_enabled": true
 }
