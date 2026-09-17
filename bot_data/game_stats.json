@@ -448,9 +448,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 7,
-        "points": -2500,
-        "staked": 3500
+        "plays": 8,
+        "points": -2000,
+        "staked": 4000
       },
       "برق": {
         "plays": 8,
@@ -2393,9 +2393,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 2,
-        "points": -1000,
-        "staked": 1000
+        "plays": 3,
+        "points": -1500,
+        "staked": 1500
       },
       "coin": {
         "plays": 1,
