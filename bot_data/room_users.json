@@ -23035,6 +23035,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789658864
+      },
+      "sharpl": {
+        "username": "sharpl",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789659244
       }
     }
   }
