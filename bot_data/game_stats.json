@@ -483,9 +483,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 1,
-        "points": 5000,
-        "staked": 5000
+        "plays": 2,
+        "points": 0,
+        "staked": 10000
       }
     }
   },
@@ -1103,9 +1103,9 @@
         "staked": 1000
       },
       "كاشف": {
-        "plays": 4,
-        "points": 0,
-        "staked": 2000
+        "plays": 5,
+        "points": -500,
+        "staked": 2500
       },
       "صدام": {
         "plays": 4,
@@ -1968,9 +1968,9 @@
         "staked": 1000
       },
       "كاشف": {
-        "plays": 2,
-        "points": 1000,
-        "staked": 1000
+        "plays": 3,
+        "points": 1500,
+        "staked": 1500
       },
       "luck": {
         "plays": 3,
