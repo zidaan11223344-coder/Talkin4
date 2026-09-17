@@ -12261,6 +12261,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789603430
+      },
+      "..-shahd-..": {
+        "username": "..-shahd-..",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789603538
       }
     }
   }
