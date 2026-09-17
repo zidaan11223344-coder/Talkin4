@@ -496,6 +496,11 @@
         "plays": 6,
         "points": 160,
         "staked": 0
+      },
+      "سنارة": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
