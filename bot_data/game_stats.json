@@ -766,6 +766,11 @@
         "plays": 1,
         "points": 200,
         "staked": 200
+      },
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -2088,7 +2093,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 14,
+        "plays": 15,
         "points": 1000000,
         "staked": 0
       },
