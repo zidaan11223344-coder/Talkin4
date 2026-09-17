@@ -583,7 +583,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 51,
+        "plays": 52,
         "points": 3000000,
         "staked": 0
       },
@@ -603,9 +603,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 9,
-        "points": -4000,
-        "staked": 4500
+        "plays": 10,
+        "points": -4500,
+        "staked": 5000
       },
       "luck_free": {
         "plays": 12,
@@ -1948,9 +1948,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 50,
-        "points": 3500,
-        "staked": 25000
+        "plays": 51,
+        "points": 4000,
+        "staked": 25500
       },
       "كنز": {
         "plays": 2,
