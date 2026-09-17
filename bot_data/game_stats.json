@@ -63,9 +63,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 9,
-        "points": 2500,
-        "staked": 4500
+        "plays": 10,
+        "points": 3000,
+        "staked": 5000
       },
       "صدام": {
         "plays": 3,
@@ -1733,9 +1733,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 13,
-        "points": -2500,
-        "staked": 6500
+        "plays": 14,
+        "points": -3000,
+        "staked": 7000
       },
       "luck": {
         "plays": 3,
