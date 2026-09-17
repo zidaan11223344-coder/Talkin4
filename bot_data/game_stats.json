@@ -146,6 +146,11 @@
         "plays": 1,
         "points": 50,
         "staked": 0
+      },
+      "box": {
+        "plays": 1,
+        "points": 200,
+        "staked": 0
       }
     }
   },
