@@ -486,6 +486,11 @@
         "plays": 4,
         "points": 80,
         "staked": 0
+      },
+      "كاشف": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
