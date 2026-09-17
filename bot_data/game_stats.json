@@ -2673,5 +2673,15 @@
         "staked": 0
       }
     }
+  },
+  "rjl_libe": {
+    "username": "rjl_libe",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 20,
+        "staked": 0
+      }
+    }
   }
 }
