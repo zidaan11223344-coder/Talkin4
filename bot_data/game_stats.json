@@ -761,6 +761,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 200,
+        "staked": 200
       }
     }
   },
