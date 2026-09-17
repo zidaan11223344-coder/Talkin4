@@ -1563,8 +1563,8 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 1,
-        "points": 1,
+        "plays": 2,
+        "points": 2,
         "staked": 100
       }
     }
@@ -1768,7 +1768,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 1,
+        "plays": 2,
         "points": 0,
         "staked": 0
       },
