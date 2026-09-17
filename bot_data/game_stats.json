@@ -53,9 +53,9 @@
         "staked": 3500
       },
       "steal": {
-        "plays": 14,
-        "points": 500,
-        "staked": 7000
+        "plays": 15,
+        "points": 1000,
+        "staked": 7500
       },
       "بحث": {
         "plays": 1,
@@ -2098,6 +2098,16 @@
         "staked": 500
       },
       "برق": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
+      }
+    }
+  },
+  "〝ڸحــ̝̚ـاڷــې⇜دﯡڵــ̝̚ــــہ〞": {
+    "username": "〝ڸحــ̝̚ـاڷــې⇜دﯡڵــ̝̚ــــہ〞",
+    "games": {
+      "steal": {
         "plays": 1,
         "points": -500,
         "staked": 500
