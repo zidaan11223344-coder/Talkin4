@@ -493,7 +493,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 28,
+        "plays": 29,
         "points": 0,
         "staked": 0
       },
@@ -523,9 +523,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 35,
-        "points": 117000,
-        "staked": 144000
+        "plays": 36,
+        "points": 125000,
+        "staked": 146000
       },
       "farm": {
         "plays": 1,
