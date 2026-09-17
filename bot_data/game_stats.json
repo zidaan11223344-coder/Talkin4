@@ -2288,8 +2288,8 @@
         "staked": 100
       },
       "farm": {
-        "plays": 1,
-        "points": 10000,
+        "plays": 2,
+        "points": 11000,
         "staked": 0
       }
     }
