@@ -698,9 +698,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 2,
-        "points": -11000,
-        "staked": 11000
+        "plays": 3,
+        "points": -2000,
+        "staked": 12000
       },
       "bird": {
         "plays": 1,
