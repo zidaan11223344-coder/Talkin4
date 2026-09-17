@@ -698,9 +698,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 1,
-        "points": -1000,
-        "staked": 1000
+        "plays": 2,
+        "points": -11000,
+        "staked": 11000
       }
     }
   },
