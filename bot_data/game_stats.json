@@ -523,9 +523,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 10,
+        "plays": 11,
         "points": 26000,
-        "staked": 35000
+        "staked": 45000
       },
       "farm": {
         "plays": 1,
