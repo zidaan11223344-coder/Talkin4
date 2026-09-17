@@ -91,6 +91,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "bird": {
+        "plays": 1,
+        "points": 75,
+        "staked": 0
       }
     }
   },
@@ -433,9 +438,9 @@
         "staked": 500
       },
       "طاولة": {
-        "plays": 1,
-        "points": 1,
-        "staked": 0
+        "plays": 2,
+        "points": 2,
+        "staked": 100
       },
       "volcano": {
         "plays": 6,
