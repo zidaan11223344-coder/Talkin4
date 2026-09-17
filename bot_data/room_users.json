@@ -18243,6 +18243,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789632901
+      },
+      "اوسكار": {
+        "username": "اوسكار",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789633064
       }
     }
   }
