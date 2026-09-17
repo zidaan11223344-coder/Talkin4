@@ -506,6 +506,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "برق": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
