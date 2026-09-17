@@ -1996,6 +1996,11 @@
         "plays": 2,
         "points": 0,
         "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 1,
+        "staked": 100
       }
     }
   }
