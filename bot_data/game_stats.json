@@ -668,8 +668,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 14,
-        "points": 470,
+        "plays": 15,
+        "points": 520,
         "staked": 0
       },
       "rps": {
@@ -2223,7 +2223,7 @@
         "staked": 1000
       },
       "star": {
-        "plays": 9,
+        "plays": 10,
         "points": 870,
         "staked": 0
       },
