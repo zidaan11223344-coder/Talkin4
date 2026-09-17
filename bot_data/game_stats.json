@@ -498,7 +498,7 @@
         "staked": 4500
       },
       "طاولة": {
-        "plays": 12,
+        "plays": 13,
         "points": 802,
         "staked": 900
       },
@@ -2193,9 +2193,9 @@
         "staked": 6500
       },
       "برق": {
-        "plays": 6,
-        "points": -2000,
-        "staked": 3000
+        "plays": 7,
+        "points": -2500,
+        "staked": 3500
       },
       "كاشف": {
         "plays": 11,
