@@ -133,8 +133,8 @@
         "staked": 1000
       },
       "volcano": {
-        "plays": 1,
-        "points": 200,
+        "plays": 2,
+        "points": 400,
         "staked": 0
       },
       "star": {
