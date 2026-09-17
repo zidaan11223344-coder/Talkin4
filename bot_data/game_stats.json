@@ -388,8 +388,8 @@
         "staked": 0
       },
       "monster": {
-        "plays": 3,
-        "points": 80,
+        "plays": 4,
+        "points": 160,
         "staked": 0
       },
       "wheel": {
@@ -1553,8 +1553,8 @@
         "staked": 1000
       },
       "rps": {
-        "plays": 7,
-        "points": 55,
+        "plays": 8,
+        "points": 70,
         "staked": 0
       },
       "farm": {
