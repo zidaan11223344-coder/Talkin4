@@ -32833,6 +32833,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789680940
+      },
+      "almystro": {
+        "username": "almystro",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789681002
       }
     }
   }
