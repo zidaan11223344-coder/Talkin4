@@ -2021,6 +2021,11 @@
         "plays": 1,
         "points": 1,
         "staked": 100
+      },
+      "farm": {
+        "plays": 1,
+        "points": 2000,
+        "staked": 0
       }
     }
   }
