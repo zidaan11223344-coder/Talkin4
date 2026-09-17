@@ -603,9 +603,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 2,
-        "points": -1000,
-        "staked": 1000
+        "plays": 3,
+        "points": -1500,
+        "staked": 1500
       },
       "luck_free": {
         "plays": 7,
@@ -2103,9 +2103,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 16,
-        "points": 500,
-        "staked": 8000
+        "plays": 17,
+        "points": 1000,
+        "staked": 8500
       },
       "farm": {
         "plays": 13,
