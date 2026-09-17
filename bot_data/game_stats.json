@@ -3,9 +3,9 @@
     "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
     "games": {
       "luck": {
-        "plays": 13,
-        "points": 2011700,
-        "staked": 2036300
+        "plays": 14,
+        "points": 2010700,
+        "staked": 2037300
       },
       "million": {
         "plays": 57,
@@ -2086,6 +2086,11 @@
         "plays": 3,
         "points": 0,
         "staked": 0
+      },
+      "luck": {
+        "plays": 1,
+        "points": 1000,
+        "staked": 1000
       }
     }
   },
