@@ -18659,6 +18659,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789635707
+      },
+      "kt": {
+        "username": "kt",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789635799
       }
     }
   }
