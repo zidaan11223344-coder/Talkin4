@@ -96,6 +96,11 @@
         "plays": 1,
         "points": 75,
         "staked": 0
+      },
+      "stock": {
+        "plays": 1,
+        "points": 150,
+        "staked": 0
       }
     }
   },
