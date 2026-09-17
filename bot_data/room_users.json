@@ -13229,6 +13229,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789612613
+      },
+      "perfecto.": {
+        "username": "perfecto.",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789612715
       }
     }
   }
