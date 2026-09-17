@@ -541,6 +541,11 @@
         "plays": 1,
         "points": 1,
         "staked": 0
+      },
+      "سنارة": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
@@ -1553,9 +1558,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 1,
-        "points": -500,
-        "staked": 500
+        "plays": 2,
+        "points": -1000,
+        "staked": 1000
       },
       "luck": {
         "plays": 1,
