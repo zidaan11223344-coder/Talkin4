@@ -22585,6 +22585,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789652163
+      },
+      "fighter01": {
+        "username": "fighter01",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789652173
       }
     }
   }
