@@ -493,9 +493,9 @@
         "staked": 15000
       },
       "برق": {
-        "plays": 35,
-        "points": 1500,
-        "staked": 17500
+        "plays": 36,
+        "points": 2000,
+        "staked": 18000
       },
       "coin": {
         "plays": 8,
@@ -563,9 +563,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 95,
-        "points": 144000,
-        "staked": 437000
+        "plays": 96,
+        "points": 152000,
+        "staked": 439000
       },
       "farm": {
         "plays": 7,
@@ -1288,9 +1288,9 @@
         "staked": 500
       },
       "برق": {
-        "plays": 3,
-        "points": 500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       },
       "كاشف": {
         "plays": 2,
