@@ -78,7 +78,7 @@
         "staked": 4000
       },
       "monster": {
-        "plays": 9,
+        "plays": 10,
         "points": 7341,
         "staked": 0
       },
@@ -733,8 +733,8 @@
         "staked": 0
       },
       "farm": {
-        "plays": 11,
-        "points": 65000,
+        "plays": 12,
+        "points": 70000,
         "staked": 0
       },
       "luck": {
