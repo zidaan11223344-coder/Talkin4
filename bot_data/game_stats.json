@@ -226,6 +226,11 @@
         "plays": 1,
         "points": 500,
         "staked": 500
+      },
+      "صدام": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -513,9 +518,9 @@
         "staked": 0
       },
       "صدام": {
-        "plays": 11,
-        "points": -2500,
-        "staked": 5500
+        "plays": 12,
+        "points": -2000,
+        "staked": 6000
       },
       "كاشف": {
         "plays": 13,
@@ -573,9 +578,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 108,
-        "points": 188000,
-        "staked": 463000
+        "plays": 109,
+        "points": 186000,
+        "staked": 465000
       },
       "farm": {
         "plays": 7,
