@@ -280,6 +280,10 @@
     "ayhabbb": {
       "username": "ayhabbb",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "rmadi.": {
+      "username": "rmadi.",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
