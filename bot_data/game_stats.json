@@ -513,9 +513,9 @@
         "staked": 0
       },
       "صدام": {
-        "plays": 10,
-        "points": -2000,
-        "staked": 5000
+        "plays": 11,
+        "points": -2500,
+        "staked": 5500
       },
       "كاشف": {
         "plays": 12,
@@ -528,8 +528,8 @@
         "staked": 22397
       },
       "volcano": {
-        "plays": 29,
-        "points": 23759,
+        "plays": 30,
+        "points": 26816,
         "staked": 0
       },
       "monster": {
@@ -2388,9 +2388,9 @@
         "staked": 8000
       },
       "صدام": {
-        "plays": 11,
-        "points": 500,
-        "staked": 5500
+        "plays": 12,
+        "points": 1000,
+        "staked": 6000
       },
       "luck_free": {
         "plays": 24,
