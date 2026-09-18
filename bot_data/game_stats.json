@@ -1628,7 +1628,7 @@
     "username": "فـ⃝🧚🏻ـانــ†ــا",
     "games": {
       "million": {
-        "plays": 177,
+        "plays": 178,
         "points": 3000000,
         "staked": 0
       },
@@ -2178,8 +2178,8 @@
         "staked": 0
       },
       "billion": {
-        "plays": 45,
-        "points": 0,
+        "plays": 46,
+        "points": 1000000000,
         "staked": 0
       },
       "سنارة": {
@@ -2198,8 +2198,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 93,
-        "points": 4400,
+        "plays": 94,
+        "points": 4410,
         "staked": 0
       },
       "box": {
