@@ -83,9 +83,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 7,
-        "points": -500,
-        "staked": 3500
+        "plays": 8,
+        "points": 0,
+        "staked": 4000
       },
       "cup": {
         "plays": 4,
@@ -553,9 +553,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 85,
-        "points": 114000,
-        "staked": 417000
+        "plays": 86,
+        "points": 122000,
+        "staked": 419000
       },
       "farm": {
         "plays": 7,
