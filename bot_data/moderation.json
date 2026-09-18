@@ -12,7 +12,7 @@
     "كلبه"
   ],
   "bot_blocked_users": [],
-  "bot_protection_enabled": true,
+  "bot_protection_enabled": false,
   "rooms": {
     "ملتقى🥂العرب": {
       "enabled": false,
