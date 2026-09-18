@@ -637,6 +637,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789690901
+      },
+      "s-boot": {
+        "username": "s-boot",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789691159
       }
     },
     "سوريا": {
