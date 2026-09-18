@@ -11,7 +11,9 @@
     "كلبب",
     "كلبه"
   ],
-  "bot_blocked_users": [],
+  "bot_blocked_users": [
+    "ɱ"
+  ],
   "bot_protection_enabled": true,
   "rooms": {
     "ملتقى🥂العرب": {
