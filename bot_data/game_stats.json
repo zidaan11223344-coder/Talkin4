@@ -2111,6 +2111,11 @@
         "plays": 1,
         "points": 10000,
         "staked": 10000
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 3192,
+        "staked": 0
       }
     }
   },
