@@ -758,14 +758,14 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 20,
-        "points": 0,
-        "staked": 10000
+        "plays": 21,
+        "points": 500,
+        "staked": 10500
       },
       "برق": {
-        "plays": 12,
-        "points": -1000,
-        "staked": 6000
+        "plays": 13,
+        "points": -500,
+        "staked": 6500
       },
       "volcano": {
         "plays": 22,
@@ -1438,14 +1438,14 @@
         "staked": 0
       },
       "برق": {
-        "plays": 19,
-        "points": -500,
-        "staked": 9500
+        "plays": 20,
+        "points": -1000,
+        "staked": 10000
       },
       "سنارة": {
-        "plays": 9,
-        "points": -1500,
-        "staked": 4500
+        "plays": 10,
+        "points": -2000,
+        "staked": 5000
       },
       "luck_free": {
         "plays": 10,
