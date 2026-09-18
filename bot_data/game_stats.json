@@ -2026,6 +2026,11 @@
         "plays": 1,
         "points": 30,
         "staked": 0
+      },
+      "rps": {
+        "plays": 1,
+        "points": 200,
+        "staked": 0
       }
     }
   },
