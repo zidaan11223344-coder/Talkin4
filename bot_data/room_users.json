@@ -18385,6 +18385,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789740917
+      },
+      "--broken--": {
+        "username": "--broken--",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789742292
       }
     },
     "دمشق": {
