@@ -2363,7 +2363,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 39,
+        "plays": 40,
         "points": 0,
         "staked": 0
       },
@@ -3008,9 +3008,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 50,
+        "plays": 51,
         "points": 0,
-        "staked": 25000
+        "staked": 25500
       },
       "star": {
         "plays": 1,
