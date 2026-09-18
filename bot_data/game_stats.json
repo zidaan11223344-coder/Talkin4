@@ -1753,9 +1753,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": -1000,
+        "staked": 2000
       },
       "ياقوت": {
         "plays": 1,
@@ -2198,9 +2198,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 22,
-        "points": -5000,
-        "staked": 11000
+        "plays": 23,
+        "points": -4500,
+        "staked": 11500
       },
       "luck": {
         "plays": 4,
