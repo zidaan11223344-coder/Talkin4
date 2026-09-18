@@ -2113,9 +2113,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 64,
+        "plays": 65,
         "points": 4500,
-        "staked": 32000
+        "staked": 32500
       },
       "كنز": {
         "plays": 2,
@@ -2163,8 +2163,8 @@
         "staked": 0
       },
       "box": {
-        "plays": 20,
-        "points": 2815,
+        "plays": 21,
+        "points": 7744,
         "staked": 0
       },
       "طاولة": {
