@@ -1658,9 +1658,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 45,
+        "plays": 46,
         "points": -500,
-        "staked": 22500
+        "staked": 23000
       },
       "rps": {
         "plays": 2,
@@ -2243,9 +2243,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 16,
-        "points": -1000,
-        "staked": 8000
+        "plays": 17,
+        "points": -1500,
+        "staked": 8500
       },
       "ياقوت": {
         "plays": 11,
@@ -2378,9 +2378,9 @@
         "staked": 6500
       },
       "برق": {
-        "plays": 8,
-        "points": -3000,
-        "staked": 4000
+        "plays": 9,
+        "points": -2500,
+        "staked": 4500
       },
       "كاشف": {
         "plays": 16,
