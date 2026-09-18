@@ -1628,9 +1628,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 35,
+        "plays": 36,
         "points": 500,
-        "staked": 17500
+        "staked": 18000
       },
       "rps": {
         "plays": 1,
@@ -1638,13 +1638,13 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 18,
-        "points": 3000,
-        "staked": 9000
+        "plays": 19,
+        "points": 3500,
+        "staked": 9500
       },
       "luck_free": {
-        "plays": 18,
-        "points": 640,
+        "plays": 19,
+        "points": 690,
         "staked": 0
       },
       "cup": {
@@ -1726,6 +1726,11 @@
         "plays": 1,
         "points": 500,
         "staked": 0
+      },
+      "سنارة": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
