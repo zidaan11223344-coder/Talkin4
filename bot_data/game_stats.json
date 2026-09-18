@@ -688,13 +688,13 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 70,
+        "plays": 71,
         "points": 1000000,
         "staked": 0
       },
       "luck_free": {
-        "plays": 72,
-        "points": 2710,
+        "plays": 73,
+        "points": 2720,
         "staked": 0
       },
       "rps": {
@@ -1583,7 +1583,7 @@
     "username": "فـ⃝🧚🏻ـانــ†ــا",
     "games": {
       "million": {
-        "plays": 126,
+        "plays": 127,
         "points": 1000000,
         "staked": 0
       },
