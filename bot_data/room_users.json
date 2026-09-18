@@ -6951,6 +6951,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789697686
+      },
+      "wanted": {
+        "username": "wanted",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789697696
       }
     }
   }
