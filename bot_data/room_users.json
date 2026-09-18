@@ -721,6 +721,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789700231
+      },
+      "taymor": {
+        "username": "taymor",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789701607
       }
     },
     "سوريا": {
@@ -950,7 +956,7 @@
         "username": "ℳ",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789701007
+        "last_seen": 1789701606
       },
       "فلسطين": {
         "username": "فلسطين",
