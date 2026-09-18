@@ -1273,9 +1273,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 4,
-        "points": -1000,
-        "staked": 2000
+        "plays": 5,
+        "points": -1500,
+        "staked": 2500
       },
       "bird": {
         "plays": 1,
@@ -2143,9 +2143,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 19,
-        "points": -4500,
-        "staked": 9500
+        "plays": 20,
+        "points": -4000,
+        "staked": 10000
       },
       "luck": {
         "plays": 4,
