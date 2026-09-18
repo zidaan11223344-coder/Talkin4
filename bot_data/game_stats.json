@@ -643,9 +643,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 32,
-        "points": -5000,
-        "staked": 16000
+        "plays": 33,
+        "points": -5500,
+        "staked": 16500
       },
       "luck_free": {
         "plays": 29,
@@ -2153,9 +2153,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 71,
-        "points": 4000,
-        "staked": 35500
+        "plays": 72,
+        "points": 4500,
+        "staked": 36000
       },
       "كنز": {
         "plays": 2,
