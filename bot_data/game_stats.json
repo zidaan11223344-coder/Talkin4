@@ -693,9 +693,9 @@
         "staked": 1000
       },
       "steal": {
-        "plays": 3,
+        "plays": 4,
         "points": -1000,
-        "staked": 1500
+        "staked": 2000
       },
       "luck_free": {
         "plays": 1,
