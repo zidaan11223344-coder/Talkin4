@@ -11026,9 +11026,9 @@
       },
       "مجود": {
         "username": "مجود",
-        "role": "owner",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1789761527
+        "last_seen": 1789765842
       },
       "7ramia": {
         "username": "7ramia",
@@ -17999,6 +17999,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789765746
+      },
+      "taghreeda.metnaket.alshat": {
+        "username": "taghreeda.metnaket.alshat",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789765840
       }
     },
     "سوريانا": {
