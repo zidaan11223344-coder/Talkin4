@@ -2923,6 +2923,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789693622
+      },
+      "ادم": {
+        "username": "ادم",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789694136
       }
     }
   }
