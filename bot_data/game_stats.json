@@ -518,9 +518,9 @@
         "staked": 21000
       },
       "برق": {
-        "plays": 41,
-        "points": 1500,
-        "staked": 20500
+        "plays": 42,
+        "points": 2000,
+        "staked": 21000
       },
       "coin": {
         "plays": 8,
@@ -528,9 +528,9 @@
         "staked": 0
       },
       "صدام": {
-        "plays": 15,
-        "points": -3500,
-        "staked": 7500
+        "plays": 16,
+        "points": -4000,
+        "staked": 8000
       },
       "كاشف": {
         "plays": 17,
@@ -2323,9 +2323,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 18,
-        "points": -1000,
-        "staked": 9000
+        "plays": 19,
+        "points": -1500,
+        "staked": 9500
       },
       "ياقوت": {
         "plays": 20,
@@ -2343,9 +2343,9 @@
         "staked": 7500
       },
       "صدام": {
-        "plays": 3,
-        "points": 500,
-        "staked": 1500
+        "plays": 4,
+        "points": 1000,
+        "staked": 2000
       },
       "stock": {
         "plays": 5,
