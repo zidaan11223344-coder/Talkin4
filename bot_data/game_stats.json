@@ -543,8 +543,8 @@
         "staked": 22397
       },
       "volcano": {
-        "plays": 33,
-        "points": 33774,
+        "plays": 34,
+        "points": 38218,
         "staked": 0
       },
       "monster": {
@@ -568,9 +568,9 @@
         "staked": 21426
       },
       "ياقوت": {
-        "plays": 13,
-        "points": 4500,
-        "staked": 6500
+        "plays": 14,
+        "points": 4000,
+        "staked": 7000
       },
       "bird": {
         "plays": 2,
@@ -2323,9 +2323,9 @@
         "staked": 9000
       },
       "ياقوت": {
-        "plays": 16,
-        "points": -5000,
-        "staked": 8000
+        "plays": 17,
+        "points": -4500,
+        "staked": 8500
       },
       "bet": {
         "plays": 3,
