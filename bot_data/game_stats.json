@@ -1603,13 +1603,13 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 6,
-        "points": 0,
-        "staked": 3000
+        "plays": 7,
+        "points": 500,
+        "staked": 3500
       },
       "luck_free": {
-        "plays": 10,
-        "points": 420,
+        "plays": 11,
+        "points": 440,
         "staked": 0
       },
       "cup": {
