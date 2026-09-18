@@ -2518,9 +2518,9 @@
         "staked": 1500
       },
       "كاشف": {
-        "plays": 5,
-        "points": 2500,
-        "staked": 2500
+        "plays": 6,
+        "points": 3000,
+        "staked": 3000
       },
       "luck": {
         "plays": 15,
@@ -2891,6 +2891,11 @@
         "plays": 6,
         "points": 140,
         "staked": 0
+      },
+      "كاشف": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
