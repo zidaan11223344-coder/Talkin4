@@ -498,9 +498,9 @@
         "staked": 18000
       },
       "برق": {
-        "plays": 37,
-        "points": 1500,
-        "staked": 18500
+        "plays": 38,
+        "points": 2000,
+        "staked": 19000
       },
       "coin": {
         "plays": 8,
@@ -543,7 +543,7 @@
         "staked": 0
       },
       "اونو": {
-        "plays": 30,
+        "plays": 31,
         "points": 13564,
         "staked": 13857
       },
@@ -2228,9 +2228,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 14,
-        "points": 0,
-        "staked": 7000
+        "plays": 15,
+        "points": -500,
+        "staked": 7500
       },
       "ياقوت": {
         "plays": 11,
