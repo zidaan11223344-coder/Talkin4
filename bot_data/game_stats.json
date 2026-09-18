@@ -29,7 +29,7 @@
       },
       "luck_free": {
         "plays": 7,
-        "points": 290,
+        "points": 250,
         "staked": 0
       },
       "misc": {
@@ -673,8 +673,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 20,
-        "points": 700,
+        "plays": 21,
+        "points": 750,
         "staked": 0
       },
       "rps": {
