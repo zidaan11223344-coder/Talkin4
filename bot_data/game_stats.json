@@ -83,9 +83,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 8,
-        "points": 0,
-        "staked": 4000
+        "plays": 9,
+        "points": -500,
+        "staked": 4500
       },
       "cup": {
         "plays": 4,
@@ -1363,9 +1363,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 16,
-        "points": -2000,
-        "staked": 8000
+        "plays": 17,
+        "points": -1500,
+        "staked": 8500
       },
       "سنارة": {
         "plays": 7,
