@@ -671,6 +671,11 @@
         "plays": 2,
         "points": 1000,
         "staked": 1000
+      },
+      "صدام": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -765,6 +770,11 @@
       "steal": {
         "plays": 1,
         "points": -500,
+        "staked": 500
+      },
+      "صدام": {
+        "plays": 1,
+        "points": 500,
         "staked": 500
       }
     }
