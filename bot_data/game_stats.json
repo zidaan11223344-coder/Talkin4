@@ -843,8 +843,8 @@
     "username": "اا♥☼هـــــ☼ـــادي☼♥اا",
     "games": {
       "million": {
-        "plays": 18,
-        "points": 0,
+        "plays": 19,
+        "points": 1000000,
         "staked": 0
       },
       "luck_free": {
@@ -2468,8 +2468,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 18,
-        "points": 620,
+        "plays": 19,
+        "points": 640,
         "staked": 0
       },
       "billion": {
