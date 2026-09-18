@@ -503,9 +503,9 @@
         "staked": 18500
       },
       "برق": {
-        "plays": 38,
-        "points": 2000,
-        "staked": 19000
+        "plays": 39,
+        "points": 1500,
+        "staked": 19500
       },
       "coin": {
         "plays": 8,
@@ -523,7 +523,7 @@
         "staked": 6000
       },
       "طاولة": {
-        "plays": 24,
+        "plays": 25,
         "points": 22299,
         "staked": 22397
       },
@@ -538,8 +538,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 62,
-        "points": 49151,
+        "plays": 63,
+        "points": 51217,
         "staked": 0
       },
       "billion": {
@@ -1773,9 +1773,9 @@
         "staked": 3000
       },
       "برق": {
-        "plays": 1,
-        "points": 500,
-        "staked": 500
+        "plays": 2,
+        "points": 1000,
+        "staked": 1000
       }
     }
   },
