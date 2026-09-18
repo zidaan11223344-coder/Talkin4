@@ -53,9 +53,9 @@
         "staked": 3500
       },
       "steal": {
-        "plays": 17,
-        "points": 1500,
-        "staked": 8500
+        "plays": 18,
+        "points": 2000,
+        "staked": 9000
       },
       "بحث": {
         "plays": 1,
@@ -2846,6 +2846,16 @@
         "plays": 1,
         "points": 1000,
         "staked": 0
+      }
+    }
+  },
+  "بِيبِي": {
+    "username": "بِيبِي",
+    "games": {
+      "steal": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   }
