@@ -3055,6 +3055,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789694230
+      },
+      "krmalk": {
+        "username": "krmalk",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789694734
       }
     }
   }
