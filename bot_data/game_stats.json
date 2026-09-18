@@ -693,8 +693,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 64,
-        "points": 2380,
+        "plays": 65,
+        "points": 2400,
         "staked": 0
       },
       "rps": {
@@ -713,9 +713,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 12,
-        "points": -4000,
-        "staked": 6000
+        "plays": 13,
+        "points": -3500,
+        "staked": 6500
       },
       "wheel": {
         "plays": 4,
@@ -738,9 +738,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 13,
-        "points": 500,
-        "staked": 6500
+        "plays": 14,
+        "points": 0,
+        "staked": 7000
       },
       "برق": {
         "plays": 10,
@@ -1608,9 +1608,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 10,
-        "points": 1000,
-        "staked": 5000
+        "plays": 11,
+        "points": 1500,
+        "staked": 5500
       },
       "luck_free": {
         "plays": 14,
@@ -1638,9 +1638,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 6,
-        "points": 2000,
-        "staked": 3000
+        "plays": 7,
+        "points": 1500,
+        "staked": 3500
       },
       "برق": {
         "plays": 1,
