@@ -218,9 +218,9 @@
         "staked": 3000
       },
       "سنارة": {
-        "plays": 4,
-        "points": 1000,
-        "staked": 2000
+        "plays": 5,
+        "points": 1500,
+        "staked": 2500
       },
       "كاشف": {
         "plays": 1,
@@ -498,9 +498,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 39,
-        "points": -500,
-        "staked": 19500
+        "plays": 40,
+        "points": -1000,
+        "staked": 20000
       },
       "برق": {
         "plays": 39,
