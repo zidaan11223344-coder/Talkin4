@@ -688,7 +688,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 64,
+        "plays": 65,
         "points": 1000000,
         "staked": 0
       },
@@ -1598,9 +1598,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 23,
+        "plays": 24,
         "points": 500,
-        "staked": 11500
+        "staked": 12000
       },
       "rps": {
         "plays": 1,
