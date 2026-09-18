@@ -3163,5 +3163,15 @@
         "staked": 0
       }
     }
+  },
+  "ᵴᴇᴍᴏ": {
+    "username": "ᵴᴇᴍᴏ",
+    "games": {
+      "rps": {
+        "plays": 1,
+        "points": 200,
+        "staked": 0
+      }
+    }
   }
 }
