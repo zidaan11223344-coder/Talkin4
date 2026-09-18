@@ -11702,9 +11702,9 @@
       },
       "-fake": {
         "username": "-fake",
-        "role": "member",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1789711773
+        "last_seen": 1789715670
       },
       "basel94": {
         "username": "basel94",
