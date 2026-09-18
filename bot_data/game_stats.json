@@ -708,9 +708,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 9,
-        "points": -3500,
-        "staked": 4500
+        "plays": 10,
+        "points": -3000,
+        "staked": 5000
       },
       "wheel": {
         "plays": 4,
@@ -733,9 +733,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 9,
-        "points": 1500,
-        "staked": 4500
+        "plays": 10,
+        "points": 1000,
+        "staked": 5000
       },
       "برق": {
         "plays": 9,
@@ -743,7 +743,7 @@
         "staked": 4500
       },
       "volcano": {
-        "plays": 10,
+        "plays": 11,
         "points": 16396,
         "staked": 0
       },
@@ -1633,9 +1633,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 3,
-        "points": 1500,
-        "staked": 1500
+        "plays": 4,
+        "points": 1000,
+        "staked": 2000
       },
       "برق": {
         "plays": 1,
