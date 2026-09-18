@@ -666,6 +666,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "كاشف": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
@@ -698,9 +703,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 2,
-        "points": 0,
-        "staked": 1000
+        "plays": 3,
+        "points": -500,
+        "staked": 1500
       },
       "wheel": {
         "plays": 4,
