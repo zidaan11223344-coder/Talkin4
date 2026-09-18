@@ -2316,6 +2316,11 @@
         "plays": 1,
         "points": 100,
         "staked": 0
+      },
+      "wheel": {
+        "plays": 1,
+        "points": 40,
+        "staked": 0
       }
     }
   },
@@ -2483,8 +2488,8 @@
         "staked": 267000
       },
       "farm": {
-        "plays": 3,
-        "points": 29000,
+        "plays": 4,
+        "points": 39000,
         "staked": 0
       },
       "box": {
