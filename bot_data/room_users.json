@@ -950,7 +950,7 @@
         "username": "ℳ",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789700406
+        "last_seen": 1789700596
       },
       "فلسطين": {
         "username": "فلسطين",
@@ -7067,6 +7067,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789700060
+      },
+      "bot.t": {
+        "username": "bot.t",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789700598
       }
     },
     "بنات_المجرة🎀": {
