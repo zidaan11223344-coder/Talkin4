@@ -1531,6 +1531,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "ياقوت": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -2323,9 +2328,9 @@
         "staked": 9000
       },
       "ياقوت": {
-        "plays": 18,
-        "points": -4000,
-        "staked": 9000
+        "plays": 19,
+        "points": -3500,
+        "staked": 9500
       },
       "bet": {
         "plays": 3,
