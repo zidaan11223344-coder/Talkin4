@@ -568,9 +568,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 104,
-        "points": 186000,
-        "staked": 455000
+        "plays": 105,
+        "points": 194000,
+        "staked": 457000
       },
       "farm": {
         "plays": 7,
@@ -1663,8 +1663,8 @@
         "staked": 9500
       },
       "luck_free": {
-        "plays": 26,
-        "points": 1050,
+        "plays": 27,
+        "points": 1070,
         "staked": 0
       },
       "cup": {
