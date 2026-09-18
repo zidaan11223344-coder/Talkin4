@@ -2628,9 +2628,9 @@
         "staked": 0
       },
       "اونو": {
-        "plays": 11,
-        "points": 3194,
-        "staked": 3490
+        "plays": 12,
+        "points": 4970,
+        "staked": 5266
       },
       "سنارة": {
         "plays": 2,
@@ -3195,6 +3195,16 @@
       "luck_free": {
         "plays": 1,
         "points": 20,
+        "staked": 0
+      }
+    }
+  },
+  "ᅠᅠᅠ١": {
+    "username": "ᅠᅠᅠ١",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
         "staked": 0
       }
     }
