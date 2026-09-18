@@ -1688,7 +1688,7 @@
         "staked": 1000
       },
       "billion": {
-        "plays": 2,
+        "plays": 3,
         "points": 0,
         "staked": 0
       },
@@ -2393,8 +2393,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 18,
-        "points": 12675,
+        "plays": 19,
+        "points": 15751,
         "staked": 0
       },
       "ياقوت": {
