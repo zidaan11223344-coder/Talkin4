@@ -2306,6 +2306,11 @@
         "plays": 7,
         "points": 19400,
         "staked": 0
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 60,
+        "staked": 0
       }
     }
   },
