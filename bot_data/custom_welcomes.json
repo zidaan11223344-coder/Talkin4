@@ -284,6 +284,10 @@
     "rmadi.": {
       "username": "rmadi.",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "گيَــْْــفَگـے.يَـے.وَچــــْْعيَـے": {
+      "username": "گيَــْْــفَگـے.يَـے.وَچــــْْعيَـے",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
