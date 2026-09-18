@@ -2128,7 +2128,7 @@
         "staked": 1000
       },
       "rps": {
-        "plays": 14,
+        "plays": 15,
         "points": 500,
         "staked": 0
       },
@@ -2158,8 +2158,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 82,
-        "points": 3880,
+        "plays": 83,
+        "points": 3930,
         "staked": 0
       },
       "box": {
