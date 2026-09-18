@@ -483,9 +483,9 @@
         "staked": 12000
       },
       "برق": {
-        "plays": 30,
-        "points": 0,
-        "staked": 15000
+        "plays": 31,
+        "points": 500,
+        "staked": 15500
       },
       "coin": {
         "plays": 8,
