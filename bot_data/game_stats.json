@@ -63,9 +63,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 22,
-        "points": 4000,
-        "staked": 11000
+        "plays": 23,
+        "points": 4500,
+        "staked": 11500
       },
       "صدام": {
         "plays": 3,
@@ -698,8 +698,8 @@
         "staked": 1000
       },
       "wheel": {
-        "plays": 2,
-        "points": 1660,
+        "plays": 3,
+        "points": 6078,
         "staked": 0
       },
       "billion": {
@@ -1368,9 +1368,9 @@
         "staked": 8500
       },
       "سنارة": {
-        "plays": 8,
-        "points": -1000,
-        "staked": 4000
+        "plays": 9,
+        "points": -1500,
+        "staked": 4500
       },
       "luck_free": {
         "plays": 10,
