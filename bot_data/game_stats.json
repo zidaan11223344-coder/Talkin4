@@ -733,9 +733,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 10,
-        "points": 1000,
-        "staked": 5000
+        "plays": 11,
+        "points": 500,
+        "staked": 5500
       },
       "برق": {
         "plays": 9,
@@ -1603,9 +1603,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 7,
-        "points": 500,
-        "staked": 3500
+        "plays": 8,
+        "points": 1000,
+        "staked": 4000
       },
       "luck_free": {
         "plays": 11,
