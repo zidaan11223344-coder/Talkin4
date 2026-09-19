@@ -2283,9 +2283,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 95,
+        "plays": 96,
         "points": 6000,
-        "staked": 47500
+        "staked": 48000
       },
       "كنز": {
         "plays": 2,
@@ -2343,8 +2343,8 @@
         "staked": 400
       },
       "coin": {
-        "plays": 34,
-        "points": 23168,
+        "plays": 35,
+        "points": 26412,
         "staked": 0
       },
       "برق": {
