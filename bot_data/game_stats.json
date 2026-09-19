@@ -1106,6 +1106,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "سنارة": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -1738,9 +1743,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 22,
-        "points": 4000,
-        "staked": 11000
+        "plays": 23,
+        "points": 4500,
+        "staked": 11500
       },
       "luck_free": {
         "plays": 37,
@@ -1908,9 +1913,9 @@
         "staked": 1000
       },
       "صدام": {
-        "plays": 1,
-        "points": -500,
-        "staked": 500
+        "plays": 2,
+        "points": -1000,
+        "staked": 1000
       }
     }
   },
@@ -2578,9 +2583,9 @@
         "staked": 10500
       },
       "صدام": {
-        "plays": 14,
-        "points": 1000,
-        "staked": 7000
+        "plays": 15,
+        "points": 1500,
+        "staked": 7500
       },
       "luck_free": {
         "plays": 42,
