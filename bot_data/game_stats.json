@@ -598,9 +598,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 6,
-        "points": 500,
-        "staked": 3000
+        "plays": 7,
+        "points": 1000,
+        "staked": 3500
       }
     }
   },
@@ -3423,9 +3423,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 1,
-        "points": -500,
-        "staked": 500
+        "plays": 2,
+        "points": -1000,
+        "staked": 1000
       },
       "volcano": {
         "plays": 1,
