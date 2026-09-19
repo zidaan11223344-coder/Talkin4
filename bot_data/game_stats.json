@@ -1858,9 +1858,9 @@
         "staked": 500
       },
       "ياقوت": {
-        "plays": 1,
-        "points": 500,
-        "staked": 500
+        "plays": 2,
+        "points": 1000,
+        "staked": 1000
       },
       "صدام": {
         "plays": 1,
@@ -2353,9 +2353,9 @@
         "staked": 10000
       },
       "ياقوت": {
-        "plays": 21,
-        "points": -3500,
-        "staked": 10500
+        "plays": 22,
+        "points": -4000,
+        "staked": 11000
       },
       "bet": {
         "plays": 3,
