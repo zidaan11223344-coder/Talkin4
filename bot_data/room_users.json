@@ -52,9 +52,9 @@
       },
       "s-boot": {
         "username": "s-boot",
-        "role": "admin",
+        "role": "none",
         "user_id": "",
-        "last_seen": 1789842392
+        "last_seen": 1789848135
       },
       "selga": {
         "username": "selga",
