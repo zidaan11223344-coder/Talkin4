@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "words": [
     "اختك",
     "اخو رجلي",
@@ -10,17 +10,5 @@
     "قحبه",
     "كلبب",
     "كلبه"
-  ],
-  "bot_blocked_users": [
-    "ɱ",
-    "឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵"
-  ],
-  "bot_protection_enabled": true,
-  "rooms": {
-    "ملتقى🥂العرب": {
-      "enabled": false,
-      "repeat_limit": 3,
-      "words": []
-    }
-  }
+  ]
 }
