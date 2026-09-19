@@ -1913,9 +1913,9 @@
         "staked": 1000
       },
       "كاشف": {
-        "plays": 1,
-        "points": -500,
-        "staked": 500
+        "plays": 2,
+        "points": -1000,
+        "staked": 1000
       },
       "ياقوت": {
         "plays": 2,
@@ -2588,9 +2588,9 @@
         "staked": 6000
       },
       "كاشف": {
-        "plays": 21,
-        "points": 500,
-        "staked": 10500
+        "plays": 22,
+        "points": 1000,
+        "staked": 11000
       },
       "صدام": {
         "plays": 15,
