@@ -1728,7 +1728,7 @@
     "username": "فـ⃝🧚🏻ـانــ†ــا",
     "games": {
       "million": {
-        "plays": 267,
+        "plays": 268,
         "points": 3000000,
         "staked": 0
       },
@@ -1743,9 +1743,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 55,
+        "plays": 56,
         "points": -500,
-        "staked": 27500
+        "staked": 28000
       },
       "rps": {
         "plays": 2,
@@ -2603,8 +2603,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 43,
-        "points": 75653,
+        "plays": 44,
+        "points": 77007,
         "staked": 0
       },
       "ياقوت": {
