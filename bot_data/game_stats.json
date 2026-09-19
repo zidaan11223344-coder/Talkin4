@@ -1673,7 +1673,7 @@
     "username": "فـ⃝🧚🏻ـانــ†ــا",
     "games": {
       "million": {
-        "plays": 240,
+        "plays": 241,
         "points": 3000000,
         "staked": 0
       },
@@ -1688,9 +1688,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 51,
+        "plays": 52,
         "points": -500,
-        "staked": 25500
+        "staked": 26000
       },
       "rps": {
         "plays": 2,
