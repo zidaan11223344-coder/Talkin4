@@ -228,9 +228,9 @@
         "staked": 3500
       },
       "صدام": {
-        "plays": 4,
-        "points": 1000,
-        "staked": 2000
+        "plays": 5,
+        "points": 500,
+        "staked": 2500
       },
       "ياقوت": {
         "plays": 8,
@@ -2573,9 +2573,9 @@
         "staked": 9500
       },
       "صدام": {
-        "plays": 13,
-        "points": 500,
-        "staked": 6500
+        "plays": 14,
+        "points": 1000,
+        "staked": 7000
       },
       "luck_free": {
         "plays": 41,
