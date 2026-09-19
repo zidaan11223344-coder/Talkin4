@@ -16325,6 +16325,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789790832
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789791367
       }
     },
     "مشاعر": {
