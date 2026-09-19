@@ -16915,6 +16915,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789792598
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789793294
       }
     },
     "سورياالحب": {
