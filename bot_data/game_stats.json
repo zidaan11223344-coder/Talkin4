@@ -233,9 +233,9 @@
         "staked": 3500
       },
       "ياقوت": {
-        "plays": 15,
-        "points": 500,
-        "staked": 7500
+        "plays": 16,
+        "points": 1000,
+        "staked": 8000
       },
       "luck_free": {
         "plays": 8,
@@ -2438,9 +2438,9 @@
         "staked": 13500
       },
       "ياقوت": {
-        "plays": 29,
-        "points": -4500,
-        "staked": 14500
+        "plays": 30,
+        "points": -5000,
+        "staked": 15000
       },
       "bet": {
         "plays": 3,
