@@ -223,9 +223,9 @@
         "staked": 5000
       },
       "كاشف": {
-        "plays": 10,
-        "points": 1000,
-        "staked": 5000
+        "plays": 11,
+        "points": 1500,
+        "staked": 5500
       },
       "صدام": {
         "plays": 6,
@@ -1783,9 +1783,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 21,
-        "points": 1500,
-        "staked": 10500
+        "plays": 22,
+        "points": 1000,
+        "staked": 11000
       },
       "برق": {
         "plays": 1,
