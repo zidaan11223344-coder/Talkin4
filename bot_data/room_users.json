@@ -26227,6 +26227,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789791329
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789791478
       }
     },
     "دمشق": {
