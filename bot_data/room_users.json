@@ -21513,6 +21513,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789842548
+      },
+      "n12345678": {
+        "username": "n12345678",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789843960
       }
     },
     "اتكيت": {
