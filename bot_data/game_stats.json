@@ -686,6 +686,11 @@
         "plays": 1,
         "points": 500,
         "staked": 500
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 2648,
+        "staked": 0
       }
     }
   },
@@ -2583,8 +2588,8 @@
         "staked": 4569
       },
       "coin": {
-        "plays": 17,
-        "points": 19230,
+        "plays": 18,
+        "points": 21352,
         "staked": 0
       },
       "wheel": {
