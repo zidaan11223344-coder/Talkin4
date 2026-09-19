@@ -688,8 +688,8 @@
         "staked": 500
       },
       "volcano": {
-        "plays": 2,
-        "points": 2648,
+        "plays": 3,
+        "points": 6921,
         "staked": 0
       },
       "coin": {
@@ -2528,9 +2528,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 39,
+        "plays": 40,
         "points": 1000,
-        "staked": 19500
+        "staked": 20000
       },
       "farm": {
         "plays": 24,
