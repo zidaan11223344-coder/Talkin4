@@ -568,9 +568,9 @@
         "staked": 24975
       },
       "ياقوت": {
-        "plays": 17,
-        "points": 4500,
-        "staked": 8500
+        "plays": 18,
+        "points": 5000,
+        "staked": 9000
       },
       "bird": {
         "plays": 2,
@@ -1483,9 +1483,9 @@
         "staked": 0
       },
       "ياقوت": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": -1000,
+        "staked": 2000
       }
     }
   },
