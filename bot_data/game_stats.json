@@ -518,9 +518,9 @@
         "staked": 21000
       },
       "برق": {
-        "plays": 43,
-        "points": 1500,
-        "staked": 21500
+        "plays": 44,
+        "points": 1000,
+        "staked": 22000
       },
       "coin": {
         "plays": 8,
@@ -1458,9 +1458,9 @@
         "staked": 13500
       },
       "صدام": {
-        "plays": 14,
-        "points": 3000,
-        "staked": 7000
+        "plays": 15,
+        "points": 3500,
+        "staked": 7500
       },
       "billion": {
         "plays": 3,
@@ -1843,9 +1843,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 3,
-        "points": 500,
-        "staked": 1500
+        "plays": 4,
+        "points": 1000,
+        "staked": 2000
       },
       "سنارة": {
         "plays": 1,
@@ -2445,6 +2445,11 @@
       "كاشف": {
         "plays": 1,
         "points": 500,
+        "staked": 500
+      },
+      "صدام": {
+        "plays": 1,
+        "points": -500,
         "staked": 500
       }
     }
