@@ -691,6 +691,11 @@
         "plays": 1,
         "points": 2648,
         "staked": 0
+      },
+      "coin": {
+        "plays": 1,
+        "points": 1503,
+        "staked": 0
       }
     }
   },
@@ -2583,7 +2588,7 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 14,
+        "plays": 15,
         "points": 4569,
         "staked": 4569
       },
