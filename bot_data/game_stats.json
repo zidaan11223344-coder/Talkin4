@@ -3178,9 +3178,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 64,
+        "plays": 65,
         "points": 0,
-        "staked": 32000
+        "staked": 32500
       },
       "star": {
         "plays": 1,
