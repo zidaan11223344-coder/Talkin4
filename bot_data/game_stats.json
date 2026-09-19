@@ -2548,9 +2548,9 @@
         "staked": 8500
       },
       "صدام": {
-        "plays": 12,
-        "points": 1000,
-        "staked": 6000
+        "plays": 13,
+        "points": 500,
+        "staked": 6500
       },
       "luck_free": {
         "plays": 30,
@@ -2578,7 +2578,7 @@
         "staked": 4569
       },
       "coin": {
-        "plays": 13,
+        "plays": 14,
         "points": 12924,
         "staked": 0
       },
@@ -3281,6 +3281,11 @@
         "plays": 1,
         "points": 3818,
         "staked": 0
+      },
+      "صدام": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
