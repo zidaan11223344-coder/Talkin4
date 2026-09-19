@@ -3218,9 +3218,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 84,
+        "plays": 85,
         "points": 0,
-        "staked": 42000
+        "staked": 42500
       },
       "star": {
         "plays": 1,
@@ -3373,8 +3373,8 @@
     "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵𓆗",
     "games": {
       "luck_free": {
-        "plays": 7,
-        "points": 310,
+        "plays": 8,
+        "points": 360,
         "staked": 0
       }
     }
