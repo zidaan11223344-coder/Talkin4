@@ -2408,7 +2408,7 @@
         "staked": 12100
       },
       "volcano": {
-        "plays": 64,
+        "plays": 65,
         "points": 116453,
         "staked": 0
       },
@@ -3193,8 +3193,8 @@
     "username": "rjl_libe",
     "games": {
       "luck_free": {
-        "plays": 3,
-        "points": 220,
+        "plays": 4,
+        "points": 230,
         "staked": 0
       }
     }
