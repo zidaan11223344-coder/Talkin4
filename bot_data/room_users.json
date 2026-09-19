@@ -979,6 +979,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789847344
+      },
+      "ward.sham": {
+        "username": "ward.sham",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789847557
       }
     },
     "سوريا": {
