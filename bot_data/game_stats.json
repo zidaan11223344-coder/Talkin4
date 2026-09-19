@@ -648,7 +648,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 153,
+        "plays": 154,
         "points": 6000000,
         "staked": 0
       },
@@ -3500,6 +3500,11 @@
       "monster": {
         "plays": 1,
         "points": 0,
+        "staked": 0
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 1476,
         "staked": 0
       }
     }
