@@ -83,9 +83,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 10,
-        "points": -1000,
-        "staked": 5000
+        "plays": 11,
+        "points": -500,
+        "staked": 5500
       },
       "cup": {
         "plays": 4,
@@ -2113,6 +2113,11 @@
         "staked": 500
       },
       "صدام": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
+      },
+      "برق": {
         "plays": 1,
         "points": -500,
         "staked": 500
