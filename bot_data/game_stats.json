@@ -218,9 +218,9 @@
         "staked": 7500
       },
       "سنارة": {
-        "plays": 9,
-        "points": 500,
-        "staked": 4500
+        "plays": 10,
+        "points": 1000,
+        "staked": 5000
       },
       "كاشف": {
         "plays": 10,
@@ -1753,9 +1753,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 25,
-        "points": 4500,
-        "staked": 12500
+        "plays": 26,
+        "points": 4000,
+        "staked": 13000
       },
       "luck_free": {
         "plays": 37,
