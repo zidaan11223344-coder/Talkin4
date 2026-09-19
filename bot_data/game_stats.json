@@ -1856,6 +1856,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "ياقوت": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
