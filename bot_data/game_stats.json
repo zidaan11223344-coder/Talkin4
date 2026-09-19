@@ -538,7 +538,7 @@
         "staked": 10000
       },
       "طاولة": {
-        "plays": 29,
+        "plays": 30,
         "points": 28727,
         "staked": 28825
       },
@@ -568,9 +568,9 @@
         "staked": 33972
       },
       "ياقوت": {
-        "plays": 18,
-        "points": 5000,
-        "staked": 9000
+        "plays": 19,
+        "points": 4500,
+        "staked": 9500
       },
       "bird": {
         "plays": 3,
@@ -1493,9 +1493,9 @@
         "staked": 0
       },
       "ياقوت": {
-        "plays": 6,
-        "points": -1000,
-        "staked": 3000
+        "plays": 7,
+        "points": -500,
+        "staked": 3500
       }
     }
   },
