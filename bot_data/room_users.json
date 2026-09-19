@@ -931,6 +931,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789789641
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789791966
       }
     },
     "سوريا": {
