@@ -3483,5 +3483,15 @@
         "staked": 500
       }
     }
+  },
+  "-8dr_": {
+    "username": "-8dr_",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 30,
+        "staked": 0
+      }
+    }
   }
 }
