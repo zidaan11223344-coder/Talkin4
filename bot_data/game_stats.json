@@ -353,7 +353,7 @@
     "username": "al-sfeer",
     "games": {
       "million": {
-        "plays": 7,
+        "plays": 8,
         "points": 0,
         "staked": 0
       },
@@ -2463,8 +2463,8 @@
         "staked": 0
       },
       "farm": {
-        "plays": 62,
-        "points": 227000,
+        "plays": 63,
+        "points": 229000,
         "staked": 0
       },
       "billion": {
