@@ -808,14 +808,14 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 29,
-        "points": 500,
-        "staked": 14500
+        "plays": 30,
+        "points": 1000,
+        "staked": 15000
       },
       "برق": {
-        "plays": 21,
-        "points": 500,
-        "staked": 10500
+        "plays": 22,
+        "points": 1000,
+        "staked": 11000
       },
       "volcano": {
         "plays": 61,
@@ -3628,9 +3628,9 @@
         "staked": 500
       },
       "برق": {
-        "plays": 1,
-        "points": 500,
-        "staked": 500
+        "plays": 2,
+        "points": 0,
+        "staked": 1000
       },
       "صدام": {
         "plays": 1,
@@ -3638,9 +3638,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 1,
-        "points": -500,
-        "staked": 500
+        "plays": 2,
+        "points": -1000,
+        "staked": 1000
       },
       "كاشف": {
         "plays": 1,
