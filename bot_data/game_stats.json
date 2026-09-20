@@ -1598,7 +1598,7 @@
         "staked": 2000
       },
       "monster": {
-        "plays": 4,
+        "plays": 5,
         "points": 6946,
         "staked": 0
       },
@@ -2788,8 +2788,8 @@
         "staked": 0
       },
       "bird": {
-        "plays": 25,
-        "points": 51295,
+        "plays": 26,
+        "points": 53026,
         "staked": 0
       },
       "bet": {
