@@ -683,9 +683,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 59,
+        "plays": 60,
         "points": -5500,
-        "staked": 29500
+        "staked": 30000
       },
       "luck_free": {
         "plays": 46,
@@ -703,8 +703,8 @@
         "staked": 4000
       },
       "volcano": {
-        "plays": 30,
-        "points": 64816,
+        "plays": 31,
+        "points": 69618,
         "staked": 0
       },
       "coin": {
