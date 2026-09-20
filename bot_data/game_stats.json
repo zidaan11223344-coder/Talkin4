@@ -488,8 +488,8 @@
         "staked": 0
       },
       "rps": {
-        "plays": 37,
-        "points": 1830,
+        "plays": 38,
+        "points": 2030,
         "staked": 0
       },
       "misc": {
@@ -788,7 +788,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 206,
+        "plays": 207,
         "points": 4000000,
         "staked": 0
       },
