@@ -518,9 +518,9 @@
         "staked": 25000
       },
       "برق": {
-        "plays": 48,
-        "points": 1000,
-        "staked": 24000
+        "plays": 49,
+        "points": 500,
+        "staked": 24500
       },
       "coin": {
         "plays": 8,
@@ -813,9 +813,9 @@
         "staked": 13500
       },
       "برق": {
-        "plays": 19,
-        "points": 500,
-        "staked": 9500
+        "plays": 20,
+        "points": 1000,
+        "staked": 10000
       },
       "volcano": {
         "plays": 61,
