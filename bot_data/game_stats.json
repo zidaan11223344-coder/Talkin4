@@ -1873,9 +1873,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 60,
+        "plays": 61,
         "points": -500,
-        "staked": 30000
+        "staked": 30500
       },
       "rps": {
         "plays": 2,
