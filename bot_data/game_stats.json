@@ -798,8 +798,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 250,
-        "points": 10020,
+        "plays": 251,
+        "points": 10030,
         "staked": 0
       },
       "rps": {
@@ -853,8 +853,8 @@
         "staked": 14500
       },
       "volcano": {
-        "plays": 168,
-        "points": 427618,
+        "plays": 169,
+        "points": 431550,
         "staked": 0
       },
       "farm": {
@@ -898,7 +898,7 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 73,
+        "plays": 74,
         "points": 64207,
         "staked": 64207
       },
