@@ -17,6 +17,12 @@
       "flood": false,
       "joinleave": false,
       "repeat_limit": 3
+    },
+    "بيننا☕كلام": {
+      "swear": true,
+      "flood": false,
+      "joinleave": false,
+      "repeat_limit": 3
     }
   }
 }
