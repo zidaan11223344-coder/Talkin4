@@ -3425,6 +3425,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789948017
+      },
+      "syntax-error": {
+        "username": "syntax-error",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789948032
       }
     },
     "اتكيت": {
