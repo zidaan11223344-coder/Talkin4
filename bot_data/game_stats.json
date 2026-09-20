@@ -613,8 +613,8 @@
         "staked": 4500
       },
       "box": {
-        "plays": 3,
-        "points": 0,
+        "plays": 4,
+        "points": 3581,
         "staked": 0
       }
     }
@@ -793,7 +793,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 208,
+        "plays": 209,
         "points": 4000000,
         "staked": 0
       },
