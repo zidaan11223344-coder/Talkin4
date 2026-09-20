@@ -583,8 +583,8 @@
         "staked": 16000
       },
       "bird": {
-        "plays": 20,
-        "points": 40715,
+        "plays": 21,
+        "points": 45602,
         "staked": 0
       },
       "cup": {
@@ -593,8 +593,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 26,
-        "points": 58293,
+        "plays": 27,
+        "points": 60443,
         "staked": 0
       },
       "luck": {
@@ -838,7 +838,7 @@
         "staked": 0
       },
       "اونو": {
-        "plays": 5,
+        "plays": 6,
         "points": 5304,
         "staked": 5303
       },
