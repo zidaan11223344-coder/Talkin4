@@ -73,9 +73,9 @@
         "staked": 3500
       },
       "كاشف": {
-        "plays": 15,
-        "points": -500,
-        "staked": 7500
+        "plays": 16,
+        "points": 0,
+        "staked": 8000
       },
       "monster": {
         "plays": 13,
@@ -83,9 +83,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 15,
-        "points": -500,
-        "staked": 7500
+        "plays": 16,
+        "points": -1000,
+        "staked": 8000
       },
       "cup": {
         "plays": 10,
@@ -1558,9 +1558,9 @@
         "staked": 1000
       },
       "كاشف": {
-        "plays": 32,
-        "points": 3000,
-        "staked": 16000
+        "plays": 33,
+        "points": 2500,
+        "staked": 16500
       },
       "صدام": {
         "plays": 21,
@@ -1573,9 +1573,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 34,
-        "points": 0,
-        "staked": 17000
+        "plays": 35,
+        "points": 500,
+        "staked": 17500
       },
       "سنارة": {
         "plays": 23,
