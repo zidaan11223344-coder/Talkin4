@@ -793,7 +793,7 @@
         "staked": 15500
       },
       "wheel": {
-        "plays": 5,
+        "plays": 6,
         "points": 10748,
         "staked": 0
       },
@@ -2873,9 +2873,9 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 26,
-        "points": 25821,
-        "staked": 25918
+        "plays": 27,
+        "points": 27311,
+        "staked": 27408
       },
       "monster": {
         "plays": 25,
