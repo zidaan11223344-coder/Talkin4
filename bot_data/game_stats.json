@@ -2348,7 +2348,7 @@
     "username": "☆اِلِـِـِـِلـِـِـِ♬ـِـِـِوِرِڊِ☆اِلِـِـِڛـِـِ♬ـِـِوِرِي☆",
     "games": {
       "million": {
-        "plays": 5,
+        "plays": 6,
         "points": 0,
         "staked": 0
       },
@@ -3895,6 +3895,11 @@
       "volcano": {
         "plays": 1,
         "points": 2316,
+        "staked": 0
+      },
+      "wheel": {
+        "plays": 1,
+        "points": 1024,
         "staked": 0
       }
     }
