@@ -2356,6 +2356,11 @@
         "plays": 1,
         "points": -500,
         "staked": 500
+      },
+      "cup": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -2968,8 +2973,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 114,
-        "points": 262575,
+        "plays": 115,
+        "points": 267423,
         "staked": 0
       },
       "cup": {
