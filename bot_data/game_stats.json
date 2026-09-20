@@ -653,7 +653,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 166,
+        "plays": 167,
         "points": 6000000,
         "staked": 0
       },
@@ -673,9 +673,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 49,
+        "plays": 50,
         "points": -5500,
-        "staked": 24500
+        "staked": 25000
       },
       "luck_free": {
         "plays": 42,
@@ -693,8 +693,8 @@
         "staked": 2000
       },
       "volcano": {
-        "plays": 11,
-        "points": 25536,
+        "plays": 12,
+        "points": 30199,
         "staked": 0
       },
       "coin": {
