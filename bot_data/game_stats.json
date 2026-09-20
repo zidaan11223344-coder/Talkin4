@@ -13,9 +13,9 @@
         "staked": 0
       },
       "bet": {
-        "plays": 7,
-        "points": -16000,
-        "staked": 44000
+        "plays": 8,
+        "points": -1016000,
+        "staked": 1044000
       },
       "rps": {
         "plays": 17,
@@ -3001,6 +3001,11 @@
         "plays": 1,
         "points": -1000,
         "staked": 1000
+      },
+      "bet": {
+        "plays": 1,
+        "points": 1000000,
+        "staked": 1000000
       }
     }
   },
