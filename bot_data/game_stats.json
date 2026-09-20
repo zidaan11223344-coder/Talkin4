@@ -478,7 +478,7 @@
         "staked": 0
       },
       "rps": {
-        "plays": 33,
+        "plays": 34,
         "points": 1830,
         "staked": 0
       },
@@ -553,8 +553,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 76,
-        "points": 83169,
+        "plays": 77,
+        "points": 84991,
         "staked": 0
       },
       "billion": {
@@ -568,9 +568,9 @@
         "staked": 38213
       },
       "ياقوت": {
-        "plays": 26,
-        "points": 7000,
-        "staked": 13000
+        "plays": 27,
+        "points": 6500,
+        "staked": 13500
       },
       "bird": {
         "plays": 7,
@@ -853,9 +853,9 @@
         "staked": 4000
       },
       "ياقوت": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       },
       "star": {
         "plays": 6,
