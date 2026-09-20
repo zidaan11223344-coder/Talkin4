@@ -1591,6 +1591,11 @@
         "plays": 9,
         "points": -1500,
         "staked": 4500
+      },
+      "duel": {
+        "plays": 1,
+        "points": -2000,
+        "staked": 2000
       }
     }
   },
