@@ -138,7 +138,7 @@
         "staked": 0
       },
       "star": {
-        "plays": 3,
+        "plays": 4,
         "points": 50,
         "staked": 0
       },
@@ -2908,8 +2908,8 @@
         "staked": 40754
       },
       "monster": {
-        "plays": 30,
-        "points": 39181,
+        "plays": 31,
+        "points": 42884,
         "staked": 0
       },
       "volcano": {
