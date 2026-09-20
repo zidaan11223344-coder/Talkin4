@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "words": [
     "أنجاس",
     "أنذال",
@@ -323,12 +323,5 @@
     "يلعن ام",
     "يلعن امك",
     "يلعن شكلك"
-  ],
-  "rooms": {
-    "ادم": {
-      "enabled": false,
-      "repeat_limit": 11,
-      "words": []
-    }
-  }
+  ]
 }
