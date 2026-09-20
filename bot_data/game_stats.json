@@ -848,9 +848,9 @@
         "staked": 500
       },
       "صدام": {
-        "plays": 3,
-        "points": 500,
-        "staked": 1500
+        "plays": 4,
+        "points": 1000,
+        "staked": 2000
       },
       "ياقوت": {
         "plays": 2,
@@ -858,8 +858,8 @@
         "staked": 1000
       },
       "star": {
-        "plays": 2,
-        "points": 1103,
+        "plays": 3,
+        "points": 4848,
         "staked": 0
       },
       "طاولة": {
@@ -1888,8 +1888,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 7,
-        "points": 200,
+        "plays": 8,
+        "points": 300,
         "staked": 0
       }
     }
@@ -2463,9 +2463,9 @@
         "staked": 10000
       },
       "صدام": {
-        "plays": 7,
-        "points": 500,
-        "staked": 3500
+        "plays": 8,
+        "points": 0,
+        "staked": 4000
       },
       "stock": {
         "plays": 5,
