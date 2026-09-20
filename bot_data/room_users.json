@@ -18337,6 +18337,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789940057
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789941570
       }
     },
     "2024": {
