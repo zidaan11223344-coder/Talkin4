@@ -3109,6 +3109,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789945661
+      },
+      "••𝓗𝒪𝒪𝓡••": {
+        "username": "••𝓗𝒪𝒪𝓡••",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789945787
       }
     },
     "سورياالروح": {
@@ -3295,6 +3301,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789945469
+      },
+      "<٠٠٠>": {
+        "username": "<٠٠٠>",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789945788
       }
     },
     "سوالف": {
@@ -9523,6 +9535,14 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789945620
+      }
+    },
+    "لمة❤️احباب": {
+      "<٠٠٠>": {
+        "username": "<٠٠٠>",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789945786
       }
     }
   }
