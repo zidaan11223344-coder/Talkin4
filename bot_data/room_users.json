@@ -9684,9 +9684,9 @@
       },
       "فــٖ፝֯֟͢͡͡͡ـ◗🦅◖ــٖ፝֯֟͢͡͡͡ـــآرس": {
         "username": "فــٖ፝֯֟͢͡͡͡ـ◗🦅◖ــٖ፝֯֟͢͡͡͡ـــآرس",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789920468
+        "last_seen": 1789921716
       },
       "zbenar": {
         "username": "zbenar",
@@ -28622,9 +28622,9 @@
       },
       "<٠٠٠>": {
         "username": "<٠٠٠>",
-        "role": "admin",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789902676
+        "last_seen": 1789921716
       },
       "_bot_": {
         "username": "_bot_",
