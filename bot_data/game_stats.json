@@ -703,8 +703,8 @@
         "staked": 4000
       },
       "volcano": {
-        "plays": 29,
-        "points": 60512,
+        "plays": 30,
+        "points": 64816,
         "staked": 0
       },
       "coin": {
@@ -3043,7 +3043,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 22,
+        "plays": 23,
         "points": 0,
         "staked": 0
       },
