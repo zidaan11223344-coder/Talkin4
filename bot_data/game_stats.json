@@ -1558,9 +1558,9 @@
         "staked": 1000
       },
       "كاشف": {
-        "plays": 33,
-        "points": 2500,
-        "staked": 16500
+        "plays": 34,
+        "points": 2000,
+        "staked": 17000
       },
       "صدام": {
         "plays": 21,
@@ -1573,9 +1573,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 36,
-        "points": 0,
-        "staked": 18000
+        "plays": 37,
+        "points": -500,
+        "staked": 18500
       },
       "سنارة": {
         "plays": 23,
@@ -1738,6 +1738,11 @@
         "staked": 0
       },
       "سنارة": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
+      },
+      "كاشف": {
         "plays": 1,
         "points": 500,
         "staked": 500
@@ -2718,9 +2723,9 @@
         "staked": 7500
       },
       "برق": {
-        "plays": 14,
-        "points": -2000,
-        "staked": 7000
+        "plays": 15,
+        "points": -1500,
+        "staked": 7500
       },
       "كاشف": {
         "plays": 24,
