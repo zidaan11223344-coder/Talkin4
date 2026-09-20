@@ -538,7 +538,7 @@
         "staked": 11000
       },
       "طاولة": {
-        "plays": 31,
+        "plays": 32,
         "points": 30736,
         "staked": 30834
       },
@@ -1883,8 +1883,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 4,
-        "points": 150,
+        "plays": 5,
+        "points": 170,
         "staked": 0
       }
     }
