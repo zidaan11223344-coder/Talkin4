@@ -513,9 +513,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 51,
-        "points": -1500,
-        "staked": 25500
+        "plays": 52,
+        "points": -2000,
+        "staked": 26000
       },
       "برق": {
         "plays": 51,
@@ -818,8 +818,8 @@
         "staked": 11500
       },
       "volcano": {
-        "plays": 63,
-        "points": 165140,
+        "plays": 64,
+        "points": 167766,
         "staked": 0
       },
       "farm": {
@@ -3638,9 +3638,9 @@
         "staked": 1000
       },
       "سنارة": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       },
       "كاشف": {
         "plays": 1,
