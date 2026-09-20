@@ -2553,9 +2553,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 152,
+        "plays": 153,
         "points": 6000,
-        "staked": 76000
+        "staked": 76500
       },
       "كنز": {
         "plays": 2,
@@ -2578,7 +2578,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 98,
+        "plays": 99,
         "points": 1000000000,
         "staked": 0
       },
