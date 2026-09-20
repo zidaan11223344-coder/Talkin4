@@ -4088,5 +4088,15 @@
         "staked": 0
       }
     }
+  },
+  "иәxт": {
+    "username": "иәxт",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 30,
+        "staked": 0
+      }
+    }
   }
 }
