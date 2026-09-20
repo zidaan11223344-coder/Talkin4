@@ -68,9 +68,9 @@
         "staked": 16500
       },
       "صدام": {
-        "plays": 5,
-        "points": 500,
-        "staked": 2500
+        "plays": 6,
+        "points": 0,
+        "staked": 3000
       },
       "كاشف": {
         "plays": 14,
@@ -83,9 +83,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 14,
-        "points": 0,
-        "staked": 7000
+        "plays": 15,
+        "points": -500,
+        "staked": 7500
       },
       "cup": {
         "plays": 9,
@@ -2958,9 +2958,9 @@
         "staked": 3000
       },
       "برق": {
-        "plays": 11,
-        "points": 2500,
-        "staked": 5500
+        "plays": 12,
+        "points": 3000,
+        "staked": 6000
       },
       "ياقوت": {
         "plays": 2,
@@ -2978,9 +2978,9 @@
         "staked": 0
       },
       "صدام": {
-        "plays": 5,
-        "points": -1500,
-        "staked": 2500
+        "plays": 6,
+        "points": -1000,
+        "staked": 3000
       },
       "كاشف": {
         "plays": 15,
