@@ -678,9 +678,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 56,
+        "plays": 57,
         "points": -5500,
-        "staked": 28000
+        "staked": 28500
       },
       "luck_free": {
         "plays": 45,
@@ -688,7 +688,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 15,
+        "plays": 16,
         "points": 0,
         "staked": 0
       },
@@ -888,8 +888,8 @@
         "staked": 7500
       },
       "star": {
-        "plays": 66,
-        "points": 157382,
+        "plays": 67,
+        "points": 161265,
         "staked": 0
       },
       "طاولة": {
@@ -3803,9 +3803,9 @@
     "username": "قــمہٰ۪۫ﹷٰٰﹷــࢪ•᯽̸᜔᮫•يہٰ۪۫ﹷمہٰ۪۫ﹷٰـاެنۍٔ𝄢",
     "games": {
       "steal": {
-        "plays": 3,
-        "points": 500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       }
     }
   },
@@ -3898,9 +3898,9 @@
     "username": "شہيہٰخہٰهہ•.♚.•ٱلبہۣنہۣۗأت",
     "games": {
       "steal": {
-        "plays": 6,
-        "points": 1500,
-        "staked": 3000
+        "plays": 7,
+        "points": 2000,
+        "staked": 3500
       },
       "اونو": {
         "plays": 3,
