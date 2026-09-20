@@ -38669,6 +38669,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789941560
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789941584
       }
     },
     "عشقي-❤-العراق": {
