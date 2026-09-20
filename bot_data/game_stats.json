@@ -1603,8 +1603,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 3,
-        "points": 11412,
+        "plays": 4,
+        "points": 13696,
         "staked": 0
       }
     }
@@ -2708,7 +2708,7 @@
         "staked": 0
       },
       "rps": {
-        "plays": 32,
+        "plays": 33,
         "points": 2090,
         "staked": 0
       },
