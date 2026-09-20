@@ -364,6 +364,10 @@
     ".lonely.soul.": {
       "username": ".lonely.soul.",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "آلآمـ♛ـبـرا◦°الـلـ♕ـبــنـ♕ـانـيـه°◦ـطـ♛ـورة": {
+      "username": "آلآمـ♛ـبـرا◦°الـلـ♕ـبــنـ♕ـانـيـه°◦ـطـ♛ـورة",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
