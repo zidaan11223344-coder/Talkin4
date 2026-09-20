@@ -783,8 +783,8 @@
         "staked": 500
       },
       "coin": {
-        "plays": 8,
-        "points": 10240,
+        "plays": 7,
+        "points": 6155,
         "staked": 0
       },
       "كاشف": {
@@ -798,7 +798,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 129,
+        "plays": 130,
         "points": 1000000000,
         "staked": 0
       },
