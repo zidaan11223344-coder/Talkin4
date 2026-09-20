@@ -73,9 +73,9 @@
         "staked": 2500
       },
       "كاشف": {
-        "plays": 13,
-        "points": -500,
-        "staked": 6500
+        "plays": 14,
+        "points": 0,
+        "staked": 7000
       },
       "monster": {
         "plays": 12,
@@ -2913,13 +2913,13 @@
         "staked": 44594
       },
       "monster": {
-        "plays": 35,
+        "plays": 36,
         "points": 52140,
         "staked": 0
       },
       "volcano": {
-        "plays": 44,
-        "points": 101988,
+        "plays": 45,
+        "points": 104183,
         "staked": 0
       },
       "luck_free": {
@@ -2973,9 +2973,9 @@
         "staked": 2500
       },
       "كاشف": {
-        "plays": 14,
-        "points": 1000,
-        "staked": 7000
+        "plays": 15,
+        "points": 500,
+        "staked": 7500
       },
       "luck": {
         "plays": 26,
