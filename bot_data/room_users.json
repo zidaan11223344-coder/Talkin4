@@ -26614,7 +26614,7 @@
         "username": "مـْـْْـْشُـُـُُـُاعٌـِـِِـِـر♤بـٌـٌٌـٌٌٌـٌٌـٌارڊه",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789857580
+        "last_seen": 1789865012
       },
       "zodyac2": {
         "username": "zodyac2",
@@ -35807,6 +35807,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789864730
+      },
+      "feerto": {
+        "username": "feerto",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789865014
       }
     }
   }
