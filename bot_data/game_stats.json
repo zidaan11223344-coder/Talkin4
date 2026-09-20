@@ -558,7 +558,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 11,
+        "plays": 12,
         "points": 10829,
         "staked": 0
       },
@@ -593,8 +593,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 16,
-        "points": 37657,
+        "plays": 17,
+        "points": 38888,
         "staked": 0
       },
       "luck": {
@@ -2938,13 +2938,13 @@
         "staked": 44594
       },
       "monster": {
-        "plays": 42,
+        "plays": 43,
         "points": 57943,
         "staked": 0
       },
       "volcano": {
-        "plays": 53,
-        "points": 123084,
+        "plays": 54,
+        "points": 127528,
         "staked": 0
       },
       "luck_free": {
