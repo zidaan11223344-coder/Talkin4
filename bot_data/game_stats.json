@@ -2438,8 +2438,8 @@
         "staked": 400
       },
       "coin": {
-        "plays": 44,
-        "points": 34450,
+        "plays": 45,
+        "points": 38133,
         "staked": 0
       },
       "برق": {
@@ -3628,6 +3628,11 @@
         "staked": 500
       },
       "برق": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
+      },
+      "صدام": {
         "plays": 1,
         "points": 500,
         "staked": 500
