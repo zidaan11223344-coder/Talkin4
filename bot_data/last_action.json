@@ -1,7 +1,7 @@
 {
-  "command": "⛴ بدأت حرب السفن الانضمام اكتب\n(حرب) | Battleship started! Type (war) to join",
-  "room": "بلاد♡الشام",
+  "command": "❌ يوجد لعبة جارية | Game already in progress",
+  "room": "♟_لَعــــ_«حب»ـــبّــــــة_♟",
   "sender": "<٠٠٠>",
   "is_private": false,
-  "created_at": 1789904679
+  "created_at": 1789904684
 }
