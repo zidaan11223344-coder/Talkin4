@@ -558,7 +558,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 21,
+        "plays": 22,
         "points": 19438,
         "staked": 0
       },
@@ -798,8 +798,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 243,
-        "points": 9740,
+        "plays": 244,
+        "points": 9750,
         "staked": 0
       },
       "rps": {
@@ -873,8 +873,8 @@
         "staked": 0
       },
       "box": {
-        "plays": 10,
-        "points": 12529,
+        "plays": 11,
+        "points": 17104,
         "staked": 0
       },
       "steal": {
