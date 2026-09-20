@@ -538,9 +538,9 @@
         "staked": 12500
       },
       "طاولة": {
-        "plays": 34,
-        "points": 34779,
-        "staked": 34877
+        "plays": 35,
+        "points": 37818,
+        "staked": 37916
       },
       "volcano": {
         "plays": 45,
@@ -573,7 +573,7 @@
         "staked": 14000
       },
       "bird": {
-        "plays": 7,
+        "plays": 8,
         "points": 10314,
         "staked": 0
       },
@@ -818,8 +818,8 @@
         "staked": 12500
       },
       "volcano": {
-        "plays": 65,
-        "points": 170263,
+        "plays": 66,
+        "points": 173145,
         "staked": 0
       },
       "farm": {
