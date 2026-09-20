@@ -583,8 +583,8 @@
         "staked": 16000
       },
       "bird": {
-        "plays": 21,
-        "points": 45602,
+        "plays": 22,
+        "points": 46997,
         "staked": 0
       },
       "cup": {
@@ -798,8 +798,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 242,
-        "points": 9690,
+        "plays": 243,
+        "points": 9740,
         "staked": 0
       },
       "rps": {
@@ -868,7 +868,7 @@
         "staked": 288000
       },
       "bird": {
-        "plays": 96,
+        "plays": 97,
         "points": 237889,
         "staked": 0
       },
