@@ -538,9 +538,9 @@
         "staked": 0
       },
       "صدام": {
-        "plays": 23,
-        "points": -3500,
-        "staked": 11500
+        "plays": 24,
+        "points": -4000,
+        "staked": 12000
       },
       "كاشف": {
         "plays": 27,
@@ -583,8 +583,8 @@
         "staked": 15500
       },
       "bird": {
-        "plays": 17,
-        "points": 33194,
+        "plays": 18,
+        "points": 37660,
         "staked": 0
       },
       "cup": {
@@ -878,9 +878,9 @@
         "staked": 500
       },
       "صدام": {
-        "plays": 9,
-        "points": 500,
-        "staked": 4500
+        "plays": 10,
+        "points": 1000,
+        "staked": 5000
       },
       "ياقوت": {
         "plays": 15,
