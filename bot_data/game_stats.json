@@ -783,9 +783,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 27,
-        "points": -5500,
-        "staked": 13500
+        "plays": 28,
+        "points": -5000,
+        "staked": 14000
       },
       "wheel": {
         "plays": 4,
@@ -808,9 +808,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 28,
-        "points": 0,
-        "staked": 14000
+        "plays": 29,
+        "points": 500,
+        "staked": 14500
       },
       "برق": {
         "plays": 21,
@@ -3635,6 +3635,11 @@
       "صدام": {
         "plays": 1,
         "points": 500,
+        "staked": 500
+      },
+      "سنارة": {
+        "plays": 1,
+        "points": -500,
         "staked": 500
       }
     }
