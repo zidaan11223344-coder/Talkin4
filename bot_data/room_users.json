@@ -2921,6 +2921,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789945793
+      },
+      ".alkoo._.oory.": {
+        "username": ".alkoo._.oory.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789945797
       }
     },
     "اتكيت": {
@@ -6324,9 +6330,9 @@
     "♟_لَعــــ_«حب»ـــبّــــــة_♟": {
       "<٠٠٠>": {
         "username": "<٠٠٠>",
-        "role": "admin",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789943798
+        "last_seen": 1789945796
       },
       "mnya-_-": {
         "username": "mnya-_-",
