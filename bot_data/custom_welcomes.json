@@ -360,6 +360,10 @@
     "𓆪❀ℓℯℓ𝒶𓆪❀": {
       "username": "𓆪❀ℓℯℓ𝒶𓆪❀",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    ".lonely.soul.": {
+      "username": ".lonely.soul.",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
