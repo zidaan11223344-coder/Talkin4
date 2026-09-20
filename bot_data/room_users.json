@@ -3128,9 +3128,9 @@
       },
       "🦉ّ": {
         "username": "🦉ّ",
-        "role": "admin",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789867514
+        "last_seen": 1789918483
       },
       "_sham.": {
         "username": "_sham.",
@@ -13384,9 +13384,9 @@
       },
       "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
         "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
-        "role": "none",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789883535
+        "last_seen": 1789918481
       },
       "ward.sham": {
         "username": "ward.sham",
@@ -24540,7 +24540,7 @@
         "username": "⎀",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1789902676
+        "last_seen": 1789918483
       },
       ".iph0ne": {
         "username": ".iph0ne",
