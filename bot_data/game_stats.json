@@ -758,7 +758,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 160,
+        "plays": 161,
         "points": 3000000,
         "staked": 0
       },
@@ -818,8 +818,8 @@
         "staked": 12500
       },
       "volcano": {
-        "plays": 79,
-        "points": 208167,
+        "plays": 80,
+        "points": 210519,
         "staked": 0
       },
       "farm": {
