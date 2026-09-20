@@ -2551,6 +2551,11 @@
         "plays": 11,
         "points": 10988,
         "staked": 0
+      },
+      "investment": {
+        "plays": 1,
+        "points": -1000,
+        "staked": 1000
       }
     }
   },
