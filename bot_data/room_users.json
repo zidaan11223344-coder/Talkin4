@@ -1509,6 +1509,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789872385
+      },
+      "ward.sham": {
+        "username": "ward.sham",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789873061
       }
     },
     "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
@@ -1902,9 +1908,9 @@
       },
       "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
         "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
-        "role": "owner",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1789867514
+        "last_seen": 1789873061
       },
       "⎀": {
         "username": "⎀",
