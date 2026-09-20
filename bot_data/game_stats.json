@@ -533,9 +533,9 @@
         "staked": 11500
       },
       "كاشف": {
-        "plays": 24,
-        "points": -1000,
-        "staked": 12000
+        "plays": 25,
+        "points": -1500,
+        "staked": 12500
       },
       "طاولة": {
         "plays": 34,
@@ -783,9 +783,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 29,
-        "points": -4500,
-        "staked": 14500
+        "plays": 30,
+        "points": -4000,
+        "staked": 15000
       },
       "wheel": {
         "plays": 4,
