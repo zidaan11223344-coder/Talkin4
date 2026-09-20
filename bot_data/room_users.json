@@ -781,6 +781,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789935738
+      },
+      "al3no0od": {
+        "username": "al3no0od",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789936822
       }
     },
     "اتكيت": {
@@ -14652,7 +14658,7 @@
         "username": "waell555",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789936771
+        "last_seen": 1789936822
       },
       "2024-bot": {
         "username": "2024-bot",
