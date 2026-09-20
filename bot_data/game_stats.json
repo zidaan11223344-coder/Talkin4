@@ -798,7 +798,7 @@
         "staked": 0
       },
       "rps": {
-        "plays": 3,
+        "plays": 4,
         "points": 5,
         "staked": 0
       },
@@ -3803,9 +3803,9 @@
     "username": "قــمہٰ۪۫ﹷٰٰﹷــࢪ•᯽̸᜔᮫•يہٰ۪۫ﹷمہٰ۪۫ﹷٰـاެنۍٔ𝄢",
     "games": {
       "steal": {
-        "plays": 2,
+        "plays": 3,
         "points": 500,
-        "staked": 1000
+        "staked": 1500
       }
     }
   },
