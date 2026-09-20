@@ -73,9 +73,9 @@
         "staked": 2500
       },
       "كاشف": {
-        "plays": 12,
-        "points": -1000,
-        "staked": 6000
+        "plays": 13,
+        "points": -500,
+        "staked": 6500
       },
       "monster": {
         "plays": 12,
@@ -788,9 +788,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 31,
-        "points": -4500,
-        "staked": 15500
+        "plays": 32,
+        "points": -5000,
+        "staked": 16000
       },
       "wheel": {
         "plays": 8,
