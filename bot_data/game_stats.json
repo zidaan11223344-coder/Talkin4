@@ -473,7 +473,7 @@
     "username": "ࡅٜߺ𐬠ܭ.ᘓɹ̇ᒪ",
     "games": {
       "million": {
-        "plays": 112,
+        "plays": 113,
         "points": 0,
         "staked": 0
       },
@@ -563,7 +563,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 199,
+        "plays": 200,
         "points": 1000000000,
         "staked": 0
       },
@@ -2503,8 +2503,8 @@
         "staked": 400
       },
       "coin": {
-        "plays": 52,
-        "points": 45942,
+        "plays": 53,
+        "points": 50207,
         "staked": 0
       },
       "برق": {
