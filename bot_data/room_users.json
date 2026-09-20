@@ -500,7 +500,7 @@
         "username": "ll.-.ll",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789867514
+        "last_seen": 1789867920
       },
       "2024-bot": {
         "username": "2024-bot",
@@ -2705,6 +2705,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789867864
+      },
+      "ll.-.ll": {
+        "username": "ll.-.ll",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789867920
       }
     },
     "ملوك♕التوب": {
@@ -2729,6 +2735,14 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789867886
+      }
+    },
+    "بنات_المجرة🎀": {
+      "ll.-.ll": {
+        "username": "ll.-.ll",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789867920
       }
     }
   }
