@@ -688,9 +688,9 @@
         "staked": 0
       },
       "ياقوت": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       },
       "volcano": {
         "plays": 10,
@@ -953,9 +953,9 @@
         "staked": 0
       },
       "ياقوت": {
-        "plays": 2,
-        "points": 1000,
-        "staked": 1000
+        "plays": 3,
+        "points": 500,
+        "staked": 1500
       }
     }
   },
