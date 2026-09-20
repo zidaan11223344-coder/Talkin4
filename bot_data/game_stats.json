@@ -533,9 +533,9 @@
         "staked": 10500
       },
       "كاشف": {
-        "plays": 23,
-        "points": -500,
-        "staked": 11500
+        "plays": 24,
+        "points": -1000,
+        "staked": 12000
       },
       "طاولة": {
         "plays": 33,
@@ -783,9 +783,9 @@
         "staked": 0
       },
       "كاشف": {
-        "plays": 28,
-        "points": -5000,
-        "staked": 14000
+        "plays": 29,
+        "points": -4500,
+        "staked": 14500
       },
       "wheel": {
         "plays": 4,
@@ -813,9 +813,9 @@
         "staked": 15000
       },
       "برق": {
-        "plays": 24,
-        "points": 2000,
-        "staked": 12000
+        "plays": 25,
+        "points": 2500,
+        "staked": 12500
       },
       "volcano": {
         "plays": 64,
@@ -858,8 +858,8 @@
         "staked": 1500
       },
       "star": {
-        "plays": 5,
-        "points": 7650,
+        "plays": 6,
+        "points": 12149,
         "staked": 0
       },
       "طاولة": {
@@ -2443,9 +2443,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 33,
-        "points": -5500,
-        "staked": 16500
+        "plays": 34,
+        "points": -6000,
+        "staked": 17000
       },
       "ياقوت": {
         "plays": 33,
