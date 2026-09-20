@@ -2351,6 +2351,11 @@
         "plays": 1,
         "points": 100,
         "staked": 0
+      },
+      "steal": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
