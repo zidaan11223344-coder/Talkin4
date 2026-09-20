@@ -1,8 +1,8 @@
 {
   "rooms": {
     "ادم": {
-      "swear": false,
-      "flood": false,
+      "swear": true,
+      "flood": true,
       "joinleave": false,
       "repeat_limit": 3
     },
