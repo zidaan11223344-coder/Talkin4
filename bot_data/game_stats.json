@@ -38,9 +38,9 @@
         "staked": 0
       },
       "investment": {
-        "plays": 6,
-        "points": 11230,
-        "staked": 11000
+        "plays": 7,
+        "points": -88770,
+        "staked": 111000
       },
       "duel": {
         "plays": 5,
@@ -3013,9 +3013,9 @@
         "staked": 1000000
       },
       "investment": {
-        "plays": 1,
-        "points": -1000,
-        "staked": 1000
+        "plays": 2,
+        "points": 99000,
+        "staked": 101000
       }
     }
   },
