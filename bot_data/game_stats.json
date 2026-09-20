@@ -793,7 +793,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 113,
+        "plays": 114,
         "points": 0,
         "staked": 0
       },
@@ -1888,8 +1888,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 10,
-        "points": 380,
+        "plays": 11,
+        "points": 410,
         "staked": 0
       }
     }
@@ -2443,9 +2443,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 30,
-        "points": -4000,
-        "staked": 15000
+        "plays": 31,
+        "points": -4500,
+        "staked": 15500
       },
       "ياقوت": {
         "plays": 32,
