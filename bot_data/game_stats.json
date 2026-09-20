@@ -28,8 +28,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 8,
-        "points": 270,
+        "plays": 9,
+        "points": 280,
         "staked": 0
       },
       "misc": {
@@ -823,8 +823,8 @@
         "staked": 13500
       },
       "volcano": {
-        "plays": 145,
-        "points": 363499,
+        "plays": 146,
+        "points": 366718,
         "staked": 0
       },
       "farm": {
