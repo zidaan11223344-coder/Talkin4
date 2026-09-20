@@ -3878,8 +3878,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 1,
-        "points": 4520,
+        "plays": 2,
+        "points": 7517,
         "staked": 0
       },
       "rps": {
@@ -3953,9 +3953,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 3,
-        "points": 4000,
-        "staked": 6000
+        "plays": 4,
+        "points": 12000,
+        "staked": 8000
       },
       "billion": {
         "plays": 3,
