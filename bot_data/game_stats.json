@@ -63,9 +63,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 31,
-        "points": 4500,
-        "staked": 15500
+        "plays": 32,
+        "points": 4000,
+        "staked": 16000
       },
       "صدام": {
         "plays": 5,
@@ -813,9 +813,9 @@
         "staked": 5303
       },
       "سنارة": {
-        "plays": 41,
-        "points": 1500,
-        "staked": 20500
+        "plays": 42,
+        "points": 2000,
+        "staked": 21000
       },
       "برق": {
         "plays": 27,
@@ -823,8 +823,8 @@
         "staked": 13500
       },
       "volcano": {
-        "plays": 148,
-        "points": 369391,
+        "plays": 149,
+        "points": 372971,
         "staked": 0
       },
       "farm": {
