@@ -649,6 +649,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789895022
+      },
+      "s-boot": {
+        "username": "s-boot",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789898790
       }
     },
     "اتكيت": {
@@ -5654,7 +5660,7 @@
         "username": "مميــز",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789897754
+        "last_seen": 1789898788
       },
       "crazy--22": {
         "username": "crazy--22",
@@ -19668,7 +19674,7 @@
         "username": "-nafs.",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789898177
+        "last_seen": 1789898789
       },
       "🍫": {
         "username": "🍫",
