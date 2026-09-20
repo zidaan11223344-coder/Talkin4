@@ -721,6 +721,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "bird": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -1733,8 +1738,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 3,
-        "points": 8864,
+        "plays": 4,
+        "points": 12615,
         "staked": 0
       },
       "monster": {
