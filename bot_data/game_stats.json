@@ -663,7 +663,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 193,
+        "plays": 194,
         "points": 6000000,
         "staked": 0
       },
@@ -698,9 +698,9 @@
         "staked": 0
       },
       "ياقوت": {
-        "plays": 7,
-        "points": 500,
-        "staked": 3500
+        "plays": 8,
+        "points": 0,
+        "staked": 4000
       },
       "volcano": {
         "plays": 26,
@@ -2618,9 +2618,9 @@
         "staked": 18500
       },
       "ياقوت": {
-        "plays": 37,
-        "points": -5500,
-        "staked": 18500
+        "plays": 38,
+        "points": -5000,
+        "staked": 19000
       },
       "bet": {
         "plays": 4,
