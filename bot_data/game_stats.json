@@ -731,6 +731,11 @@
         "plays": 1,
         "points": 500,
         "staked": 500
+      },
+      "برق": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
@@ -1748,8 +1753,8 @@
         "staked": 0
       },
       "monster": {
-        "plays": 16,
-        "points": 17699,
+        "plays": 17,
+        "points": 21926,
         "staked": 0
       },
       "سنارة": {
@@ -2748,9 +2753,9 @@
         "staked": 8000
       },
       "برق": {
-        "plays": 15,
-        "points": -1500,
-        "staked": 7500
+        "plays": 16,
+        "points": -2000,
+        "staked": 8000
       },
       "كاشف": {
         "plays": 24,
