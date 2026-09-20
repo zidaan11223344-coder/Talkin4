@@ -548,9 +548,9 @@
         "staked": 13000
       },
       "طاولة": {
-        "plays": 41,
-        "points": 47891,
-        "staked": 47989
+        "plays": 42,
+        "points": 50011,
+        "staked": 50109
       },
       "volcano": {
         "plays": 54,
@@ -578,9 +578,9 @@
         "staked": 42900
       },
       "ياقوت": {
-        "plays": 30,
-        "points": 5000,
-        "staked": 15000
+        "plays": 31,
+        "points": 4500,
+        "staked": 15500
       },
       "bird": {
         "plays": 17,
@@ -883,9 +883,9 @@
         "staked": 4500
       },
       "ياقوت": {
-        "plays": 14,
-        "points": -1000,
-        "staked": 7000
+        "plays": 15,
+        "points": -500,
+        "staked": 7500
       },
       "star": {
         "plays": 66,
@@ -1623,8 +1623,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 11,
-        "points": 27430,
+        "plays": 12,
+        "points": 30519,
         "staked": 0
       }
     }
@@ -1748,8 +1748,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 8,
-        "points": 21007,
+        "plays": 9,
+        "points": 23832,
         "staked": 0
       },
       "monster": {
