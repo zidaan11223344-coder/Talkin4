@@ -858,9 +858,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 48,
-        "points": -20000,
-        "staked": 280000
+        "plays": 49,
+        "points": -22000,
+        "staked": 282000
       },
       "bird": {
         "plays": 91,
@@ -4038,8 +4038,8 @@
     "username": "ﭑلــــشــــﭑمــــي",
     "games": {
       "monster": {
-        "plays": 1,
-        "points": 0,
+        "plays": 2,
+        "points": 3093,
         "staked": 0
       },
       "wheel": {
