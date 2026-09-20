@@ -3766,6 +3766,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "bird": {
+        "plays": 1,
+        "points": 3600,
+        "staked": 0
       }
     }
   },
