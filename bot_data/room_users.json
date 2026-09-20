@@ -3573,6 +3573,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789932687
+      },
+      "حياة": {
+        "username": "حياة",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789932735
       }
     },
     "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
@@ -15589,6 +15595,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789929483
+      },
+      "samer-12": {
+        "username": "samer-12",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789932736
       }
     },
     "2024": {
