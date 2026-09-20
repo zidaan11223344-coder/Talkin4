@@ -13,7 +13,7 @@
       "repeat_limit": 3
     },
     "مشاعر": {
-      "swear": false,
+      "swear": true,
       "flood": false,
       "joinleave": false,
       "repeat_limit": 3
