@@ -818,8 +818,8 @@
         "staked": 12500
       },
       "volcano": {
-        "plays": 64,
-        "points": 167766,
+        "plays": 65,
+        "points": 170263,
         "staked": 0
       },
       "farm": {
@@ -1883,7 +1883,7 @@
     "username": "amert_alehsas",
     "games": {
       "million": {
-        "plays": 17,
+        "plays": 18,
         "points": 0,
         "staked": 0
       },
