@@ -583,8 +583,8 @@
         "staked": 15500
       },
       "bird": {
-        "plays": 18,
-        "points": 37660,
+        "plays": 19,
+        "points": 39015,
         "staked": 0
       },
       "cup": {
@@ -593,8 +593,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 23,
-        "points": 52525,
+        "plays": 24,
+        "points": 54075,
         "staked": 0
       },
       "luck": {
@@ -893,9 +893,9 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 63,
-        "points": 51144,
-        "staked": 51144
+        "plays": 64,
+        "points": 53227,
+        "staked": 53227
       },
       "cup": {
         "plays": 3,
@@ -1753,7 +1753,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 22,
+        "plays": 23,
         "points": 30773,
         "staked": 0
       },
