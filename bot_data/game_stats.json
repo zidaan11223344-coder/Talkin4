@@ -558,7 +558,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 194,
+        "plays": 195,
         "points": 1000000000,
         "staked": 0
       },
@@ -818,8 +818,8 @@
         "staked": 9000
       },
       "volcano": {
-        "plays": 60,
-        "points": 153537,
+        "plays": 61,
+        "points": 157702,
         "staked": 0
       },
       "farm": {
