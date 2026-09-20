@@ -758,13 +758,13 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 149,
+        "plays": 150,
         "points": 3000000,
         "staked": 0
       },
       "luck_free": {
-        "plays": 145,
-        "points": 5820,
+        "plays": 146,
+        "points": 5830,
         "staked": 0
       },
       "rps": {
@@ -2408,9 +2408,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 29,
-        "points": -3500,
-        "staked": 14500
+        "plays": 30,
+        "points": -4000,
+        "staked": 15000
       },
       "luck": {
         "plays": 4,
@@ -2423,8 +2423,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 153,
-        "points": 6810,
+        "plays": 154,
+        "points": 6830,
         "staked": 0
       },
       "box": {
@@ -3638,9 +3638,9 @@
         "staked": 1000
       },
       "سنارة": {
-        "plays": 2,
-        "points": -1000,
-        "staked": 1000
+        "plays": 3,
+        "points": -500,
+        "staked": 1500
       },
       "كاشف": {
         "plays": 1,
