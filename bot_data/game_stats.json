@@ -3901,6 +3901,11 @@
         "plays": 1,
         "points": 1024,
         "staked": 0
+      },
+      "cup": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
