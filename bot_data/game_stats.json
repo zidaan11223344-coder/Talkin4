@@ -858,9 +858,14 @@
         "staked": 1000
       },
       "star": {
-        "plays": 1,
+        "plays": 2,
         "points": 1103,
         "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 2538,
+        "staked": 2538
       }
     }
   },
