@@ -858,9 +858,9 @@
         "staked": 4500
       },
       "ياقوت": {
-        "plays": 10,
-        "points": 1000,
-        "staked": 5000
+        "plays": 11,
+        "points": 500,
+        "staked": 5500
       },
       "star": {
         "plays": 62,
@@ -2840,6 +2840,11 @@
       "سنارة": {
         "plays": 1,
         "points": -500,
+        "staked": 500
+      },
+      "ياقوت": {
+        "plays": 1,
+        "points": 500,
         "staked": 500
       }
     }
