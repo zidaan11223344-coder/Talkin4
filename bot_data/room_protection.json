@@ -1,7 +1,7 @@
 {
   "rooms": {
     "ادم": {
-      "swear": true,
+      "swear": false,
       "flood": false,
       "joinleave": false,
       "repeat_limit": 3
