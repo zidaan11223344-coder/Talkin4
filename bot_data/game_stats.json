@@ -1788,8 +1788,8 @@
         "staked": 500
       },
       "luck_free": {
-        "plays": 1,
-        "points": 20,
+        "plays": 2,
+        "points": 40,
         "staked": 0
       },
       "billion": {
@@ -4100,6 +4100,16 @@
       "luck_free": {
         "plays": 1,
         "points": 30,
+        "staked": 0
+      }
+    }
+  },
+  "zhra2020": {
+    "username": "zhra2020",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 10,
         "staked": 0
       }
     }
