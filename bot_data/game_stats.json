@@ -588,9 +588,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 128,
-        "points": 238000,
-        "staked": 503000
+        "plays": 129,
+        "points": 236000,
+        "staked": 505000
       },
       "farm": {
         "plays": 7,
@@ -813,9 +813,9 @@
         "staked": 15000
       },
       "برق": {
-        "plays": 23,
-        "points": 1500,
-        "staked": 11500
+        "plays": 24,
+        "points": 2000,
+        "staked": 12000
       },
       "volcano": {
         "plays": 64,
@@ -2443,9 +2443,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 32,
-        "points": -5000,
-        "staked": 16000
+        "plays": 33,
+        "points": -5500,
+        "staked": 16500
       },
       "ياقوت": {
         "plays": 32,
