@@ -823,7 +823,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 131,
+        "plays": 132,
         "points": 1000000000,
         "staked": 0
       },
@@ -1623,8 +1623,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 10,
-        "points": 24742,
+        "plays": 11,
+        "points": 27430,
         "staked": 0
       }
     }
