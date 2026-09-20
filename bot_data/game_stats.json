@@ -658,7 +658,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 185,
+        "plays": 186,
         "points": 6000000,
         "staked": 0
       },
@@ -1588,9 +1588,9 @@
         "staked": 0
       },
       "ياقوت": {
-        "plays": 10,
-        "points": -1000,
-        "staked": 5000
+        "plays": 11,
+        "points": -1500,
+        "staked": 5500
       },
       "duel": {
         "plays": 1,
@@ -1743,6 +1743,11 @@
         "staked": 500
       },
       "كاشف": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
+      },
+      "ياقوت": {
         "plays": 1,
         "points": 500,
         "staked": 500
