@@ -5,6 +5,12 @@
       "flood": false,
       "joinleave": false,
       "repeat_limit": 3
+    },
+    "اتكيت": {
+      "swear": true,
+      "flood": false,
+      "joinleave": false,
+      "repeat_limit": 3
     }
   }
 }
