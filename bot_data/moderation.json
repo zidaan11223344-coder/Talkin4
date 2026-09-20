@@ -326,7 +326,7 @@
   ],
   "rooms": {
     "ادم": {
-      "enabled": true,
+      "enabled": false,
       "repeat_limit": 11,
       "words": []
     }
