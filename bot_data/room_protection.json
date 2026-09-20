@@ -11,6 +11,12 @@
       "flood": false,
       "joinleave": false,
       "repeat_limit": 3
+    },
+    "مشاعر": {
+      "swear": false,
+      "flood": true,
+      "joinleave": false,
+      "repeat_limit": 3
     }
   }
 }
