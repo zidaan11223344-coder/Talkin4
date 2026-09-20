@@ -1,7 +1,7 @@
 {
-  "command": "⏳ Please wait 98 seconds before starting a new game.",
+  "command": "❗✋ Already waiting for a player | أنت بانتظار لاعب بالفعل\n👥 (1/2)",
   "room": "♟_لَعــــ_«حب»ـــبّــــــة_♟",
-  "sender": "🦉ّ",
+  "sender": "⎀",
   "is_private": false,
-  "created_at": 1789905127
+  "created_at": 1789905128
 }
