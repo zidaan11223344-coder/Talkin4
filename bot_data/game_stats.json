@@ -711,16 +711,6 @@
         "plays": 1,
         "points": 0,
         "staked": 0
-      },
-      "monster": {
-        "plays": 1,
-        "points": 1557,
-        "staked": 0
-      },
-      "rps": {
-        "plays": 1,
-        "points": 0,
-        "staked": 0
       }
     }
   },
@@ -3758,6 +3748,11 @@
         "staked": 0
       },
       "rps": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      },
+      "star": {
         "plays": 1,
         "points": 0,
         "staked": 0
