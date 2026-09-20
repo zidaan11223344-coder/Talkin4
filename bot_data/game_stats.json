@@ -1873,9 +1873,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 69,
+        "plays": 70,
         "points": 0,
-        "staked": 34500
+        "staked": 35000
       },
       "rps": {
         "plays": 2,
@@ -1888,8 +1888,8 @@
         "staked": 13500
       },
       "luck_free": {
-        "plays": 41,
-        "points": 1590,
+        "plays": 42,
+        "points": 1640,
         "staked": 0
       },
       "cup": {
@@ -2548,7 +2548,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 133,
+        "plays": 134,
         "points": 0,
         "staked": 0
       },
@@ -2763,7 +2763,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 69,
+        "plays": 70,
         "points": 0,
         "staked": 0
       },
