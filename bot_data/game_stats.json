@@ -793,8 +793,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 233,
-        "points": 9350,
+        "plays": 234,
+        "points": 9370,
         "staked": 0
       },
       "rps": {
@@ -1618,7 +1618,7 @@
         "staked": 2000
       },
       "monster": {
-        "plays": 10,
+        "plays": 11,
         "points": 16082,
         "staked": 0
       },
