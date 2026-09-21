@@ -1668,8 +1668,8 @@
         "staked": 0
       },
       "box": {
-        "plays": 3,
-        "points": 4495,
+        "plays": 4,
+        "points": 7173,
         "staked": 0
       },
       "rps": {
@@ -2603,7 +2603,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 163,
+        "plays": 164,
         "points": 1000000,
         "staked": 0
       },
@@ -2648,7 +2648,7 @@
         "staked": 13100
       },
       "volcano": {
-        "plays": 112,
+        "plays": 113,
         "points": 224350,
         "staked": 0
       },
