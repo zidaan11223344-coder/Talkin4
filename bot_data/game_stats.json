@@ -983,12 +983,12 @@
         "staked": 0
       },
       "bird": {
-        "plays": 74,
-        "points": 177204,
+        "plays": 75,
+        "points": 178975,
         "staked": 0
       },
       "star": {
-        "plays": 73,
+        "plays": 74,
         "points": 162212,
         "staked": 0
       },
@@ -3628,9 +3628,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 133,
+        "plays": 134,
         "points": 0,
-        "staked": 66500
+        "staked": 67000
       },
       "star": {
         "plays": 1,
