@@ -2191,6 +2191,11 @@
         "plays": 4,
         "points": 0,
         "staked": 0
+      },
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -3133,7 +3138,7 @@
         "staked": 0
       },
       "star": {
-        "plays": 141,
+        "plays": 142,
         "points": 337575,
         "staked": 0
       },
