@@ -10141,6 +10141,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790020880
+      },
+      "_ret0o": {
+        "username": "_ret0o",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790021252
       }
     },
     "سورياالروح": {
@@ -31619,6 +31625,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790021226
+      },
+      "s-boot": {
+        "username": "s-boot",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790021250
       }
     },
     "شام": {
