@@ -3078,13 +3078,13 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 42,
-        "points": 41037,
+        "plays": 43,
+        "points": 43267,
         "staked": 0
       },
       "star": {
-        "plays": 119,
-        "points": 283012,
+        "plays": 120,
+        "points": 285530,
         "staked": 0
       },
       "طاولة": {
@@ -4053,9 +4053,9 @@
     "username": "اﻟـﻧـاﯾـﭬـھَہّ",
     "games": {
       "steal": {
-        "plays": 10,
+        "plays": 11,
         "points": -2500,
-        "staked": 5000
+        "staked": 5500
       },
       "rps": {
         "plays": 1,
