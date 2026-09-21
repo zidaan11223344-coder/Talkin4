@@ -4575,6 +4575,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789951280
+      },
+      "bot.t": {
+        "username": "bot.t",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789951543
       }
     },
     "مشاعر": {
