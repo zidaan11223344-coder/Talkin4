@@ -2793,7 +2793,7 @@
         "staked": 400
       },
       "coin": {
-        "plays": 70,
+        "plays": 71,
         "points": 66985,
         "staked": 0
       },
@@ -2848,8 +2848,8 @@
         "staked": 0
       },
       "cup": {
-        "plays": 40,
-        "points": 30285,
+        "plays": 41,
+        "points": 32336,
         "staked": 0
       }
     }
