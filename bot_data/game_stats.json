@@ -1021,6 +1021,11 @@
         "plays": 1,
         "points": 2000,
         "staked": 0
+      },
+      "luck": {
+        "plays": 1,
+        "points": -1000,
+        "staked": 1000
       }
     }
   },
