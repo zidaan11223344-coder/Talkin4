@@ -803,8 +803,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 284,
-        "points": 11340,
+        "plays": 285,
+        "points": 11370,
         "staked": 0
       },
       "rps": {
@@ -4053,9 +4053,9 @@
     "username": "اﻟـﻧـاﯾـﭬـھَہّ",
     "games": {
       "steal": {
-        "plays": 13,
+        "plays": 14,
         "points": -2500,
-        "staked": 6500
+        "staked": 7000
       },
       "rps": {
         "plays": 2,
