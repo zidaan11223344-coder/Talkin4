@@ -3493,8 +3493,8 @@
         "staked": 3000
       },
       "coin": {
-        "plays": 7,
-        "points": 0,
+        "plays": 8,
+        "points": 1394,
         "staked": 0
       },
       "volcano": {
@@ -3553,8 +3553,8 @@
         "staked": 0
       },
       "bird": {
-        "plays": 1,
-        "points": 2034,
+        "plays": 2,
+        "points": 4326,
         "staked": 0
       }
     }
