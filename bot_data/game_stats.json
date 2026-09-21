@@ -4311,6 +4311,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "monster": {
+        "plays": 1,
+        "points": 4047,
+        "staked": 0
       }
     }
   }
