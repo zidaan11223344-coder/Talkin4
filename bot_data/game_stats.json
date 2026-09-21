@@ -878,7 +878,7 @@
         "staked": 0
       },
       "box": {
-        "plays": 48,
+        "plays": 49,
         "points": 54123,
         "staked": 0
       },
@@ -1893,8 +1893,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 19,
-        "points": 560,
+        "plays": 20,
+        "points": 590,
         "staked": 0
       }
     }
