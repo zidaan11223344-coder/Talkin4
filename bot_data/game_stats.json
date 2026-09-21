@@ -888,8 +888,8 @@
         "staked": 0
       },
       "box": {
-        "plays": 51,
-        "points": 54123,
+        "plays": 52,
+        "points": 55402,
         "staked": 0
       },
       "steal": {
@@ -918,7 +918,7 @@
         "staked": 139910
       },
       "cup": {
-        "plays": 38,
+        "plays": 39,
         "points": 27816,
         "staked": 0
       },
@@ -2793,7 +2793,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 126,
+        "plays": 127,
         "points": 1000000000,
         "staked": 0
       },
