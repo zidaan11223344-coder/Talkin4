@@ -6454,9 +6454,9 @@
       },
       "𝕯𝖔𝖕𝖆𝖒𝖎𝖓𝖊": {
         "username": "𝕯𝖔𝖕𝖆𝖒𝖎𝖓𝖊",
-        "role": "owner",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1789966474
+        "last_seen": 1790003733
       },
       "eldery.nayk.almkhal.el.3rsa.anykk.tyzo.ufff.9o8tm": {
         "username": "eldery.nayk.almkhal.el.3rsa.anykk.tyzo.ufff.9o8tm",
@@ -14145,6 +14145,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790002995
+      },
+      "mu6wa3": {
+        "username": "mu6wa3",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790003730
       }
     },
     "مشاعر": {
