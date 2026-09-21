@@ -3103,8 +3103,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 39,
-        "points": 1560,
+        "plays": 40,
+        "points": 1660,
         "staked": 0
       },
       "billion": {
@@ -4053,9 +4053,9 @@
     "username": "اﻟـﻧـاﯾـﭬـھَہّ",
     "games": {
       "steal": {
-        "plays": 12,
+        "plays": 13,
         "points": -2500,
-        "staked": 6000
+        "staked": 6500
       },
       "rps": {
         "plays": 2,
