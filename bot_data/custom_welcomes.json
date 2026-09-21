@@ -388,6 +388,10 @@
     "حــرامـي❦بـنــات": {
       "username": "حــرامـي❦بـنــات",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "والنك": {
+      "username": "والنك",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
