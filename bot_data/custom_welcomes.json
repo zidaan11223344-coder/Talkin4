@@ -384,6 +384,10 @@
     "..skndr..": {
       "username": "..skndr..",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "حــرامـي❦بـنــات": {
+      "username": "حــرامـي❦بـنــات",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
