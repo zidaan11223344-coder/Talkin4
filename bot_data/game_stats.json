@@ -981,6 +981,11 @@
         "plays": 1,
         "points": 10000,
         "staked": 0
+      },
+      "bird": {
+        "plays": 1,
+        "points": 3594,
+        "staked": 0
       }
     }
   },
