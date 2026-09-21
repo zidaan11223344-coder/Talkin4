@@ -1433,8 +1433,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 155,
-        "points": 6220,
+        "plays": 156,
+        "points": 6270,
         "staked": 0
       },
       "صيد": {
@@ -1795,6 +1795,11 @@
       "million": {
         "plays": 19,
         "points": 0,
+        "staked": 0
+      },
+      "luck_free": {
+        "plays": 1,
+        "points": 10,
         "staked": 0
       }
     }
