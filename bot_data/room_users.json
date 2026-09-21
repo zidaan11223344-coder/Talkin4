@@ -4385,6 +4385,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789972202
+      },
+      "dehome": {
+        "username": "dehome",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789972320
       }
     },
     "اتكيت": {
