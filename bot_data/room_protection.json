@@ -27,7 +27,7 @@
     "سوريانا": {
       "swear": false,
       "flood": false,
-      "joinleave": true,
+      "joinleave": false,
       "repeat_limit": 3
     }
   }
