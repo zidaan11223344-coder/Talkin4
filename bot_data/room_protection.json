@@ -9,7 +9,7 @@
     "اتكيت": {
       "swear": false,
       "flood": true,
-      "joinleave": true,
+      "joinleave": false,
       "repeat_limit": 3
     },
     "مشاعر": {
