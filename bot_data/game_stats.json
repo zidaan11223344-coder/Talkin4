@@ -2083,8 +2083,8 @@
         "staked": 1000
       },
       "star": {
-        "plays": 3,
-        "points": 11029,
+        "plays": 4,
+        "points": 14056,
         "staked": 0
       },
       "bird": {
@@ -2096,6 +2096,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 1995,
+        "staked": 1995
       }
     }
   },
@@ -3033,8 +3038,8 @@
         "staked": 29555
       },
       "coin": {
-        "plays": 28,
-        "points": 33594,
+        "plays": 29,
+        "points": 35166,
         "staked": 0
       },
       "wheel": {
