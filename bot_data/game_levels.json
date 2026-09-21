@@ -1015,6 +1015,13 @@
       "label": "لاعب جديد",
       "plays": 3,
       "star_rank": null
+    },
+    "sham12": {
+      "username": "sham12",
+      "level": 1,
+      "label": "لاعب جديد",
+      "plays": 1,
+      "star_rank": null
     }
   }
 }
