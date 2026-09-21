@@ -2633,7 +2633,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 105,
+        "plays": 106,
         "points": 1000000000,
         "staked": 0
       },
@@ -2658,7 +2658,7 @@
         "staked": 0
       },
       "box": {
-        "plays": 94,
+        "plays": 95,
         "points": 85030,
         "staked": 0
       },
@@ -2723,8 +2723,8 @@
         "staked": 0
       },
       "cup": {
-        "plays": 22,
-        "points": 15148,
+        "plays": 23,
+        "points": 18494,
         "staked": 0
       }
     }
