@@ -2223,8 +2223,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 1,
-        "points": 4141,
+        "plays": 2,
+        "points": 6239,
         "staked": 0
       },
       "bird": {
@@ -2843,8 +2843,8 @@
         "staked": 13100
       },
       "volcano": {
-        "plays": 144,
-        "points": 300285,
+        "plays": 145,
+        "points": 303519,
         "staked": 0
       },
       "luck_free": {
