@@ -818,7 +818,7 @@
         "staked": 500
       },
       "coin": {
-        "plays": 26,
+        "plays": 27,
         "points": 35560,
         "staked": 0
       },
@@ -4058,9 +4058,9 @@
     "username": "اﻟـﻧـاﯾـﭬـھَہّ",
     "games": {
       "steal": {
-        "plays": 15,
+        "plays": 16,
         "points": -2500,
-        "staked": 7500
+        "staked": 8000
       },
       "rps": {
         "plays": 4,
