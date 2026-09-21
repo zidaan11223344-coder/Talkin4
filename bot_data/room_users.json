@@ -9378,7 +9378,7 @@
         "username": "التيفاحه",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1790009470
+        "last_seen": 1790009502
       },
       "asmr32": {
         "username": "asmr32",
@@ -30265,6 +30265,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790007542
+      },
+      "𝗩𝗘𝗟𝗘𝗡𝗢": {
+        "username": "𝗩𝗘𝗟𝗘𝗡𝗢",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790009503
       }
     }
   }
