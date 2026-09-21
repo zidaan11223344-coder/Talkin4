@@ -5590,9 +5590,9 @@
       },
       "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
         "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
-        "role": "admin",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1789982860
+        "last_seen": 1789988624
       },
       "loneliness": {
         "username": "loneliness",
@@ -8563,6 +8563,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789988358
+      },
+      "jhonycach": {
+        "username": "jhonycach",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789988623
       }
     },
     "سورياالروح": {
