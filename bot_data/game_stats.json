@@ -2818,9 +2818,9 @@
         "staked": 21000
       },
       "ياقوت": {
-        "plays": 42,
-        "points": -4000,
-        "staked": 21000
+        "plays": 43,
+        "points": -3500,
+        "staked": 21500
       },
       "bet": {
         "plays": 4,
@@ -3508,9 +3508,9 @@
         "staked": 0
       },
       "ياقوت": {
-        "plays": 2,
-        "points": 1000,
-        "staked": 1000
+        "plays": 3,
+        "points": 500,
+        "staked": 1500
       },
       "steal": {
         "plays": 11,
