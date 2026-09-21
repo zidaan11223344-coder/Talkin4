@@ -4597,6 +4597,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789952271
+      },
+      "perfecto.": {
+        "username": "perfecto.",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789952758
       }
     },
     "سوالف": {
@@ -4918,7 +4924,7 @@
         "username": "ajram97",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789952234
+        "last_seen": 1789952759
       },
       "d9ctor": {
         "username": "d9ctor",
