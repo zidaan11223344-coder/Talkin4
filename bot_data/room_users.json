@@ -12867,6 +12867,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789987335
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789987794
       }
     },
     "مشاعر": {
