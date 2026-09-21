@@ -973,8 +973,8 @@
         "staked": 0
       },
       "monster": {
-        "plays": 50,
-        "points": 71019,
+        "plays": 51,
+        "points": 73408,
         "staked": 0
       },
       "farm": {
@@ -998,8 +998,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 54,
-        "points": 114408,
+        "plays": 55,
+        "points": 119016,
         "staked": 0
       },
       "rps": {
@@ -2028,9 +2028,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 77,
+        "plays": 78,
         "points": 0,
-        "staked": 38500
+        "staked": 39000
       },
       "rps": {
         "plays": 2,
