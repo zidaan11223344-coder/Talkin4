@@ -2708,9 +2708,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 39,
-        "points": -5500,
-        "staked": 19500
+        "plays": 40,
+        "points": -6000,
+        "staked": 20000
       },
       "ياقوت": {
         "plays": 40,
@@ -3696,6 +3696,11 @@
         "plays": 1,
         "points": 10000,
         "staked": 0
+      },
+      "برق": {
+        "plays": 1,
+        "points": 500,
+        "staked": 500
       }
     }
   },
