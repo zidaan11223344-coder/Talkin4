@@ -798,13 +798,13 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 220,
+        "plays": 221,
         "points": 4000000,
         "staked": 0
       },
       "luck_free": {
-        "plays": 265,
-        "points": 10700,
+        "plays": 266,
+        "points": 10720,
         "staked": 0
       },
       "rps": {
