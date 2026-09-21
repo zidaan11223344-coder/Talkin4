@@ -288,6 +288,12 @@
       "replies": [
         "صفه الرد"
       ]
+    },
+    "😂": {
+      "trigger": "😂",
+      "replies": [
+        "خبي سنونك بيفجعو"
+      ]
     }
   },
   "auto_replies_enabled": true
