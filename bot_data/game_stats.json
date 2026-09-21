@@ -963,7 +963,7 @@
         "staked": 1000
       },
       "طاولة": {
-        "plays": 9,
+        "plays": 10,
         "points": 14855,
         "staked": 14855
       },
@@ -973,7 +973,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 8,
+        "plays": 9,
         "points": 3928,
         "staked": 0
       },
@@ -1743,7 +1743,7 @@
         "staked": 0
       },
       "box": {
-        "plays": 8,
+        "plays": 9,
         "points": 14065,
         "staked": 0
       },
@@ -2615,6 +2615,11 @@
       "bird": {
         "plays": 1,
         "points": 1893,
+        "staked": 0
+      },
+      "star": {
+        "plays": 1,
+        "points": 3750,
         "staked": 0
       }
     }
