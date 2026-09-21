@@ -11879,6 +11879,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789986087
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789987851
       }
     },
     "يجمعنا💕الـــــــــود": {
