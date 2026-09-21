@@ -2043,8 +2043,8 @@
         "staked": 13500
       },
       "luck_free": {
-        "plays": 56,
-        "points": 1970,
+        "plays": 57,
+        "points": 1990,
         "staked": 0
       },
       "cup": {
@@ -2076,6 +2076,11 @@
         "plays": 2,
         "points": -1000,
         "staked": 1000
+      },
+      "star": {
+        "plays": 1,
+        "points": 2801,
+        "staked": 0
       }
     }
   },
@@ -2843,8 +2848,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 11,
-        "points": 31367,
+        "plays": 12,
+        "points": 32389,
         "staked": 0
       },
       "cup": {
