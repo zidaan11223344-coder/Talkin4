@@ -838,8 +838,8 @@
         "staked": 17500
       },
       "wheel": {
-        "plays": 31,
-        "points": 78993,
+        "plays": 32,
+        "points": 80761,
         "staked": 0
       },
       "billion": {
@@ -883,8 +883,8 @@
         "staked": 358000
       },
       "bird": {
-        "plays": 144,
-        "points": 358530,
+        "plays": 145,
+        "points": 361317,
         "staked": 0
       },
       "box": {
@@ -2873,7 +2873,7 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 39,
+        "plays": 40,
         "points": 93891,
         "staked": 0
       },
