@@ -1633,8 +1633,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 18,
-        "points": 44927,
+        "plays": 19,
+        "points": 48519,
         "staked": 0
       },
       "volcano": {
@@ -2698,8 +2698,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 9,
-        "points": 24229,
+        "plays": 10,
+        "points": 28782,
         "staked": 0
       },
       "star": {
@@ -2708,8 +2708,8 @@
         "staked": 0
       },
       "cup": {
-        "plays": 12,
-        "points": 8245,
+        "plays": 13,
+        "points": 12011,
         "staked": 0
       }
     }
