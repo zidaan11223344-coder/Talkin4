@@ -4259,6 +4259,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789967635
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789967674
       }
     },
     "اتكيت": {
@@ -10432,7 +10438,7 @@
         "username": "omran74",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1789950004
+        "last_seen": 1789967677
       },
       "khaled__": {
         "username": "khaled__",
@@ -10716,7 +10722,7 @@
         "username": "omran74",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789950004
+        "last_seen": 1789967677
       },
       "wahajj": {
         "username": "wahajj",
