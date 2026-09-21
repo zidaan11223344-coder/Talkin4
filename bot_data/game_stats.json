@@ -993,8 +993,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 5,
-        "points": 10054,
+        "plays": 6,
+        "points": 13641,
         "staked": 0
       },
       "volcano": {
@@ -1003,7 +1003,7 @@
         "staked": 0
       },
       "rps": {
-        "plays": 3,
+        "plays": 4,
         "points": 200,
         "staked": 0
       },
@@ -2568,8 +2568,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 6,
-        "points": 17459,
+        "plays": 7,
+        "points": 21613,
         "staked": 0
       },
       "rps": {
