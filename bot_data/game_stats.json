@@ -858,7 +858,7 @@
         "staked": 0
       },
       "اونو": {
-        "plays": 40,
+        "plays": 41,
         "points": 62279,
         "staked": 62278
       },
@@ -888,8 +888,8 @@
         "staked": 370000
       },
       "bird": {
-        "plays": 148,
-        "points": 368291,
+        "plays": 149,
+        "points": 372494,
         "staked": 0
       },
       "box": {
@@ -1993,8 +1993,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 33,
-        "points": 1130,
+        "plays": 34,
+        "points": 1160,
         "staked": 0
       }
     }
