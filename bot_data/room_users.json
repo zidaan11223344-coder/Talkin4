@@ -4759,6 +4759,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1789957388
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789957502
       }
     },
     "سورياالروح": {
