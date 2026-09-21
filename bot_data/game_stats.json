@@ -2403,9 +2403,9 @@
         "staked": 500
       },
       "برق": {
-        "plays": 1,
-        "points": -500,
-        "staked": 500
+        "plays": 2,
+        "points": -1000,
+        "staked": 1000
       },
       "luck": {
         "plays": 1,
@@ -2683,7 +2683,7 @@
         "staked": 13100
       },
       "volcano": {
-        "plays": 124,
+        "plays": 125,
         "points": 252906,
         "staked": 0
       },
@@ -2708,9 +2708,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 38,
-        "points": -6000,
-        "staked": 19000
+        "plays": 39,
+        "points": -5500,
+        "staked": 19500
       },
       "ياقوت": {
         "plays": 40,
