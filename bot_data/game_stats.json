@@ -1628,7 +1628,7 @@
         "staked": 2000
       },
       "monster": {
-        "plays": 34,
+        "plays": 35,
         "points": 34079,
         "staked": 0
       },
@@ -2608,9 +2608,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 166,
+        "plays": 167,
         "points": 6000,
-        "staked": 83000
+        "staked": 83500
       },
       "كنز": {
         "plays": 2,
@@ -2658,7 +2658,7 @@
         "staked": 0
       },
       "box": {
-        "plays": 91,
+        "plays": 92,
         "points": 77638,
         "staked": 0
       },
