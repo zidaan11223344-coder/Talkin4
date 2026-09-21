@@ -2023,8 +2023,8 @@
         "staked": 0
       },
       "farm": {
-        "plays": 24,
-        "points": 89800,
+        "plays": 25,
+        "points": 91800,
         "staked": 0
       },
       "steal": {
@@ -2473,9 +2473,9 @@
         "staked": 500
       },
       "برق": {
-        "plays": 2,
-        "points": -1000,
-        "staked": 1000
+        "plays": 3,
+        "points": -500,
+        "staked": 1500
       },
       "luck": {
         "plays": 1,
@@ -2798,9 +2798,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 40,
-        "points": -6000,
-        "staked": 20000
+        "plays": 41,
+        "points": -6500,
+        "staked": 20500
       },
       "ياقوت": {
         "plays": 41,
