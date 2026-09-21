@@ -169,6 +169,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789987051
+      },
+      "-expect-": {
+        "username": "-expect-",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789988266
       }
     },
     "قصتنا💔خلصت": {
