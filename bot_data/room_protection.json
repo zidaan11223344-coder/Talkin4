@@ -7,7 +7,7 @@
       "repeat_limit": 3
     },
     "اتكيت": {
-      "swear": true,
+      "swear": false,
       "flood": true,
       "joinleave": true,
       "repeat_limit": 3
