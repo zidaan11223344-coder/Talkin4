@@ -1003,8 +1003,8 @@
         "staked": 0
       },
       "rps": {
-        "plays": 2,
-        "points": 0,
+        "plays": 3,
+        "points": 200,
         "staked": 0
       },
       "cup": {
@@ -1723,9 +1723,9 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 15,
-        "points": 20707,
-        "staked": 20707
+        "plays": 16,
+        "points": 24286,
+        "staked": 24286
       },
       "bird": {
         "plays": 4,
