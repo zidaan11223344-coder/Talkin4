@@ -2573,8 +2573,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 3,
-        "points": 220,
+        "plays": 4,
+        "points": 320,
         "staked": 0
       },
       "steal": {
@@ -3598,9 +3598,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 114,
+        "plays": 115,
         "points": 0,
-        "staked": 57000
+        "staked": 57500
       },
       "star": {
         "plays": 1,
