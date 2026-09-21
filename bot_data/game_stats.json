@@ -868,9 +868,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 55,
-        "points": -4000,
-        "staked": 294000
+        "plays": 56,
+        "points": -6000,
+        "staked": 296000
       },
       "bird": {
         "plays": 111,
@@ -2603,7 +2603,7 @@
         "staked": 13100
       },
       "volcano": {
-        "plays": 103,
+        "plays": 104,
         "points": 209191,
         "staked": 0
       },
