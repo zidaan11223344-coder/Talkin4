@@ -813,8 +813,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 310,
-        "points": 12230,
+        "plays": 311,
+        "points": 12240,
         "staked": 0
       },
       "rps": {
@@ -838,8 +838,8 @@
         "staked": 17500
       },
       "wheel": {
-        "plays": 30,
-        "points": 74514,
+        "plays": 31,
+        "points": 78993,
         "staked": 0
       },
       "billion": {
@@ -2763,7 +2763,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 202,
+        "plays": 203,
         "points": 4000000,
         "staked": 0
       },
