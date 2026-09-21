@@ -1653,13 +1653,13 @@
         "staked": 2000
       },
       "monster": {
-        "plays": 51,
+        "plays": 52,
         "points": 46679,
         "staked": 0
       },
       "wheel": {
-        "plays": 49,
-        "points": 117392,
+        "plays": 50,
+        "points": 120681,
         "staked": 0
       },
       "volcano": {
@@ -3178,8 +3178,8 @@
         "staked": 1500
       },
       "bird": {
-        "plays": 147,
-        "points": 361308,
+        "plays": 148,
+        "points": 364266,
         "staked": 0
       },
       "cup": {
