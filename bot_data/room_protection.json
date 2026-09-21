@@ -8,7 +8,7 @@
     },
     "اتكيت": {
       "swear": false,
-      "flood": true,
+      "flood": false,
       "joinleave": false,
       "repeat_limit": 3
     },
