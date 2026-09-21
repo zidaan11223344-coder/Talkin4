@@ -1016,6 +1016,11 @@
         "plays": 2,
         "points": 4544,
         "staked": 4544
+      },
+      "box": {
+        "plays": 1,
+        "points": 2000,
+        "staked": 0
       }
     }
   },
