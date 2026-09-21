@@ -993,8 +993,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 16,
-        "points": 39024,
+        "plays": 17,
+        "points": 40306,
         "staked": 0
       },
       "volcano": {
@@ -2728,8 +2728,8 @@
         "staked": 0
       },
       "million": {
-        "plays": 188,
-        "points": 3000000,
+        "plays": 189,
+        "points": 4000000,
         "staked": 0
       },
       "steal": {
@@ -2848,8 +2848,8 @@
         "staked": 0
       },
       "cup": {
-        "plays": 42,
-        "points": 36187,
+        "plays": 43,
+        "points": 37912,
         "staked": 0
       }
     }
