@@ -1,7 +1,7 @@
 {
-  "command": "خروج ادم",
+  "command": "دخول@ادم",
   "room": "ادم",
   "sender": "ۦاݪــۛـسـ𓆩♛𓆪ـۧۦـ۫فـيــ۫ـۧر𝁤𝆬𝃛",
-  "is_private": false,
-  "created_at": 1790013946
+  "is_private": true,
+  "created_at": 1790013955
 }
