@@ -2668,8 +2668,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 4,
-        "points": 7326,
+        "plays": 5,
+        "points": 12081,
         "staked": 0
       },
       "star": {
@@ -2678,7 +2678,7 @@
         "staked": 0
       },
       "cup": {
-        "plays": 7,
+        "plays": 8,
         "points": 3077,
         "staked": 0
       }
