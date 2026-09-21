@@ -963,7 +963,7 @@
         "staked": 500
       },
       "طاولة": {
-        "plays": 6,
+        "plays": 7,
         "points": 11613,
         "staked": 11613
       },
@@ -993,8 +993,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 4,
-        "points": 7867,
+        "plays": 5,
+        "points": 10054,
         "staked": 0
       },
       "volcano": {
