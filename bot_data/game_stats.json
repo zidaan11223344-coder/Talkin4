@@ -1333,8 +1333,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 4,
-        "points": 240,
+        "plays": 5,
+        "points": 340,
         "staked": 0
       },
       "monster": {
@@ -2668,8 +2668,8 @@
         "staked": 0
       },
       "farm": {
-        "plays": 100,
-        "points": 388000,
+        "plays": 101,
+        "points": 389000,
         "staked": 0
       },
       "billion": {
