@@ -5446,9 +5446,9 @@
       },
       "رشـو★علۍ★قـبـري★مـטּ★دمـوع★عـينـه": {
         "username": "رشـو★علۍ★قـبـري★مـטּ★دمـوع★عـينـه",
-        "role": "member",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1789966474
+        "last_seen": 1789967198
       },
       "ms33ood": {
         "username": "ms33ood",
@@ -15407,6 +15407,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789964834
+      },
+      "eerror": {
+        "username": "eerror",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789967198
       }
     },
     "ملوك♕التوب": {
