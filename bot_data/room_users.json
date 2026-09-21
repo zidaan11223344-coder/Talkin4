@@ -3340,7 +3340,7 @@
         "username": "darky",
         "role": "none",
         "user_id": "",
-        "last_seen": 1789958165
+        "last_seen": 1789958329
       },
       "m0nna": {
         "username": "m0nna",
@@ -8245,6 +8245,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1789958058
+      },
+      "ﻣـعـانق•الغيـم": {
+        "username": "ﻣـعـانق•الغيـم",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789958325
       }
     },
     "سوالف": {
@@ -21437,6 +21443,56 @@
         "role": "creator",
         "user_id": "",
         "last_seen": 1789955672
+      }
+    },
+    "شام": {
+      "<٠٠٠>": {
+        "username": "<٠٠٠>",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789958328
+      },
+      "_sham.": {
+        "username": "_sham.",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789958328
+      },
+      "basel94": {
+        "username": "basel94",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789958328
+      },
+      "ɖħƅ": {
+        "username": "ɖħƅ",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789958328
+      },
+      "غـۦۦۦۦـلا.•°❣°•.الڪـۦۦۦۦـون": {
+        "username": "غـۦۦۦۦـلا.•°❣°•.الڪـۦۦۦۦـون",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1789958328
+      },
+      "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
+        "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1789958328
+      },
+      "⎀": {
+        "username": "⎀",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789958328
+      },
+      "🦉ّ": {
+        "username": "🦉ّ",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1789958328
       }
     }
   }
