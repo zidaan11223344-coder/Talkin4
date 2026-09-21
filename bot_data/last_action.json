@@ -1,7 +1,7 @@
 {
-  "command": "invmsg@تعالو نوزع كيك{room}",
-  "room": "اتكيت",
+  "command": "inv@اتكيت",
+  "room": "ادم",
   "sender": "ۦاݪــۛـسـ𓆩♛𓆪ـۧۦـ۫فـيــ۫ـۧر𝁤𝆬𝃛",
   "is_private": false,
-  "created_at": 1789963222
+  "created_at": 1789963239
 }
