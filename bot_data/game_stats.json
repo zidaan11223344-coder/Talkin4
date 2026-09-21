@@ -963,9 +963,9 @@
         "staked": 1000
       },
       "طاولة": {
-        "plays": 8,
-        "points": 11613,
-        "staked": 11613
+        "plays": 9,
+        "points": 14855,
+        "staked": 14855
       },
       "billion": {
         "plays": 5,
@@ -973,7 +973,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 7,
+        "plays": 8,
         "points": 3928,
         "staked": 0
       },
@@ -2611,6 +2611,11 @@
         "plays": 1,
         "points": 500,
         "staked": 500
+      },
+      "bird": {
+        "plays": 1,
+        "points": 1893,
+        "staked": 0
       }
     }
   },
