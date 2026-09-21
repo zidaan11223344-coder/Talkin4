@@ -13885,6 +13885,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790006081
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790006721
       }
     },
     "سوالف": {
