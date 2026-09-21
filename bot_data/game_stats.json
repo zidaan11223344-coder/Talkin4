@@ -3493,7 +3493,7 @@
         "staked": 3000
       },
       "coin": {
-        "plays": 8,
+        "plays": 9,
         "points": 1394,
         "staked": 0
       },
@@ -3513,9 +3513,9 @@
         "staked": 1500
       },
       "steal": {
-        "plays": 11,
+        "plays": 12,
         "points": 500,
-        "staked": 5500
+        "staked": 6000
       },
       "rps": {
         "plays": 2,
@@ -3543,7 +3543,7 @@
         "staked": 0
       },
       "cup": {
-        "plays": 3,
+        "plays": 4,
         "points": 0,
         "staked": 0
       },
@@ -3553,7 +3553,7 @@
         "staked": 0
       },
       "bird": {
-        "plays": 2,
+        "plays": 3,
         "points": 4326,
         "staked": 0
       }
