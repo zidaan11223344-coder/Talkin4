@@ -3233,7 +3233,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 40,
+        "plays": 41,
         "points": 0,
         "staked": 0
       },
@@ -3258,7 +3258,7 @@
         "staked": 1500
       },
       "bird": {
-        "plays": 168,
+        "plays": 169,
         "points": 402737,
         "staked": 0
       },
@@ -3283,8 +3283,8 @@
         "staked": 287000
       },
       "farm": {
-        "plays": 10,
-        "points": 92000,
+        "plays": 11,
+        "points": 96000,
         "staked": 0
       },
       "box": {
