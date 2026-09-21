@@ -873,8 +873,8 @@
         "staked": 346000
       },
       "bird": {
-        "plays": 136,
-        "points": 334940,
+        "plays": 137,
+        "points": 338869,
         "staked": 0
       },
       "box": {
@@ -3833,8 +3833,8 @@
     "username": "-8dr_",
     "games": {
       "luck_free": {
-        "plays": 3,
-        "points": 80,
+        "plays": 4,
+        "points": 110,
         "staked": 0
       },
       "monster": {
