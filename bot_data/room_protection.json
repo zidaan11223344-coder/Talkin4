@@ -23,6 +23,12 @@
       "flood": true,
       "joinleave": false,
       "repeat_limit": 3
+    },
+    "سوريانا": {
+      "swear": false,
+      "flood": false,
+      "joinleave": true,
+      "repeat_limit": 3
     }
   }
 }
