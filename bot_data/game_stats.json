@@ -2563,9 +2563,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 160,
+        "plays": 161,
         "points": 6000,
-        "staked": 80000
+        "staked": 80500
       },
       "كنز": {
         "plays": 2,
@@ -2603,8 +2603,8 @@
         "staked": 13100
       },
       "volcano": {
-        "plays": 109,
-        "points": 214761,
+        "plays": 110,
+        "points": 218476,
         "staked": 0
       },
       "luck_free": {
