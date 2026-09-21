@@ -1661,6 +1661,11 @@
         "plays": 1,
         "points": 2061,
         "staked": 2061
+      },
+      "coin": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -2633,8 +2638,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 225,
-        "points": 10030,
+        "plays": 226,
+        "points": 10040,
         "staked": 0
       },
       "box": {
