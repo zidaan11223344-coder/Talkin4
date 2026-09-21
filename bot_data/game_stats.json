@@ -963,7 +963,7 @@
         "staked": 1000
       },
       "طاولة": {
-        "plays": 39,
+        "plays": 40,
         "points": 53692,
         "staked": 53692
       },
@@ -988,8 +988,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 63,
-        "points": 142720,
+        "plays": 64,
+        "points": 144702,
         "staked": 0
       },
       "wheel": {
@@ -3603,8 +3603,8 @@
     "username": "rjl_libe",
     "games": {
       "luck_free": {
-        "plays": 6,
-        "points": 300,
+        "plays": 7,
+        "points": 400,
         "staked": 0
       }
     }
