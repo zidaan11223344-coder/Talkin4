@@ -2583,7 +2583,7 @@
         "staked": 1000
       },
       "cup": {
-        "plays": 7,
+        "plays": 8,
         "points": 12020,
         "staked": 0
       },
@@ -3573,8 +3573,8 @@
     "username": "rjl_libe",
     "games": {
       "luck_free": {
-        "plays": 5,
-        "points": 280,
+        "plays": 6,
+        "points": 300,
         "staked": 0
       }
     }
