@@ -2648,8 +2648,8 @@
         "staked": 13100
       },
       "volcano": {
-        "plays": 122,
-        "points": 245867,
+        "plays": 123,
+        "points": 250694,
         "staked": 0
       },
       "luck_free": {
@@ -4048,9 +4048,9 @@
     "username": "اﻟـﻧـاﯾـﭬـھَہّ",
     "games": {
       "steal": {
-        "plays": 8,
+        "plays": 9,
         "points": -2500,
-        "staked": 4000
+        "staked": 4500
       }
     }
   },
