@@ -11037,6 +11037,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1789966009
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789966938
       }
     },
     "مشاعر": {
