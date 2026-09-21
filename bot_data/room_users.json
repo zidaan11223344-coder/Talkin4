@@ -5207,6 +5207,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1789998730
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1789999421
       }
     },
     "اتكيت": {
