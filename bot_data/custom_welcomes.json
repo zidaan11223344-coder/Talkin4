@@ -392,6 +392,10 @@
     "والنك": {
       "username": "والنك",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "._samer_.": {
+      "username": "._samer_.",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
