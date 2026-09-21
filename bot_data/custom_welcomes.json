@@ -380,6 +380,10 @@
     "amert_alehsas": {
       "username": "amert_alehsas",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "..skndr..": {
+      "username": "..skndr..",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
