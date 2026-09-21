@@ -678,7 +678,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 217,
+        "plays": 218,
         "points": 8000000,
         "staked": 0
       },
@@ -708,7 +708,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 38,
+        "plays": 39,
         "points": 0,
         "staked": 0
       },
@@ -993,13 +993,23 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 2,
-        "points": 2291,
+        "plays": 3,
+        "points": 4409,
         "staked": 0
       },
       "volcano": {
         "plays": 2,
         "points": 3860,
+        "staked": 0
+      },
+      "rps": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      },
+      "cup": {
+        "plays": 1,
+        "points": 0,
         "staked": 0
       }
     }
