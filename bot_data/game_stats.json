@@ -2898,9 +2898,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 220,
-        "points": 6500,
-        "staked": 110000
+        "plays": 221,
+        "points": 7000,
+        "staked": 110500
       },
       "كنز": {
         "plays": 2,
@@ -3098,9 +3098,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 72,
-        "points": 6500,
-        "staked": 36000
+        "plays": 73,
+        "points": 6000,
+        "staked": 36500
       },
       "farm": {
         "plays": 34,
