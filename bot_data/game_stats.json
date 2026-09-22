@@ -808,9 +808,9 @@
         "staked": 4000
       },
       "سنارة": {
-        "plays": 7,
-        "points": -1500,
-        "staked": 3500
+        "plays": 8,
+        "points": -2000,
+        "staked": 4000
       },
       "كاشف": {
         "plays": 9,
@@ -1963,14 +1963,14 @@
         "staked": 0
       },
       "monster": {
-        "plays": 40,
+        "plays": 41,
         "points": 55156,
         "staked": 0
       },
       "سنارة": {
-        "plays": 5,
-        "points": 500,
-        "staked": 2500
+        "plays": 6,
+        "points": 1000,
+        "staked": 3000
       },
       "كاشف": {
         "plays": 1,
@@ -3138,8 +3138,8 @@
         "staked": 8000
       },
       "luck_free": {
-        "plays": 96,
-        "points": 3920,
+        "plays": 97,
+        "points": 4020,
         "staked": 0
       },
       "volcano": {
