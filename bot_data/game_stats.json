@@ -978,7 +978,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 101,
+        "plays": 102,
         "points": 127937,
         "staked": 0
       },
@@ -998,13 +998,13 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 47,
-        "points": 107711,
+        "plays": 48,
+        "points": 111793,
         "staked": 0
       },
       "volcano": {
-        "plays": 111,
-        "points": 252638,
+        "plays": 112,
+        "points": 255171,
         "staked": 0
       },
       "rps": {
