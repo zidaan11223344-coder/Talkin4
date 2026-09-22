@@ -9911,6 +9911,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790072133
+      },
+      "yasser_magdy": {
+        "username": "yasser_magdy",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790072676
       }
     },
     "شام": {
@@ -14394,7 +14400,7 @@
         "username": "الثرياء",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1790066591
+        "last_seen": 1790072675
       },
       "-.niran.-": {
         "username": "-.niran.-",
@@ -20162,9 +20168,9 @@
       },
       "ۦاݪــۛـسـ𓆩♛𓆪ـۧۦـ۫فـيــ۫ـۧر𝁤𝆬𝃛": {
         "username": "ۦاݪــۛـسـ𓆩♛𓆪ـۧۦـ۫فـيــ۫ـۧر𝁤𝆬𝃛",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790072663
+        "last_seen": 1790072676
       },
       "vvt.on": {
         "username": "vvt.on",
