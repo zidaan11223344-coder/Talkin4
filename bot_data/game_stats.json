@@ -938,12 +938,12 @@
     "username": "دࢦـ⃮ـَٰۄِٰعـ⃮ـَٰـۃ˛឵឵឵឵𝃛𐇵𝅮˹نـ⃮ـَٰفـ⃮ـَٰسـي𝅘𝅥𝅮𝆞ִֶָ𝆞₎",
     "games": {
       "luck_free": {
-        "plays": 50,
-        "points": 2160,
+        "plays": 49,
+        "points": 2110,
         "staked": 0
       },
       "million": {
-        "plays": 66,
+        "plays": 64,
         "points": 1000000,
         "staked": 0
       },
@@ -953,8 +953,8 @@
         "staked": 0
       },
       "coin": {
-        "plays": 46,
-        "points": 64591,
+        "plays": 44,
+        "points": 62688,
         "staked": 0
       },
       "سنارة": {
@@ -968,43 +968,43 @@
         "staked": 1000
       },
       "طاولة": {
-        "plays": 59,
+        "plays": 60,
         "points": 79637,
         "staked": 79637
       },
       "billion": {
-        "plays": 24,
+        "plays": 23,
         "points": 0,
         "staked": 0
       },
       "monster": {
-        "plays": 110,
-        "points": 141603,
+        "plays": 106,
+        "points": 138867,
         "staked": 0
       },
       "farm": {
-        "plays": 18,
-        "points": 110000,
+        "plays": 19,
+        "points": 118000,
         "staked": 0
       },
       "bird": {
-        "plays": 142,
-        "points": 338226,
+        "plays": 137,
+        "points": 324217,
         "staked": 0
       },
       "star": {
-        "plays": 142,
-        "points": 334280,
+        "plays": 137,
+        "points": 321956,
         "staked": 0
       },
       "wheel": {
-        "plays": 55,
-        "points": 124950,
+        "plays": 52,
+        "points": 118221,
         "staked": 0
       },
       "volcano": {
-        "plays": 120,
-        "points": 270097,
+        "plays": 116,
+        "points": 264135,
         "staked": 0
       },
       "rps": {
@@ -1028,9 +1028,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 6,
-        "points": 34000,
-        "staked": 6000
+        "plays": 3,
+        "points": 17000,
+        "staked": 3000
       },
       "steal": {
         "plays": 1,
