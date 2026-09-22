@@ -2258,8 +2258,8 @@
         "staked": 1500
       },
       "rps": {
-        "plays": 14,
-        "points": 400,
+        "plays": 15,
+        "points": 600,
         "staked": 0
       },
       "cup": {
@@ -2288,7 +2288,7 @@
         "staked": 0
       },
       "star": {
-        "plays": 101,
+        "plays": 102,
         "points": 241692,
         "staked": 0
       },
