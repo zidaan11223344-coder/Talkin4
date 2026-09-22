@@ -2268,8 +2268,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 76,
-        "points": 173631,
+        "plays": 77,
+        "points": 178357,
         "staked": 0
       },
       "bird": {
@@ -2298,7 +2298,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 29,
+        "plays": 30,
         "points": 24297,
         "staked": 0
       },
@@ -2918,7 +2918,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 152,
+        "plays": 153,
         "points": 1000000000,
         "staked": 0
       },
