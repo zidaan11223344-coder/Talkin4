@@ -2863,9 +2863,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 214,
+        "plays": 215,
         "points": 7000,
-        "staked": 107000
+        "staked": 107500
       },
       "كنز": {
         "plays": 2,
@@ -2968,8 +2968,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 57,
-        "points": 132484,
+        "plays": 58,
+        "points": 136888,
         "staked": 0
       },
       "star": {
