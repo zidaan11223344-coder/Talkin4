@@ -2103,8 +2103,8 @@
         "staked": 1000
       },
       "star": {
-        "plays": 10,
-        "points": 27066,
+        "plays": 11,
+        "points": 31001,
         "staked": 0
       },
       "bird": {
@@ -4643,8 +4643,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 3,
-        "points": 100,
+        "plays": 4,
+        "points": 110,
         "staked": 0
       }
     }
