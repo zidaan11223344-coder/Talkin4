@@ -4688,8 +4688,8 @@
     "username": "loures",
     "games": {
       "luck_free": {
-        "plays": 1,
-        "points": 50,
+        "plays": 2,
+        "points": 150,
         "staked": 0
       },
       "million": {
