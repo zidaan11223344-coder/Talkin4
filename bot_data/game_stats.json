@@ -4653,5 +4653,15 @@
         "staked": 1717
       }
     }
+  },
+  ".._m-oh-me-d_..": {
+    "username": ".._m-oh-me-d_..",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 20,
+        "staked": 0
+      }
+    }
   }
 }
