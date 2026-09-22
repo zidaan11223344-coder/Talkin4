@@ -2898,9 +2898,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 218,
-        "points": 7500,
-        "staked": 109000
+        "plays": 219,
+        "points": 7000,
+        "staked": 109500
       },
       "كنز": {
         "plays": 2,
@@ -3098,9 +3098,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 70,
-        "points": 5500,
-        "staked": 35000
+        "plays": 71,
+        "points": 6000,
+        "staked": 35500
       },
       "farm": {
         "plays": 34,
@@ -3148,8 +3148,8 @@
         "staked": 8000
       },
       "luck_free": {
-        "plays": 105,
-        "points": 4410,
+        "plays": 106,
+        "points": 4420,
         "staked": 0
       },
       "volcano": {
