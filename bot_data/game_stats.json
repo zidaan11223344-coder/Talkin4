@@ -978,7 +978,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 81,
+        "plays": 82,
         "points": 111423,
         "staked": 0
       },
@@ -993,8 +993,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 111,
-        "points": 254705,
+        "plays": 112,
+        "points": 259568,
         "staked": 0
       },
       "wheel": {
@@ -1003,8 +1003,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 90,
-        "points": 195480,
+        "plays": 91,
+        "points": 197518,
         "staked": 0
       },
       "rps": {
