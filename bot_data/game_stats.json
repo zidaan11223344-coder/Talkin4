@@ -3143,7 +3143,7 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 68,
+        "plays": 69,
         "points": 134444,
         "staked": 0
       },
@@ -4158,8 +4158,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 5,
-        "points": 210,
+        "plays": 6,
+        "points": 230,
         "staked": 0
       }
     }
