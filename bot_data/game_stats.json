@@ -2273,8 +2273,8 @@
         "staked": 0
       },
       "bird": {
-        "plays": 50,
-        "points": 112457,
+        "plays": 51,
+        "points": 117236,
         "staked": 0
       },
       "volcano": {
@@ -2283,8 +2283,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 78,
-        "points": 191749,
+        "plays": 79,
+        "points": 194284,
         "staked": 0
       },
       "طاولة": {
@@ -2888,7 +2888,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 240,
+        "plays": 241,
         "points": 4000000,
         "staked": 0
       },
@@ -4143,9 +4143,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 6,
-        "points": 4000,
-        "staked": 6000
+        "plays": 7,
+        "points": 13000,
+        "staked": 7000
       },
       "coin": {
         "plays": 13,
