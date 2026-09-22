@@ -2238,8 +2238,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 176,
-        "points": 7000,
+        "plays": 177,
+        "points": 7100,
         "staked": 0
       },
       "ياقوت": {
@@ -3093,9 +3093,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 68,
+        "plays": 69,
         "points": 5000,
-        "staked": 34000
+        "staked": 34500
       },
       "farm": {
         "plays": 34,
