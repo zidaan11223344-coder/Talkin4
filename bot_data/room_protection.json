@@ -29,6 +29,12 @@
       "flood": false,
       "joinleave": false,
       "repeat_limit": 3
+    },
+    "بنات_المجرة🎀": {
+      "swear": false,
+      "flood": true,
+      "joinleave": false,
+      "repeat_limit": 3
     }
   }
 }
