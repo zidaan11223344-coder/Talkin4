@@ -1723,7 +1723,7 @@
         "staked": 2000
       },
       "monster": {
-        "plays": 69,
+        "plays": 70,
         "points": 68090,
         "staked": 0
       },
@@ -2223,8 +2223,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 49,
-        "points": 121860,
+        "plays": 50,
+        "points": 125115,
         "staked": 0
       },
       "bird": {
@@ -2248,7 +2248,7 @@
         "staked": 10542
       },
       "box": {
-        "plays": 16,
+        "plays": 17,
         "points": 17508,
         "staked": 0
       },
