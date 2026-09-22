@@ -10503,6 +10503,24 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790066852
+      },
+      ".ocean": {
+        "username": ".ocean",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790067190
+      },
+      ".imagination": {
+        "username": ".imagination",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790067191
+      },
+      "asma19.": {
+        "username": "asma19.",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1790067192
       }
     },
     "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
@@ -13485,6 +13503,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790065865
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790067192
       }
     },
     "مشاعر": {
