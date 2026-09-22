@@ -2273,7 +2273,7 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 100,
+        "plays": 101,
         "points": 229268,
         "staked": 0
       },
@@ -2283,8 +2283,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 83,
-        "points": 187154,
+        "plays": 84,
+        "points": 191838,
         "staked": 0
       },
       "star": {
