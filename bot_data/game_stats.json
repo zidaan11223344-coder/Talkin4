@@ -1306,6 +1306,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -2873,8 +2878,8 @@
         "staked": 0
       },
       "farm": {
-        "plays": 118,
-        "points": 484000,
+        "plays": 119,
+        "points": 486000,
         "staked": 0
       },
       "billion": {
