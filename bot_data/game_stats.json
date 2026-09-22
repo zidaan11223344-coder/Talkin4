@@ -683,8 +683,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 130,
-        "points": 5340,
+        "plays": 131,
+        "points": 5390,
         "staked": 0
       }
     }
@@ -4715,6 +4715,11 @@
       "wheel": {
         "plays": 1,
         "points": 3049,
+        "staked": 0
+      },
+      "rps": {
+        "plays": 1,
+        "points": 0,
         "staked": 0
       }
     }
