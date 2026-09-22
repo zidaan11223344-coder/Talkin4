@@ -1996,6 +1996,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 4391,
+        "staked": 0
       }
     }
   },
@@ -2278,8 +2283,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 70,
-        "points": 161325,
+        "plays": 71,
+        "points": 165629,
         "staked": 0
       },
       "طاولة": {
@@ -4118,7 +4123,7 @@
         "staked": 500
       },
       "million": {
-        "plays": 27,
+        "plays": 28,
         "points": 1000000,
         "staked": 0
       },
