@@ -420,6 +420,10 @@
     "sourea": {
       "username": "sourea",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "loures": {
+      "username": "loures",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
