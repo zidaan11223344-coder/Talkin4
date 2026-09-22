@@ -413,7 +413,7 @@
     "username": "឵឵ㅤ",
     "games": {
       "million": {
-        "plays": 30,
+        "plays": 31,
         "points": 1000000,
         "staked": 0
       },
@@ -4108,8 +4108,8 @@
         "staked": 1000
       },
       "volcano": {
-        "plays": 41,
-        "points": 81859,
+        "plays": 42,
+        "points": 84737,
         "staked": 0
       },
       "ياقوت": {
@@ -4123,7 +4123,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 41,
+        "plays": 42,
         "points": 36164,
         "staked": 0
       },
