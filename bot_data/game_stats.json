@@ -2253,7 +2253,7 @@
         "staked": 1500
       },
       "rps": {
-        "plays": 8,
+        "plays": 9,
         "points": 200,
         "staked": 0
       },
@@ -4143,7 +4143,7 @@
         "staked": 6000
       },
       "coin": {
-        "plays": 10,
+        "plays": 11,
         "points": 17523,
         "staked": 0
       },
