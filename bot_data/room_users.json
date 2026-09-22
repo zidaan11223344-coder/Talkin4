@@ -5151,6 +5151,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790042957
+      },
+      "eerror": {
+        "username": "eerror",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790043480
       }
     },
     "مشاعر": {
