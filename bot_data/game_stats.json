@@ -2738,14 +2738,19 @@
         "staked": 0
       },
       "star": {
-        "plays": 1,
-        "points": 3750,
+        "plays": 2,
+        "points": 6447,
         "staked": 0
       },
       "اونو": {
         "plays": 3,
         "points": 6706,
         "staked": 6706
+      },
+      "wheel": {
+        "plays": 1,
+        "points": 3686,
+        "staked": 0
       }
     }
   },
