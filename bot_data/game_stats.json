@@ -63,9 +63,9 @@
         "staked": 500
       },
       "سنارة": {
-        "plays": 35,
-        "points": 2500,
-        "staked": 17500
+        "plays": 36,
+        "points": 2000,
+        "staked": 18000
       },
       "صدام": {
         "plays": 7,
@@ -228,9 +228,9 @@
         "staked": 12000
       },
       "سنارة": {
-        "plays": 13,
-        "points": 2500,
-        "staked": 6500
+        "plays": 14,
+        "points": 3000,
+        "staked": 7000
       },
       "كاشف": {
         "plays": 15,
@@ -2943,8 +2943,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 346,
-        "points": 14980,
+        "plays": 347,
+        "points": 15030,
         "staked": 0
       },
       "box": {
