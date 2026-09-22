@@ -38269,6 +38269,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790116006
+      },
+      ".taha.": {
+        "username": ".taha.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790116092
       }
     }
   }
