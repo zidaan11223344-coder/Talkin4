@@ -683,7 +683,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 237,
+        "plays": 238,
         "points": 8000000,
         "staked": 0
       },
@@ -703,9 +703,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 62,
+        "plays": 63,
         "points": -6000,
-        "staked": 31000
+        "staked": 31500
       },
       "luck_free": {
         "plays": 54,
