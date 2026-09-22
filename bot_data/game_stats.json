@@ -943,7 +943,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 63,
+        "plays": 64,
         "points": 1000000,
         "staked": 0
       },
@@ -998,8 +998,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 49,
-        "points": 114469,
+        "plays": 50,
+        "points": 116215,
         "staked": 0
       },
       "volcano": {
