@@ -2078,9 +2078,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 95,
+        "plays": 96,
         "points": 0,
-        "staked": 47500
+        "staked": 48000
       },
       "rps": {
         "plays": 2,
@@ -4123,13 +4123,13 @@
         "staked": 0
       },
       "monster": {
-        "plays": 27,
+        "plays": 28,
         "points": 25249,
         "staked": 0
       },
       "wheel": {
-        "plays": 24,
-        "points": 56928,
+        "plays": 25,
+        "points": 58720,
         "staked": 0
       },
       "luck": {
