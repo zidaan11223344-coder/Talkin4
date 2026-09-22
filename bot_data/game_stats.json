@@ -953,7 +953,7 @@
         "staked": 0
       },
       "coin": {
-        "plays": 42,
+        "plays": 43,
         "points": 59918,
         "staked": 0
       },
@@ -983,8 +983,8 @@
         "staked": 0
       },
       "farm": {
-        "plays": 16,
-        "points": 91000,
+        "plays": 17,
+        "points": 101000,
         "staked": 0
       },
       "bird": {
