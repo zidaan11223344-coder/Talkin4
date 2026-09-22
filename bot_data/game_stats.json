@@ -53,9 +53,9 @@
         "staked": 3500
       },
       "steal": {
-        "plays": 20,
-        "points": 2000,
-        "staked": 10000
+        "plays": 21,
+        "points": 2500,
+        "staked": 10500
       },
       "بحث": {
         "plays": 1,
@@ -2898,9 +2898,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 221,
-        "points": 7000,
-        "staked": 110500
+        "plays": 222,
+        "points": 6500,
+        "staked": 111000
       },
       "كنز": {
         "plays": 2,
