@@ -818,13 +818,13 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 268,
+        "plays": 269,
         "points": 5000000,
         "staked": 0
       },
       "luck_free": {
-        "plays": 316,
-        "points": 12410,
+        "plays": 317,
+        "points": 12440,
         "staked": 0
       },
       "rps": {
