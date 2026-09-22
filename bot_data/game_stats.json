@@ -568,9 +568,9 @@
         "staked": 31000
       },
       "برق": {
-        "plays": 53,
-        "points": -500,
-        "staked": 26500
+        "plays": 54,
+        "points": -1000,
+        "staked": 27000
       },
       "coin": {
         "plays": 9,
@@ -2963,9 +2963,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 42,
-        "points": -7000,
-        "staked": 21000
+        "plays": 43,
+        "points": -6500,
+        "staked": 21500
       },
       "ياقوت": {
         "plays": 44,
@@ -3003,8 +3003,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 70,
-        "points": 162254,
+        "plays": 71,
+        "points": 165837,
         "staked": 0
       },
       "star": {
