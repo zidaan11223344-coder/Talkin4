@@ -418,7 +418,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 13,
+        "plays": 14,
         "points": 0,
         "staked": 0
       },
@@ -1098,9 +1098,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 1,
+        "plays": 2,
         "points": -500,
-        "staked": 500
+        "staked": 1000
       },
       "كاشف": {
         "plays": 1,
@@ -3118,8 +3118,8 @@
         "staked": 8000
       },
       "luck_free": {
-        "plays": 86,
-        "points": 3580,
+        "plays": 87,
+        "points": 3630,
         "staked": 0
       },
       "volcano": {
