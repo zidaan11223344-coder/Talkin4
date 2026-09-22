@@ -10569,6 +10569,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790067200
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790067212
       }
     },
     "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
@@ -10932,7 +10938,7 @@
         "username": "_bot_",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790062808
+        "last_seen": 1790067212
       },
       "🦉ّ": {
         "username": "🦉ّ",
@@ -13563,6 +13569,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790067192
+      },
+      "normal.": {
+        "username": "normal.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790067210
       }
     },
     "مشاعر": {
