@@ -508,8 +508,8 @@
         "staked": 0
       },
       "rps": {
-        "plays": 40,
-        "points": 2430,
+        "plays": 41,
+        "points": 2630,
         "staked": 0
       },
       "misc": {
@@ -583,8 +583,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 90,
-        "points": 111634,
+        "plays": 91,
+        "points": 115117,
         "staked": 0
       },
       "billion": {
@@ -2873,7 +2873,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 133,
+        "plays": 134,
         "points": 1000000000,
         "staked": 0
       },
