@@ -4093,8 +4093,8 @@
         "staked": 0
       },
       "billion": {
-        "plays": 13,
-        "points": 0,
+        "plays": 14,
+        "points": 1000000000,
         "staked": 0
       },
       "star": {
@@ -4128,7 +4128,7 @@
         "staked": 500
       },
       "million": {
-        "plays": 42,
+        "plays": 43,
         "points": 1000000,
         "staked": 0
       },
