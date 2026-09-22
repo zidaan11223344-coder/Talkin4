@@ -2293,7 +2293,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 20,
+        "plays": 21,
         "points": 21009,
         "staked": 0
       },
@@ -2993,8 +2993,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 58,
-        "points": 136888,
+        "plays": 59,
+        "points": 141712,
         "staked": 0
       },
       "star": {
