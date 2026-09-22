@@ -2718,9 +2718,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 4,
-        "points": -2000,
-        "staked": 2000
+        "plays": 5,
+        "points": -2500,
+        "staked": 2500
       },
       "cup": {
         "plays": 9,
@@ -3068,9 +3068,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 62,
-        "points": 3500,
-        "staked": 31000
+        "plays": 63,
+        "points": 4000,
+        "staked": 31500
       },
       "farm": {
         "plays": 34,
