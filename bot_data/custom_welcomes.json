@@ -424,6 +424,10 @@
     "loures": {
       "username": "loures",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "♩←": {
+      "username": "♩←",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
