@@ -4118,8 +4118,8 @@
         "staked": 500
       },
       "million": {
-        "plays": 21,
-        "points": 0,
+        "plays": 22,
+        "points": 1000000,
         "staked": 0
       },
       "monster": {
@@ -4138,7 +4138,7 @@
         "staked": 6000
       },
       "coin": {
-        "plays": 5,
+        "plays": 6,
         "points": 8488,
         "staked": 0
       },
