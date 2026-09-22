@@ -10521,6 +10521,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790067192
+      },
+      "loneliness": {
+        "username": "loneliness",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790067193
       }
     },
     "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
@@ -16532,7 +16538,7 @@
         "username": "_bot_",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790051351
+        "last_seen": 1790067194
       },
       "anooooooo": {
         "username": "anooooooo",
@@ -21836,7 +21842,7 @@
         "username": "_bot_",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790065947
+        "last_seen": 1790067194
       },
       "al-gmila": {
         "username": "al-gmila",
