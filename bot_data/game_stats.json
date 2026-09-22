@@ -2743,8 +2743,8 @@
         "staked": 500
       },
       "bird": {
-        "plays": 5,
-        "points": 8586,
+        "plays": 6,
+        "points": 13040,
         "staked": 0
       },
       "star": {
@@ -2758,8 +2758,8 @@
         "staked": 10226
       },
       "wheel": {
-        "plays": 3,
-        "points": 12002,
+        "plays": 4,
+        "points": 16605,
         "staked": 0
       }
     }
