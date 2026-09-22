@@ -818,7 +818,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 270,
+        "plays": 271,
         "points": 5000000,
         "staked": 0
       },
@@ -853,7 +853,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 156,
+        "plays": 157,
         "points": 1000000000,
         "staked": 0
       },
