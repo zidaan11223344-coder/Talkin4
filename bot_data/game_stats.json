@@ -2068,8 +2068,8 @@
         "staked": 13500
       },
       "luck_free": {
-        "plays": 69,
-        "points": 2460,
+        "plays": 70,
+        "points": 2560,
         "staked": 0
       },
       "cup": {
@@ -4646,6 +4646,11 @@
         "plays": 4,
         "points": 110,
         "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 1717,
+        "staked": 1717
       }
     }
   }
