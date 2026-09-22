@@ -39625,6 +39625,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790121201
+      },
+      ".zef.": {
+        "username": ".zef.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790121233
       }
     }
   }
