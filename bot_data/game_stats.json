@@ -2238,8 +2238,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 177,
-        "points": 7100,
+        "plays": 178,
+        "points": 7110,
         "staked": 0
       },
       "ياقوت": {
@@ -2298,7 +2298,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 26,
+        "plays": 27,
         "points": 24297,
         "staked": 0
       },
@@ -4148,7 +4148,7 @@
         "staked": 0
       },
       "اونو": {
-        "plays": 1,
+        "plays": 2,
         "points": 0,
         "staked": 0
       },
@@ -4166,6 +4166,11 @@
         "plays": 6,
         "points": 230,
         "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 2171,
+        "staked": 2171
       }
     }
   },
