@@ -13103,6 +13103,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790112490
+      },
+      ".etas": {
+        "username": ".etas",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790112545
       }
     },
     "شام": {
@@ -18382,7 +18388,7 @@
         "username": "osama84",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1790112390
+        "last_seen": 1790112546
       },
       "eerror": {
         "username": "eerror",
