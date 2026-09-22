@@ -4608,5 +4608,15 @@
         "staked": 0
       }
     }
+  },
+  "𝄟➠": {
+    "username": "𝄟➠",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 30,
+        "staked": 0
+      }
+    }
   }
 }
