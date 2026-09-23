@@ -2308,7 +2308,7 @@
         "username": "‏̅‏𝐶̵̩͜𝑙𝑎̅𝑠̅𝑠̅𝑖̅𝑐",
         "role": "creator",
         "user_id": "",
-        "last_seen": 1790184728
+        "last_seen": 1790184889
       },
       "almazareta": {
         "username": "almazareta",
@@ -7081,6 +7081,14 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790184788
+      }
+    },
+    "سوالف": {
+      "sharpl": {
+        "username": "sharpl",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790184890
       }
     }
   }
