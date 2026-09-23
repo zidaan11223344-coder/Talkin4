@@ -36,6 +36,13 @@
       "flood": true,
       "joinleave": false,
       "repeat_limit": 3
+    },
+    "يجمعنا💕الـــــــــود": {
+      "swear": false,
+      "flood": true,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
     }
   }
 }
