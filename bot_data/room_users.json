@@ -41491,6 +41491,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790138373
+      },
+      ".--x--.": {
+        "username": ".--x--.",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790138378
       }
     }
   }
