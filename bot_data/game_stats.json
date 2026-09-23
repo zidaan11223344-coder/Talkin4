@@ -2743,7 +2743,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 29,
+        "plays": 30,
         "points": 31896,
         "staked": 0
       },
@@ -4788,8 +4788,8 @@
     "username": ".._m-oh-me-d_..",
     "games": {
       "luck_free": {
-        "plays": 1,
-        "points": 20,
+        "plays": 2,
+        "points": 70,
         "staked": 0
       }
     }
