@@ -12273,6 +12273,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1790198216
+      },
+      "aaa": {
+        "username": "aaa",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790198226
       }
     }
   }
