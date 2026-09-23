@@ -933,7 +933,7 @@
         "staked": 0
       },
       "box": {
-        "plays": 122,
+        "plays": 123,
         "points": 140622,
         "staked": 0
       },
@@ -2763,8 +2763,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 16,
-        "points": 880,
+        "plays": 17,
+        "points": 910,
         "staked": 0
       },
       "steal": {
@@ -4148,9 +4148,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 3,
+        "plays": 4,
         "points": -1500,
-        "staked": 1500
+        "staked": 2000
       },
       "volcano": {
         "plays": 135,
