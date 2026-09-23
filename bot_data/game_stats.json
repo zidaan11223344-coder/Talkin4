@@ -848,7 +848,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 300,
+        "plays": 301,
         "points": 5000000,
         "staked": 0
       },
@@ -868,7 +868,7 @@
         "staked": 500
       },
       "coin": {
-        "plays": 49,
+        "plays": 50,
         "points": 72163,
         "staked": 0
       },
@@ -3448,7 +3448,7 @@
         "staked": 0
       },
       "cup": {
-        "plays": 30,
+        "plays": 31,
         "points": 4143,
         "staked": 0
       },
