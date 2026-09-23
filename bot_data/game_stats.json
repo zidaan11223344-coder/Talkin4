@@ -2158,13 +2158,13 @@
         "staked": 13000
       },
       "برق": {
-        "plays": 2,
-        "points": -1000,
-        "staked": 1000
+        "plays": 3,
+        "points": -500,
+        "staked": 1500
       },
       "star": {
-        "plays": 32,
-        "points": 86165,
+        "plays": 33,
+        "points": 89981,
         "staked": 0
       },
       "bird": {
@@ -3173,9 +3173,9 @@
         "staked": 8500
       },
       "برق": {
-        "plays": 16,
-        "points": -2000,
-        "staked": 8000
+        "plays": 17,
+        "points": -2500,
+        "staked": 8500
       },
       "كاشف": {
         "plays": 27,
