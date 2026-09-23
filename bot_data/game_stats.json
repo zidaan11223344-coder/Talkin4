@@ -928,8 +928,8 @@
         "staked": 0
       },
       "box": {
-        "plays": 70,
-        "points": 75012,
+        "plays": 71,
+        "points": 78165,
         "staked": 0
       },
       "steal": {
@@ -1063,9 +1063,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 24,
-        "points": 116000,
-        "staked": 24000
+        "plays": 25,
+        "points": 125000,
+        "staked": 25000
       },
       "steal": {
         "plays": 1,
