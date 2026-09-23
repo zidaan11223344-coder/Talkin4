@@ -3123,8 +3123,8 @@
         "staked": 0
       },
       "billion": {
-        "plays": 102,
-        "points": 0,
+        "plays": 103,
+        "points": 1000000000,
         "staked": 0
       },
       "rps": {
