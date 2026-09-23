@@ -2113,9 +2113,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 106,
-        "points": 0,
-        "staked": 53000
+        "plays": 107,
+        "points": 500,
+        "staked": 53500
       },
       "rps": {
         "plays": 2,
@@ -2178,9 +2178,9 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 1,
-        "points": 1995,
-        "staked": 1995
+        "plays": 2,
+        "points": 3723,
+        "staked": 3723
       },
       "volcano": {
         "plays": 1,
@@ -2938,9 +2938,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 243,
-        "points": 8000,
-        "staked": 121500
+        "plays": 244,
+        "points": 7500,
+        "staked": 122000
       },
       "كنز": {
         "plays": 2,
@@ -3213,7 +3213,7 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 58,
+        "plays": 59,
         "points": 47801,
         "staked": 47801
       },
