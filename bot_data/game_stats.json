@@ -4968,5 +4968,15 @@
         "staked": 0
       }
     }
+  },
+  "_taya_": {
+    "username": "_taya_",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 10,
+        "staked": 0
+      }
+    }
   }
 }
