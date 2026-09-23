@@ -2898,9 +2898,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 233,
-        "points": 7000,
-        "staked": 116500
+        "plays": 234,
+        "points": 7500,
+        "staked": 117000
       },
       "كنز": {
         "plays": 2,
@@ -3003,8 +3003,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 71,
-        "points": 165837,
+        "plays": 72,
+        "points": 166997,
         "staked": 0
       },
       "star": {
@@ -3103,9 +3103,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 74,
-        "points": 5500,
-        "staked": 37000
+        "plays": 75,
+        "points": 5000,
+        "staked": 37500
       },
       "farm": {
         "plays": 34,
