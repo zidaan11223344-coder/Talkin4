@@ -13776,9 +13776,9 @@
       },
       "مـنـِྀ»ـِٓافــِۧقـيـ.ِྀ.̃ٓـٰٰ۪يـِۧטּ❥ۦ": {
         "username": "مـنـِྀ»ـِٓافــِۧقـيـ.ِྀ.̃ٓـٰٰ۪يـِۧטּ❥ۦ",
-        "role": "admin",
+        "role": "none",
         "user_id": "",
-        "last_seen": 1790110498
+        "last_seen": 1790164474
       },
       "iiii.": {
         "username": "iiii.",
@@ -44293,6 +44293,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790164255
+      },
+      "34rtk": {
+        "username": "34rtk",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790164474
       }
     }
   }
