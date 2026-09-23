@@ -2128,8 +2128,8 @@
         "staked": 13500
       },
       "luck_free": {
-        "plays": 86,
-        "points": 3360,
+        "plays": 87,
+        "points": 3410,
         "staked": 0
       },
       "cup": {
@@ -2185,6 +2185,11 @@
       "volcano": {
         "plays": 1,
         "points": 3219,
+        "staked": 0
+      },
+      "wheel": {
+        "plays": 1,
+        "points": 2045,
         "staked": 0
       }
     }
@@ -3218,8 +3223,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 47,
-        "points": 93458,
+        "plays": 48,
+        "points": 97917,
         "staked": 0
       },
       "monster": {
