@@ -858,8 +858,8 @@
         "staked": 0
       },
       "rps": {
-        "plays": 42,
-        "points": 3205,
+        "plays": 43,
+        "points": 3405,
         "staked": 0
       },
       "صيد": {
@@ -3403,8 +3403,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 155,
-        "points": 385923,
+        "plays": 156,
+        "points": 387243,
         "staked": 0
       },
       "luck_free": {
@@ -3443,7 +3443,7 @@
         "staked": 1500
       },
       "bird": {
-        "plays": 239,
+        "plays": 240,
         "points": 549654,
         "staked": 0
       },
