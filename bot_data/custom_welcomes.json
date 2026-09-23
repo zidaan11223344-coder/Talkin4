@@ -456,6 +456,10 @@
     ".mjd.": {
       "username": ".mjd.",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "♤☆↫مّٰـ✰ـجّٰـ✰ـدّٰ↬☆♤": {
+      "username": "♤☆↫مّٰـ✰ـجّٰـ✰ـدّٰ↬☆♤",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
