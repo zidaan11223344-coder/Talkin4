@@ -2113,9 +2113,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 114,
-        "points": 1500,
-        "staked": 57000
+        "plays": 115,
+        "points": 1000,
+        "staked": 57500
       },
       "rps": {
         "plays": 2,
@@ -2943,9 +2943,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 247,
-        "points": 6500,
-        "staked": 123500
+        "plays": 248,
+        "points": 7000,
+        "staked": 124000
       },
       "كنز": {
         "plays": 2,
@@ -3048,7 +3048,7 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 81,
+        "plays": 82,
         "points": 192567,
         "staked": 0
       },
