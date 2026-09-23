@@ -1155,6 +1155,13 @@
       "label": "لاعب جديد",
       "plays": 2,
       "star_rank": null
+    },
+    ".mjd.": {
+      "username": ".mjd.",
+      "level": 1,
+      "label": "لاعب جديد",
+      "plays": 2,
+      "star_rank": null
     }
   }
 }
