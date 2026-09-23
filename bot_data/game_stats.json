@@ -878,8 +878,8 @@
         "staked": 17500
       },
       "wheel": {
-        "plays": 55,
-        "points": 128566,
+        "plays": 56,
+        "points": 130492,
         "staked": 0
       },
       "billion": {
@@ -888,7 +888,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 64,
+        "plays": 65,
         "points": 69341,
         "staked": 0
       },
@@ -1063,9 +1063,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 25,
-        "points": 125000,
-        "staked": 25000
+        "plays": 26,
+        "points": 124000,
+        "staked": 26000
       },
       "steal": {
         "plays": 1,
