@@ -2753,7 +2753,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 72,
+        "plays": 73,
         "points": 1000000000,
         "staked": 0
       },
@@ -2933,9 +2933,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 241,
+        "plays": 242,
         "points": 8000,
-        "staked": 120500
+        "staked": 121000
       },
       "كنز": {
         "plays": 2,
@@ -3038,8 +3038,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 78,
-        "points": 188370,
+        "plays": 79,
+        "points": 190533,
         "staked": 0
       },
       "star": {
@@ -3403,13 +3403,13 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 170,
-        "points": 325261,
+        "plays": 171,
+        "points": 329529,
         "staked": 0
       },
       "star": {
-        "plays": 281,
-        "points": 668614,
+        "plays": 282,
+        "points": 671213,
         "staked": 0
       },
       "طاولة": {
@@ -3418,13 +3418,13 @@
         "staked": 118807
       },
       "monster": {
-        "plays": 179,
-        "points": 230704,
+        "plays": 180,
+        "points": 234764,
         "staked": 0
       },
       "volcano": {
-        "plays": 208,
-        "points": 518143,
+        "plays": 209,
+        "points": 519935,
         "staked": 0
       },
       "luck_free": {
