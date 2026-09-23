@@ -2283,7 +2283,7 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 89,
+        "plays": 90,
         "points": 196345,
         "staked": 0
       },
@@ -4698,6 +4698,11 @@
     "username": "ۦ♚وِأّثّـ°•.أّلَخَطّوِهِ♪يِّمَشٍيِّ♪مَلَگآ.•°ـقِ♚ۦ",
     "games": {
       "cup": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      },
+      "billion": {
         "plays": 1,
         "points": 0,
         "staked": 0
