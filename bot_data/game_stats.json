@@ -4998,5 +4998,15 @@
         "staked": 0
       }
     }
+  },
+  ".mjd.": {
+    "username": ".mjd.",
+    "games": {
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
