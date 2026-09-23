@@ -2351,6 +2351,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790184570
+      },
+      "🍼ً": {
+        "username": "🍼ً",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790184920
       }
     },
     "بنات_المجرة🎀": {
@@ -7101,6 +7107,14 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790184890
+      }
+    },
+    "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
+      "sharpl": {
+        "username": "sharpl",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790184917
       }
     }
   }
