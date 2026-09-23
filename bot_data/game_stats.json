@@ -3733,9 +3733,9 @@
         "staked": 1500
       },
       "steal": {
-        "plays": 14,
+        "plays": 15,
         "points": 500,
-        "staked": 7000
+        "staked": 7500
       },
       "rps": {
         "plays": 2,
@@ -3773,8 +3773,8 @@
         "staked": 0
       },
       "bird": {
-        "plays": 3,
-        "points": 4326,
+        "plays": 4,
+        "points": 7278,
         "staked": 0
       }
     }
