@@ -853,7 +853,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 342,
+        "plays": 343,
         "points": 5000000,
         "staked": 0
       },
@@ -888,7 +888,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 181,
+        "plays": 182,
         "points": 1000000000,
         "staked": 0
       },
@@ -923,9 +923,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 233,
-        "points": 256647,
-        "staked": 893353
+        "plays": 234,
+        "points": 265647,
+        "staked": 894353
       },
       "bird": {
         "plays": 274,
@@ -4208,9 +4208,9 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 23,
-        "points": 32804,
-        "staked": 32804
+        "plays": 24,
+        "points": 34682,
+        "staked": 34682
       },
       "farm": {
         "plays": 1,
