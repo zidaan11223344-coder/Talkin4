@@ -1013,7 +1013,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 168,
+        "plays": 169,
         "points": 195039,
         "staked": 0
       },
@@ -1023,8 +1023,8 @@
         "staked": 0
       },
       "bird": {
-        "plays": 206,
-        "points": 483006,
+        "plays": 207,
+        "points": 484673,
         "staked": 0
       },
       "star": {
@@ -1038,8 +1038,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 182,
-        "points": 421266,
+        "plays": 183,
+        "points": 424453,
         "staked": 0
       },
       "rps": {
