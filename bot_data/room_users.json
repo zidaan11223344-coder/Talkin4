@@ -43549,6 +43549,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790159179
+      },
+      "ifi": {
+        "username": "ifi",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790159299
       }
     }
   }
