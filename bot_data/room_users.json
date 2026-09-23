@@ -2477,6 +2477,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790185734
+      },
+      "رورᅠ": {
+        "username": "رورᅠ",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790185769
       }
     },
     "بنات_المجرة🎀": {
@@ -4282,9 +4288,9 @@
       },
       "_-lo0ol-_": {
         "username": "_-lo0ol-_",
-        "role": "member",
+        "role": "none",
         "user_id": "",
-        "last_seen": 1790184680
+        "last_seen": 1790185769
       },
       ".._-.j.-_..": {
         "username": ".._-.j.-_..",
