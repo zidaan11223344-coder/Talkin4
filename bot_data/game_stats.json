@@ -4888,5 +4888,15 @@
         "staked": 0
       }
     }
+  },
+  "alfox": {
+    "username": "alfox",
+    "games": {
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
