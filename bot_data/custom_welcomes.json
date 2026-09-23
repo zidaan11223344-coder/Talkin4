@@ -452,6 +452,10 @@
     "قـــــار": {
       "username": "قـــــار",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    ".mjd.": {
+      "username": ".mjd.",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
