@@ -928,7 +928,7 @@
         "staked": 0
       },
       "box": {
-        "plays": 82,
+        "plays": 83,
         "points": 94196,
         "staked": 0
       },
@@ -958,7 +958,7 @@
         "staked": 202713
       },
       "cup": {
-        "plays": 63,
+        "plays": 64,
         "points": 55828,
         "staked": 0
       },
@@ -3463,9 +3463,9 @@
         "staked": 8500
       },
       "luck": {
-        "plays": 39,
-        "points": -47000,
-        "staked": 297000
+        "plays": 40,
+        "points": -38000,
+        "staked": 298000
       },
       "farm": {
         "plays": 22,
