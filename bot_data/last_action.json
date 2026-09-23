@@ -1,7 +1,7 @@
 {
-  "command": "مزاجيه, You got: A day off from work",
+  "command": "مزاجيه\n⏳ You can't start the game now. Please wait for 7 minutes.\n لا يمكنك بدء اللعبة الآن. انتظر 7 دقيقة.",
   "room": "♟_لَعــــ_«حب»ـــبّــــــة_♟",
-  "sender": "_bot_",
+  "sender": "⎀",
   "is_private": false,
-  "created_at": 1790165016
+  "created_at": 1790165021
 }
