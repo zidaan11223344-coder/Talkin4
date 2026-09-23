@@ -451,6 +451,11 @@
         "plays": 2,
         "points": 9499,
         "staked": 0
+      },
+      "steal": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -888,14 +893,14 @@
         "staked": 0
       },
       "monster": {
-        "plays": 140,
-        "points": 174454,
+        "plays": 141,
+        "points": 177734,
         "staked": 0
       },
       "اونو": {
-        "plays": 124,
-        "points": 196737,
-        "staked": 196736
+        "plays": 125,
+        "points": 200544,
+        "staked": 200543
       },
       "سنارة": {
         "plays": 43,
@@ -948,8 +953,8 @@
         "staked": 8000
       },
       "star": {
-        "plays": 231,
-        "points": 562314,
+        "plays": 232,
+        "points": 565450,
         "staked": 0
       },
       "طاولة": {
@@ -2763,9 +2768,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 9,
-        "points": -3500,
-        "staked": 4500
+        "plays": 10,
+        "points": -3000,
+        "staked": 5000
       },
       "cup": {
         "plays": 10,
@@ -4158,7 +4163,7 @@
         "staked": 500
       },
       "million": {
-        "plays": 79,
+        "plays": 80,
         "points": 1000000,
         "staked": 0
       },
@@ -4178,7 +4183,7 @@
         "staked": 17000
       },
       "coin": {
-        "plays": 52,
+        "plays": 53,
         "points": 81563,
         "staked": 0
       },
