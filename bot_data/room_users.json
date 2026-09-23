@@ -40639,6 +40639,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790128523
+      },
+      "abo.wal": {
+        "username": "abo.wal",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790128704
       }
     }
   }
