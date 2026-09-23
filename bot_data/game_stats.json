@@ -738,9 +738,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 66,
+        "plays": 67,
         "points": -6000,
-        "staked": 33000
+        "staked": 33500
       },
       "luck_free": {
         "plays": 60,
@@ -3448,7 +3448,7 @@
         "staked": 0
       },
       "cup": {
-        "plays": 32,
+        "plays": 33,
         "points": 4143,
         "staked": 0
       },
