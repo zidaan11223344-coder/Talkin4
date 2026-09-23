@@ -256,6 +256,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "box": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -4158,8 +4163,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 95,
-        "points": 208103,
+        "plays": 96,
+        "points": 210432,
         "staked": 0
       },
       "luck": {
