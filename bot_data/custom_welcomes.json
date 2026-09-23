@@ -468,6 +468,10 @@
     "_taya_": {
       "username": "_taya_",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "تـۧـٖفـا𝅮صـيّـࢦ𝃛𓏺نـا𝅮عـ֔مـ⃪𐇵ــۃ.𐚁̸": {
+      "username": "تـۧـٖفـا𝅮صـيّـࢦ𝃛𓏺نـا𝅮عـ֔مـ⃪𐇵ــۃ.𐚁̸",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
