@@ -1091,6 +1091,11 @@
         "plays": 3,
         "points": 500,
         "staked": 1500
+      },
+      "steal": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   },
@@ -2898,9 +2903,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 235,
-        "points": 7500,
-        "staked": 117500
+        "plays": 236,
+        "points": 8000,
+        "staked": 118000
       },
       "كنز": {
         "plays": 2,
