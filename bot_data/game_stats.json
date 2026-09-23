@@ -3413,13 +3413,13 @@
         "staked": 117533
       },
       "monster": {
-        "plays": 165,
+        "plays": 166,
         "points": 218881,
         "staked": 0
       },
       "volcano": {
-        "plays": 194,
-        "points": 479349,
+        "plays": 195,
+        "points": 483589,
         "staked": 0
       },
       "luck_free": {
@@ -3458,8 +3458,8 @@
         "staked": 1500
       },
       "bird": {
-        "plays": 278,
-        "points": 631448,
+        "plays": 279,
+        "points": 636403,
         "staked": 0
       },
       "cup": {
