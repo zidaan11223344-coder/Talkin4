@@ -848,7 +848,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 279,
+        "plays": 280,
         "points": 5000000,
         "staked": 0
       },
@@ -918,9 +918,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 110,
-        "points": 176000,
-        "staked": 404000
+        "plays": 111,
+        "points": 174000,
+        "staked": 406000
       },
       "bird": {
         "plays": 166,
@@ -1028,13 +1028,13 @@
         "staked": 0
       },
       "star": {
-        "plays": 200,
+        "plays": 201,
         "points": 467349,
         "staked": 0
       },
       "wheel": {
-        "plays": 114,
-        "points": 283635,
+        "plays": 115,
+        "points": 288119,
         "staked": 0
       },
       "volcano": {
