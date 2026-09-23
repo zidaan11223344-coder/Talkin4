@@ -2898,7 +2898,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 269,
+        "plays": 270,
         "points": 4000000,
         "staked": 0
       },
@@ -2948,8 +2948,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 371,
-        "points": 16200,
+        "plays": 372,
+        "points": 16300,
         "staked": 0
       },
       "box": {
@@ -4163,7 +4163,7 @@
         "staked": 10000
       },
       "coin": {
-        "plays": 24,
+        "plays": 25,
         "points": 36535,
         "staked": 0
       },
