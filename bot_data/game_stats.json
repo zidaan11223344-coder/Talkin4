@@ -2753,12 +2753,12 @@
     "username": "☆اِلِـِـِـِلـِـِـِ♬ـِـِـِوِرِڊِ☆اِلِـِـِڛـِـِ♬ـِـِوِرِي☆",
     "games": {
       "million": {
-        "plays": 120,
+        "plays": 121,
         "points": 0,
         "staked": 0
       },
       "billion": {
-        "plays": 74,
+        "plays": 75,
         "points": 1000000000,
         "staked": 0
       },
@@ -3153,7 +3153,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 262,
+        "plays": 263,
         "points": 5000000,
         "staked": 0
       },
@@ -3193,8 +3193,8 @@
         "staked": 8000
       },
       "luck_free": {
-        "plays": 139,
-        "points": 5950,
+        "plays": 140,
+        "points": 6000,
         "staked": 0
       },
       "volcano": {
