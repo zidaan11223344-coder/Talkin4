@@ -878,8 +878,8 @@
         "staked": 17500
       },
       "wheel": {
-        "plays": 59,
-        "points": 136171,
+        "plays": 60,
+        "points": 140465,
         "staked": 0
       },
       "billion": {
@@ -948,14 +948,14 @@
         "staked": 8000
       },
       "star": {
-        "plays": 150,
-        "points": 352916,
+        "plays": 151,
+        "points": 355126,
         "staked": 0
       },
       "طاولة": {
-        "plays": 142,
-        "points": 171031,
-        "staked": 171031
+        "plays": 143,
+        "points": 174005,
+        "staked": 174005
       },
       "cup": {
         "plays": 52,
@@ -4153,7 +4153,7 @@
         "staked": 500
       },
       "million": {
-        "plays": 61,
+        "plays": 62,
         "points": 1000000,
         "staked": 0
       },
