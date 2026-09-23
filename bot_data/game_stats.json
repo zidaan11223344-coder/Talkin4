@@ -2163,8 +2163,8 @@
         "staked": 1500
       },
       "star": {
-        "plays": 33,
-        "points": 89981,
+        "plays": 34,
+        "points": 92187,
         "staked": 0
       },
       "bird": {
@@ -2190,6 +2190,11 @@
       "wheel": {
         "plays": 1,
         "points": 2045,
+        "staked": 0
+      },
+      "monster": {
+        "plays": 1,
+        "points": 4102,
         "staked": 0
       }
     }
