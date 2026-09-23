@@ -748,7 +748,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 64,
+        "plays": 65,
         "points": 0,
         "staked": 0
       },
@@ -758,8 +758,8 @@
         "staked": 4000
       },
       "volcano": {
-        "plays": 55,
-        "points": 110002,
+        "plays": 56,
+        "points": 112138,
         "staked": 0
       },
       "coin": {
@@ -878,8 +878,8 @@
         "staked": 17500
       },
       "wheel": {
-        "plays": 79,
-        "points": 180417,
+        "plays": 80,
+        "points": 181743,
         "staked": 0
       },
       "billion": {
@@ -3463,9 +3463,9 @@
         "staked": 8500
       },
       "luck": {
-        "plays": 40,
-        "points": -38000,
-        "staked": 298000
+        "plays": 41,
+        "points": -39000,
+        "staked": 299000
       },
       "farm": {
         "plays": 22,
