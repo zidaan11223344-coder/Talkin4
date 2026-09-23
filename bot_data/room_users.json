@@ -42247,6 +42247,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1790145918
+      },
+      "malefactor_99": {
+        "username": "malefactor_99",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790145982
       }
     }
   }
