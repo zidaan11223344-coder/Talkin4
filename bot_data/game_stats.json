@@ -883,7 +883,7 @@
         "staked": 17500
       },
       "wheel": {
-        "plays": 127,
+        "plays": 128,
         "points": 302501,
         "staked": 0
       },
@@ -4153,9 +4153,9 @@
         "staked": 500
       },
       "steal": {
-        "plays": 4,
+        "plays": 5,
         "points": -1500,
-        "staked": 2000
+        "staked": 2500
       },
       "volcano": {
         "plays": 169,
