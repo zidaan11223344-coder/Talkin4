@@ -988,7 +988,7 @@
         "staked": 0
       },
       "coin": {
-        "plays": 71,
+        "plays": 72,
         "points": 109910,
         "staked": 0
       },
@@ -1013,8 +1013,8 @@
         "staked": 0
       },
       "monster": {
-        "plays": 158,
-        "points": 182227,
+        "plays": 159,
+        "points": 184204,
         "staked": 0
       },
       "farm": {
@@ -1033,13 +1033,13 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 108,
-        "points": 271492,
+        "plays": 109,
+        "points": 273692,
         "staked": 0
       },
       "volcano": {
-        "plays": 171,
-        "points": 396569,
+        "plays": 172,
+        "points": 400602,
         "staked": 0
       },
       "rps": {
