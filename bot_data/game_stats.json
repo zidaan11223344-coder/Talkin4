@@ -2103,9 +2103,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 99,
+        "plays": 100,
         "points": 0,
-        "staked": 49500
+        "staked": 50000
       },
       "rps": {
         "plays": 2,
@@ -4158,7 +4158,7 @@
         "staked": 500
       },
       "million": {
-        "plays": 77,
+        "plays": 78,
         "points": 1000000,
         "staked": 0
       },
@@ -4178,7 +4178,7 @@
         "staked": 17000
       },
       "coin": {
-        "plays": 48,
+        "plays": 49,
         "points": 76550,
         "staked": 0
       },
