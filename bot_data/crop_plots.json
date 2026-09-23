@@ -1,18 +1,34 @@
 {
-  "🍯َ|🥭|0e637b27": {
+  "🍯َ|🌽|76ce6eb8": {
+    "username": "🍯َ",
+    "crop": "🌽",
+    "minutes": 45,
+    "reward": 9000,
+    "finish": 1790205302.5792005,
+    "room": "♟_لَعــــ_«حب»ـــبّــــــة_♟"
+  },
+  "🍯َ|🥭|e3d6e08e": {
     "username": "🍯َ",
     "crop": "🥭",
     "minutes": 50,
     "reward": 10000,
-    "finish": 1790206067.9214256,
+    "finish": 1790206067.8857412,
     "room": "♟_لَعــــ_«حب»ـــبّــــــة_♟"
   },
-  "gawhara-aljana|🍉|c3e52ed4": {
+  "gawhara-aljana|🍉|51c3040b": {
     "username": "gawhara-aljana",
     "crop": "🍉",
     "minutes": 30,
     "reward": 6000,
-    "finish": 1790204965.507084,
+    "finish": 1790204965.4697762,
     "room": "مشاعر"
+  },
+  "فـ⃝🧚🏻ـانــ†ــا|🍐|2d5e86e6": {
+    "username": "فـ⃝🧚🏻ـانــ†ــا",
+    "crop": "🍐",
+    "minutes": 10,
+    "reward": 2000,
+    "finish": 1790203865.3777275,
+    "room": "ادم"
   }
 }
