@@ -2113,9 +2113,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 110,
-        "points": 1000,
-        "staked": 55000
+        "plays": 111,
+        "points": 1500,
+        "staked": 55500
       },
       "rps": {
         "plays": 2,
@@ -2128,8 +2128,8 @@
         "staked": 13500
       },
       "luck_free": {
-        "plays": 87,
-        "points": 3410,
+        "plays": 88,
+        "points": 3510,
         "staked": 0
       },
       "cup": {
@@ -2943,9 +2943,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 245,
-        "points": 7000,
-        "staked": 122500
+        "plays": 246,
+        "points": 6500,
+        "staked": 123000
       },
       "كنز": {
         "plays": 2,
