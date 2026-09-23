@@ -908,7 +908,7 @@
         "staked": 14500
       },
       "volcano": {
-        "plays": 314,
+        "plays": 315,
         "points": 783028,
         "staked": 0
       },
@@ -923,8 +923,8 @@
         "staked": 715242
       },
       "bird": {
-        "plays": 218,
-        "points": 548247,
+        "plays": 219,
+        "points": 549994,
         "staked": 0
       },
       "box": {
@@ -3383,8 +3383,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 134,
-        "points": 240204,
+        "plays": 135,
+        "points": 245196,
         "staked": 0
       },
       "star": {
