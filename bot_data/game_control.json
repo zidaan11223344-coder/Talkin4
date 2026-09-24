@@ -1,4 +1,6 @@
 {
-  "disabled_rooms": [],
+  "disabled_rooms": [
+    "سوريا.احلا.شله"
+  ],
   "global_enabled": true
 }
