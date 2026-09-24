@@ -3188,9 +3188,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 84,
+        "plays": 85,
         "points": 6500,
-        "staked": 42000
+        "staked": 42500
       },
       "farm": {
         "plays": 40,
@@ -3238,8 +3238,8 @@
         "staked": 8000
       },
       "luck_free": {
-        "plays": 159,
-        "points": 6830,
+        "plays": 160,
+        "points": 6930,
         "staked": 0
       },
       "volcano": {
