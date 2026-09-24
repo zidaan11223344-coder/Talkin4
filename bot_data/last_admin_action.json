@@ -1,8 +1,8 @@
 {
-  "room": "اتكيت",
-  "target": "asd2040",
-  "operation": "admin",
+  "room": "سوريانا",
+  "target": "s-boot",
+  "operation": "owner",
   "inverse": "member",
-  "created_at": 1790217781,
+  "created_at": 1790218260,
   "undone": false
 }
