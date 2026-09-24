@@ -5168,5 +5168,15 @@
         "staked": 0
       }
     }
+  },
+  "взтнян𑁤": {
+    "username": "взтнян𑁤",
+    "games": {
+      "volcano": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
