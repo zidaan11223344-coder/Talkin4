@@ -1131,6 +1131,11 @@
         "plays": 4,
         "points": -1000,
         "staked": 2000
+      },
+      "rps": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
