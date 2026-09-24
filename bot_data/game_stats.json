@@ -1863,8 +1863,8 @@
         "staked": 0
       },
       "box": {
-        "plays": 17,
-        "points": 22071,
+        "plays": 18,
+        "points": 26507,
         "staked": 0
       },
       "rps": {
@@ -2823,7 +2823,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 109,
+        "plays": 110,
         "points": 1000000000,
         "staked": 0
       },
