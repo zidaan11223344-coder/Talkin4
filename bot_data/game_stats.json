@@ -5038,5 +5038,15 @@
         "staked": 0
       }
     }
+  },
+  "sammi": {
+    "username": "sammi",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 50,
+        "staked": 0
+      }
+    }
   }
 }
