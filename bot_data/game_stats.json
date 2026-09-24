@@ -53,9 +53,9 @@
         "staked": 3500
       },
       "steal": {
-        "plays": 27,
-        "points": 3500,
-        "staked": 13500
+        "plays": 28,
+        "points": 4000,
+        "staked": 14000
       },
       "بحث": {
         "plays": 1,
@@ -1128,9 +1128,9 @@
         "staked": 1500
       },
       "steal": {
-        "plays": 2,
-        "points": -500,
-        "staked": 1000
+        "plays": 3,
+        "points": -1000,
+        "staked": 1500
       }
     }
   },
@@ -3193,9 +3193,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 86,
+        "plays": 87,
         "points": 6500,
-        "staked": 43000
+        "staked": 43500
       },
       "farm": {
         "plays": 40,
