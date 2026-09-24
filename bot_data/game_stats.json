@@ -883,7 +883,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 416,
+        "plays": 417,
         "points": 5000000,
         "staked": 0
       },
@@ -953,9 +953,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 290,
-        "points": 464647,
-        "staked": 955353
+        "plays": 291,
+        "points": 463647,
+        "staked": 956353
       },
       "bird": {
         "plays": 300,
