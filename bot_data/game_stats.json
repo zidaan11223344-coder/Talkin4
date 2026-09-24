@@ -103,7 +103,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 31,
+        "plays": 32,
         "points": 0,
         "staked": 0
       },
@@ -938,9 +938,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 274,
-        "points": 420647,
-        "staked": 939353
+        "plays": 275,
+        "points": 419647,
+        "staked": 940353
       },
       "bird": {
         "plays": 295,
