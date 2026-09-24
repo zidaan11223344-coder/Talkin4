@@ -20,7 +20,7 @@
       "repeat_limit": 3
     },
     "بيننا☕كلام": {
-      "swear": true,
+      "swear": false,
       "flood": true,
       "joinleave": false,
       "no_photo": false,
