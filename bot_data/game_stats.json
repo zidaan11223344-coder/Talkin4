@@ -43,9 +43,9 @@
         "staked": 111000
       },
       "duel": {
-        "plays": 7,
-        "points": 901950,
-        "staked": 1103950
+        "plays": 8,
+        "points": 891950,
+        "staked": 1113950
       },
       "صيد": {
         "plays": 7,
@@ -2891,6 +2891,11 @@
         "plays": 1,
         "points": 1922,
         "staked": 0
+      },
+      "duel": {
+        "plays": 1,
+        "points": 10000,
+        "staked": 10000
       }
     }
   },
