@@ -512,6 +512,10 @@
     "samer-12": {
       "username": "samer-12",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "♩。": {
+      "username": "♩。",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
