@@ -9718,9 +9718,9 @@
       },
       "．𝚮ቫ𝚯": {
         "username": "．𝚮ቫ𝚯",
-        "role": "creator",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790293669
+        "last_seen": 1790293970
       },
       "sha..dy": {
         "username": "sha..dy",
@@ -38843,6 +38843,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790293345
+      },
+      "jojo..nano..000": {
+        "username": "jojo..nano..000",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790293970
       }
     }
   }
