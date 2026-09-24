@@ -248,8 +248,8 @@
         "staked": 10000
       },
       "luck_free": {
-        "plays": 16,
-        "points": 720,
+        "plays": 17,
+        "points": 770,
         "staked": 0
       },
       "cup": {
@@ -268,8 +268,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 4,
-        "points": 14316,
+        "plays": 5,
+        "points": 16839,
         "staked": 0
       }
     }
