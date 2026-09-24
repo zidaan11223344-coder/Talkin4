@@ -1038,7 +1038,7 @@
         "staked": 1000
       },
       "طاولة": {
-        "plays": 84,
+        "plays": 85,
         "points": 113863,
         "staked": 113863
       },
@@ -1058,8 +1058,8 @@
         "staked": 0
       },
       "bird": {
-        "plays": 216,
-        "points": 510046,
+        "plays": 217,
+        "points": 513715,
         "staked": 0
       },
       "star": {
@@ -1088,9 +1088,9 @@
         "staked": 0
       },
       "اونو": {
-        "plays": 44,
-        "points": 39156,
-        "staked": 39156
+        "plays": 45,
+        "points": 42257,
+        "staked": 42257
       },
       "box": {
         "plays": 6,
@@ -3123,7 +3123,7 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 95,
+        "plays": 96,
         "points": 219418,
         "staked": 0
       },
