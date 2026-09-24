@@ -7301,6 +7301,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790263970
+      },
+      "y": {
+        "username": "y",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790265212
       }
     },
     "بنات_المجرة🎀": {
@@ -20593,6 +20599,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1790265058
+      },
+      "ara-m": {
+        "username": "ara-m",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790265211
       }
     }
   }
