@@ -504,6 +504,10 @@
     "sammi": {
       "username": "sammi",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "ﺣــۧـورآء•❥𝆕": {
+      "username": "ﺣــۧـورآء•❥𝆕",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
