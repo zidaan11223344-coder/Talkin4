@@ -21,7 +21,7 @@
     },
     "بيننا☕كلام": {
       "swear": false,
-      "flood": true,
+      "flood": false,
       "joinleave": false,
       "no_photo": false,
       "repeat_limit": 3
