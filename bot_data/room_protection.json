@@ -46,7 +46,7 @@
       "repeat_limit": 3
     },
     "حلم♡يمنيه": {
-      "swear": true,
+      "swear": false,
       "flood": false,
       "joinleave": false,
       "no_photo": false,
