@@ -1048,7 +1048,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 178,
+        "plays": 179,
         "points": 212890,
         "staked": 0
       },
@@ -1068,13 +1068,13 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 128,
+        "plays": 129,
         "points": 321410,
         "staked": 0
       },
       "volcano": {
-        "plays": 192,
-        "points": 450042,
+        "plays": 193,
+        "points": 454420,
         "staked": 0
       },
       "rps": {
@@ -3018,9 +3018,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 260,
+        "plays": 261,
         "points": 7500,
-        "staked": 130000
+        "staked": 130500
       },
       "كنز": {
         "plays": 2,
