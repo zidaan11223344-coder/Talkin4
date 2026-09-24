@@ -3258,8 +3258,8 @@
         "staked": 8000
       },
       "luck_free": {
-        "plays": 167,
-        "points": 7240,
+        "plays": 168,
+        "points": 7260,
         "staked": 0
       },
       "volcano": {
@@ -4213,7 +4213,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 36,
+        "plays": 37,
         "points": 1000000000,
         "staked": 0
       },
@@ -4248,7 +4248,7 @@
         "staked": 500
       },
       "million": {
-        "plays": 112,
+        "plays": 113,
         "points": 1000000,
         "staked": 0
       },
