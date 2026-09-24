@@ -1158,9 +1158,9 @@
     },
     ".mjd.": {
       "username": ".mjd.",
-      "level": 1,
-      "label": "لاعب جديد",
-      "plays": 20,
+      "level": 2,
+      "label": "لاعب نشيط",
+      "plays": 22,
       "star_rank": null
     },
     "sammi": {
