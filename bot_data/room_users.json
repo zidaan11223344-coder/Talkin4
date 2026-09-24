@@ -8062,9 +8062,9 @@
       },
       "<٠٠٠>": {
         "username": "<٠٠٠>",
-        "role": "admin",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1790184680
+        "last_seen": 1790216449
       },
       "nixtt": {
         "username": "nixtt",
@@ -11237,6 +11237,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790216261
+      },
+      "<٠٠٠>": {
+        "username": "<٠٠٠>",
+        "role": "admin",
+        "user_id": "",
+        "last_seen": 1790216450
       }
     },
     "شام": {
