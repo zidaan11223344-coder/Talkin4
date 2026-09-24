@@ -5178,5 +5178,15 @@
         "staked": 0
       }
     }
+  },
+  "samer-12": {
+    "username": "samer-12",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 30,
+        "staked": 0
+      }
+    }
   }
 }
