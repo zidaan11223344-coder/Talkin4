@@ -21765,6 +21765,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790272487
+      },
+      "ادم": {
+        "username": "ادم",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790272589
       }
     }
   }
