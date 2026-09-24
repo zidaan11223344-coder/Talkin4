@@ -5188,5 +5188,15 @@
         "staked": 0
       }
     }
+  },
+  "3saf.88": {
+    "username": "3saf.88",
+    "games": {
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
