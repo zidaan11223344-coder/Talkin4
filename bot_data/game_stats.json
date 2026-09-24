@@ -923,9 +923,9 @@
         "staked": 21500
       },
       "برق": {
-        "plays": 29,
-        "points": 3500,
-        "staked": 14500
+        "plays": 30,
+        "points": 3000,
+        "staked": 15000
       },
       "volcano": {
         "plays": 394,
@@ -4668,7 +4668,7 @@
         "staked": 0
       },
       "rps": {
-        "plays": 2,
+        "plays": 3,
         "points": 200,
         "staked": 0
       },
@@ -4688,9 +4688,9 @@
         "staked": 0
       },
       "برق": {
-        "plays": 1,
-        "points": 500,
-        "staked": 500
+        "plays": 2,
+        "points": 1000,
+        "staked": 1000
       }
     }
   },
