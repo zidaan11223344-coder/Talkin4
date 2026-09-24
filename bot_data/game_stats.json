@@ -548,7 +548,7 @@
     "username": "ࡅٜߺ𐬠ܭ.ᘓɹ̇ᒪ",
     "games": {
       "million": {
-        "plays": 232,
+        "plays": 233,
         "points": 1000000,
         "staked": 0
       },
@@ -718,8 +718,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 168,
-        "points": 6650,
+        "plays": 169,
+        "points": 6750,
         "staked": 0
       }
     }
