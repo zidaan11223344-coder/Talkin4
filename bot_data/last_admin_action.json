@@ -1,8 +1,8 @@
 {
-  "room": "ملتقى🥂العرب",
-  "target": "s-boot",
-  "operation": "owner",
+  "room": "اتكيت",
+  "target": "asd2040",
+  "operation": "admin",
   "inverse": "member",
-  "created_at": 1790217394,
+  "created_at": 1790217781,
   "undone": false
 }
