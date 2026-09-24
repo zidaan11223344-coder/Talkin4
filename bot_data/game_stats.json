@@ -448,8 +448,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 13,
-        "points": 530,
+        "plays": 14,
+        "points": 540,
         "staked": 0
       },
       "bird": {
@@ -1003,7 +1003,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 101,
+        "plays": 102,
         "points": 1000000,
         "staked": 0
       },
@@ -3258,8 +3258,8 @@
         "staked": 8000
       },
       "luck_free": {
-        "plays": 166,
-        "points": 7210,
+        "plays": 167,
+        "points": 7240,
         "staked": 0
       },
       "volcano": {
