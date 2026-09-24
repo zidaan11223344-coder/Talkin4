@@ -20413,6 +20413,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790262437
+      },
+      "..-shahd-..": {
+        "username": "..-shahd-..",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790262656
       }
     }
   }
