@@ -53,9 +53,9 @@
         "staked": 3500
       },
       "steal": {
-        "plays": 25,
-        "points": 3000,
-        "staked": 12500
+        "plays": 26,
+        "points": 3500,
+        "staked": 13000
       },
       "بحث": {
         "plays": 1,
@@ -5066,6 +5066,16 @@
         "plays": 1,
         "points": 50,
         "staked": 0
+      }
+    }
+  },
+  "ﺣــۧـورآء•❥𝆕": {
+    "username": "ﺣــۧـورآء•❥𝆕",
+    "games": {
+      "steal": {
+        "plays": 1,
+        "points": -500,
+        "staked": 500
       }
     }
   }
