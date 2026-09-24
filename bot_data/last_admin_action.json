@@ -1,8 +1,8 @@
 {
-  "room": "سوريانا",
-  "target": "s-boot",
-  "operation": "owner",
+  "room": "اتكيت",
+  "target": "឵☕",
+  "operation": "admin",
   "inverse": "member",
-  "created_at": 1790218293,
+  "created_at": 1790224335,
   "undone": false
 }
