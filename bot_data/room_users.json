@@ -2240,13 +2240,13 @@
         "username": "sijel",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1790183594
+        "last_seen": 1790216174
       },
       "qaranfala": {
         "username": "qaranfala",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1790183594
+        "last_seen": 1790216173
       },
       "zaatar": {
         "username": "zaatar",
@@ -7680,9 +7680,9 @@
       },
       "⎀": {
         "username": "⎀",
-        "role": "admin",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790216131
+        "last_seen": 1790216173
       },
       "𓂃⃪꯭𝆺꯭𝅥ᷢ𝗖⃪꯭𝆭𝞂⃪꯭፝֟𝗼̴꯭̏𝐊̶꯭𝐢𝗲⃪꯭́s꯭❀": {
         "username": "𓂃⃪꯭𝆺꯭𝅥ᷢ𝗖⃪꯭𝆭𝞂⃪꯭፝֟𝗼̴꯭̏𝐊̶꯭𝐢𝗲⃪꯭́s꯭❀",
@@ -11045,6 +11045,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790216167
+      },
+      "𑣲𝅮𓈒⃪ᓚᓆɹɹ̈̇ɹɕ𝆟ࠥ𝂅ࠥ♡゙໋⃬": {
+        "username": "𑣲𝅮𓈒⃪ᓚᓆɹɹ̈̇ɹɕ𝆟ࠥ𝂅ࠥ♡゙໋⃬",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790216174
       }
     },
     "شام": {
