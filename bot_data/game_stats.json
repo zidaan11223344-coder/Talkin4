@@ -4698,8 +4698,8 @@
         "staked": 500
       },
       "luck_free": {
-        "plays": 1,
-        "points": 20,
+        "plays": 2,
+        "points": 120,
         "staked": 0
       },
       "billion": {
