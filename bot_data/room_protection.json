@@ -10,7 +10,7 @@
       "swear": false,
       "flood": true,
       "joinleave": false,
-      "no_photo": false,
+      "no_photo": true,
       "repeat_limit": 3
     },
     "مشاعر": {
