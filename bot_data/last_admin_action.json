@@ -4,5 +4,5 @@
   "operation": "admin",
   "inverse": "member",
   "created_at": 1790224335,
-  "undone": false
+  "undone": true
 }
