@@ -1821,6 +1821,11 @@
         "plays": 1,
         "points": 9000,
         "staked": 1000
+      },
+      "coin": {
+        "plays": 1,
+        "points": 2377,
+        "staked": 0
       }
     }
   },
