@@ -1,8 +1,8 @@
 {
   "room": "اتكيت",
-  "target": "₁",
-  "operation": "admin",
-  "inverse": "member",
-  "created_at": 1790346103,
+  "target": "឵☕",
+  "operation": "member",
+  "inverse": "admin",
+  "created_at": 1790346125,
   "undone": false
 }
