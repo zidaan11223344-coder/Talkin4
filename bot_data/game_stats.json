@@ -1788,34 +1788,34 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 2,
-        "points": 4761,
+        "plays": 3,
+        "points": 6981,
         "staked": 0
       },
       "bird": {
-        "plays": 2,
-        "points": 2813,
+        "plays": 3,
+        "points": 5050,
         "staked": 0
       },
       "طاولة": {
-        "plays": 2,
+        "plays": 3,
         "points": 4319,
         "staked": 4319
       },
       "wheel": {
-        "plays": 2,
-        "points": 5091,
+        "plays": 3,
+        "points": 7332,
         "staked": 0
       },
       "star": {
-        "plays": 2,
+        "plays": 3,
         "points": 5114,
         "staked": 0
       },
       "اونو": {
-        "plays": 2,
-        "points": 4060,
-        "staked": 4060
+        "plays": 3,
+        "points": 6799,
+        "staked": 6799
       }
     }
   },
