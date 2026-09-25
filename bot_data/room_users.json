@@ -46271,6 +46271,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790311775
+      },
+      "vvt.on": {
+        "username": "vvt.on",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790311952
       }
     }
   }
