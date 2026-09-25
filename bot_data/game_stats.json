@@ -271,6 +271,11 @@
         "plays": 7,
         "points": 22798,
         "staked": 0
+      },
+      "rps": {
+        "plays": 1,
+        "points": 200,
+        "staked": 0
       }
     }
   },
