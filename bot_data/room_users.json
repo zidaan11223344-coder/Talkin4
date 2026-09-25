@@ -73907,6 +73907,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1790379050
+      },
+      "feerto": {
+        "username": "feerto",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790379390
       }
     }
   }
