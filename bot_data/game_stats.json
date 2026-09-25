@@ -1006,6 +1006,11 @@
         "plays": 1,
         "points": 100,
         "staked": 0
+      },
+      "duel": {
+        "plays": 1,
+        "points": -1000,
+        "staked": 1000
       }
     }
   },
@@ -1826,6 +1831,11 @@
         "plays": 1,
         "points": 2377,
         "staked": 0
+      },
+      "duel": {
+        "plays": 1,
+        "points": 1000,
+        "staked": 1000
       }
     }
   },
