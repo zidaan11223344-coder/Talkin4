@@ -5158,7 +5158,7 @@
         "staked": 0
       },
       "star": {
-        "plays": 5,
+        "plays": 6,
         "points": 5599,
         "staked": 0
       },
@@ -5168,7 +5168,7 @@
         "staked": 5851
       },
       "اونو": {
-        "plays": 3,
+        "plays": 4,
         "points": 6537,
         "staked": 6537
       },
@@ -5176,6 +5176,11 @@
         "plays": 1,
         "points": 9000,
         "staked": 1000
+      },
+      "coin": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
