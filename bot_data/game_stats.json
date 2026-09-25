@@ -958,9 +958,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 303,
-        "points": 521647,
-        "staked": 968353
+        "plays": 304,
+        "points": 520647,
+        "staked": 969353
       },
       "bird": {
         "plays": 303,
@@ -2458,7 +2458,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 52,
+        "plays": 53,
         "points": 45998,
         "staked": 0
       },
