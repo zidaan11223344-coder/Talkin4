@@ -5143,7 +5143,7 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 3,
+        "plays": 4,
         "points": 8933,
         "staked": 0
       },
@@ -5163,6 +5163,11 @@
         "staked": 0
       },
       "طاولة": {
+        "plays": 2,
+        "points": 2672,
+        "staked": 2672
+      },
+      "اونو": {
         "plays": 1,
         "points": 0,
         "staked": 0
