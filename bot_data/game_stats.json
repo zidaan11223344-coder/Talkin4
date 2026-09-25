@@ -5318,5 +5318,15 @@
         "staked": 0
       }
     }
+  },
+  "anaaab": {
+    "username": "anaaab",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 10,
+        "staked": 0
+      }
+    }
   }
 }
