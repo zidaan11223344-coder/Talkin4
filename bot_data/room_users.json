@@ -46181,6 +46181,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790309704
+      },
+      "ward.sham": {
+        "username": "ward.sham",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790311014
       }
     }
   }
