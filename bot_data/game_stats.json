@@ -5153,13 +5153,13 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 5,
-        "points": 6672,
+        "plays": 6,
+        "points": 10101,
         "staked": 0
       },
       "star": {
-        "plays": 4,
-        "points": 3942,
+        "plays": 5,
+        "points": 5599,
         "staked": 0
       },
       "طاولة": {
@@ -5168,9 +5168,9 @@
         "staked": 2672
       },
       "اونو": {
-        "plays": 2,
-        "points": 3165,
-        "staked": 3165
+        "plays": 3,
+        "points": 6537,
+        "staked": 6537
       }
     }
   },
