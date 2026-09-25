@@ -888,7 +888,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 445,
+        "plays": 446,
         "points": 5000000,
         "staked": 0
       },
@@ -923,7 +923,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 238,
+        "plays": 239,
         "points": 1000000000,
         "staked": 0
       },
@@ -3348,8 +3348,8 @@
         "staked": 4000
       },
       "star": {
-        "plays": 130,
-        "points": 260031,
+        "plays": 131,
+        "points": 262423,
         "staked": 0
       },
       "طاولة": {
