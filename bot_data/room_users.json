@@ -23540,9 +23540,9 @@
       },
       "-8dr_": {
         "username": "-8dr_",
-        "role": "owner",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1790371710
+        "last_seen": 1790374762
       },
       "🔥🐆ٰ": {
         "username": "🔥🐆ٰ",
@@ -72215,6 +72215,12 @@
         "role": "owner",
         "user_id": "",
         "last_seen": 1790372067
+      },
+      "abn_al.sarg": {
+        "username": "abn_al.sarg",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790374765
       }
     }
   }
