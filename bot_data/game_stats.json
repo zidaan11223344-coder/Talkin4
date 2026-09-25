@@ -888,7 +888,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 440,
+        "plays": 441,
         "points": 5000000,
         "staked": 0
       },
@@ -1813,12 +1813,12 @@
         "staked": 0
       },
       "star": {
-        "plays": 5,
-        "points": 5114,
+        "plays": 6,
+        "points": 6580,
         "staked": 0
       },
       "اونو": {
-        "plays": 5,
+        "plays": 6,
         "points": 6799,
         "staked": 6799
       },
