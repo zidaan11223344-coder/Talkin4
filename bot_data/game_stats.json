@@ -1043,7 +1043,7 @@
         "staked": 1000
       },
       "طاولة": {
-        "plays": 88,
+        "plays": 89,
         "points": 117375,
         "staked": 117375
       },
@@ -1063,23 +1063,23 @@
         "staked": 0
       },
       "bird": {
-        "plays": 224,
-        "points": 530521,
+        "plays": 225,
+        "points": 533264,
         "staked": 0
       },
       "star": {
-        "plays": 221,
-        "points": 519289,
+        "plays": 222,
+        "points": 522543,
         "staked": 0
       },
       "wheel": {
-        "plays": 135,
-        "points": 337586,
+        "plays": 136,
+        "points": 340514,
         "staked": 0
       },
       "volcano": {
-        "plays": 200,
-        "points": 472694,
+        "plays": 201,
+        "points": 476470,
         "staked": 0
       },
       "rps": {
@@ -1093,9 +1093,9 @@
         "staked": 0
       },
       "اونو": {
-        "plays": 48,
-        "points": 46946,
-        "staked": 46946
+        "plays": 49,
+        "points": 48397,
+        "staked": 48397
       },
       "box": {
         "plays": 6,
