@@ -643,7 +643,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 281,
+        "plays": 282,
         "points": 2000000000,
         "staked": 0
       },
@@ -2233,8 +2233,8 @@
         "staked": 13500
       },
       "luck_free": {
-        "plays": 108,
-        "points": 4380,
+        "plays": 109,
+        "points": 4400,
         "staked": 0
       },
       "cup": {
