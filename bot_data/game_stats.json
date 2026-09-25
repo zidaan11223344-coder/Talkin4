@@ -1793,14 +1793,14 @@
         "staked": 0
       },
       "bird": {
-        "plays": 1,
-        "points": 1730,
+        "plays": 2,
+        "points": 2813,
         "staked": 0
       },
       "طاولة": {
-        "plays": 1,
-        "points": 2832,
-        "staked": 2832
+        "plays": 2,
+        "points": 4319,
+        "staked": 4319
       },
       "wheel": {
         "plays": 1,
@@ -1808,14 +1808,14 @@
         "staked": 0
       },
       "star": {
-        "plays": 1,
-        "points": 3569,
+        "plays": 2,
+        "points": 5114,
         "staked": 0
       },
       "اونو": {
-        "plays": 1,
-        "points": 0,
-        "staked": 0
+        "plays": 2,
+        "points": 4060,
+        "staked": 4060
       }
     }
   },
