@@ -10451,6 +10451,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790373021
+      },
+      "uoday2029": {
+        "username": "uoday2029",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790373328
       }
     },
     "بنات_المجرة🎀": {
@@ -16354,9 +16360,9 @@
       },
       "سـلـ♔الوفا♔ـطان": {
         "username": "سـلـ♔الوفا♔ـطان",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790370293
+        "last_seen": 1790373329
       },
       "hibt.rgal": {
         "username": "hibt.rgal",
