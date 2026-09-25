@@ -23937,6 +23937,12 @@
         "role": "admin",
         "user_id": "",
         "last_seen": 1790300710
+      },
+      "_samr": {
+        "username": "_samr",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790301057
       }
     },
     "مشاعر": {
