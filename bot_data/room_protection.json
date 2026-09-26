@@ -10,7 +10,7 @@
     "اتكيت": {
       "swear": false,
       "flood": false,
-      "joinleave": true,
+      "joinleave": false,
       "no_photo": false,
       "repeat_limit": 3
     },
