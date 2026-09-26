@@ -1501,6 +1501,11 @@
         "plays": 3,
         "points": 150,
         "staked": 0
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 1388,
+        "staked": 0
       }
     }
   },
@@ -3648,8 +3653,8 @@
         "staked": 1500
       },
       "bird": {
-        "plays": 320,
-        "points": 742938,
+        "plays": 321,
+        "points": 747901,
         "staked": 0
       },
       "cup": {
