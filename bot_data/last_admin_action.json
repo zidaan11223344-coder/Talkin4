@@ -1,8 +1,8 @@
 {
   "room": "اتكيت",
   "target": "ۦاݪــۛـسـ𓆩♛𓆪ـۧۦـ۫فـيــ۫ـۧر𝁤𝆬𝃛",
-  "operation": "admin",
+  "operation": "owner",
   "inverse": "none",
-  "created_at": 1790429430,
+  "created_at": 1790429478,
   "undone": false
 }
