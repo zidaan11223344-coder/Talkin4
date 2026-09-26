@@ -3123,7 +3123,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 361,
+        "plays": 362,
         "points": 5000000,
         "staked": 0
       },
@@ -5512,6 +5512,16 @@
         "points": 50,
         "staked": 0
       },
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
+  },
+  "آ̱لَ̠خ̣ـ̞𓃗ــ̭آل": {
+    "username": "آ̱لَ̠خ̣ـ̞𓃗ــ̭آل",
+    "games": {
       "billion": {
         "plays": 1,
         "points": 0,
