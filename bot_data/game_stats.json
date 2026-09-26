@@ -973,7 +973,7 @@
         "staked": 17500
       },
       "wheel": {
-        "plays": 150,
+        "plays": 151,
         "points": 361923,
         "staked": 0
       },
@@ -1003,8 +1003,8 @@
         "staked": 15000
       },
       "volcano": {
-        "plays": 419,
-        "points": 1040339,
+        "plays": 420,
+        "points": 1045299,
         "staked": 0
       },
       "farm": {
