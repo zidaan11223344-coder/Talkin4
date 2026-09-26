@@ -186,6 +186,11 @@
         "plays": 1,
         "points": 50,
         "staked": 0
+      },
+      "luck": {
+        "plays": 1,
+        "points": 100000,
+        "staked": 100000
       }
     }
   },
