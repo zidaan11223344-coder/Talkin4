@@ -11,7 +11,7 @@
       "swear": false,
       "flood": false,
       "joinleave": false,
-      "no_photo": true,
+      "no_photo": false,
       "repeat_limit": 3
     },
     "مشاعر": {
