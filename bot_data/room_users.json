@@ -13402,9 +13402,9 @@
       },
       "₁": {
         "username": "₁",
-        "role": "member",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790367743
+        "last_seen": 1790432455
       },
       "ems2000": {
         "username": "ems2000",
@@ -40564,7 +40564,7 @@
         "username": "flyer",
         "role": "none",
         "user_id": "",
-        "last_seen": 1790432322
+        "last_seen": 1790432453
       },
       "mhmod989": {
         "username": "mhmod989",
@@ -81227,6 +81227,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790429085
+      },
+      "elsohagy": {
+        "username": "elsohagy",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790432456
       }
     },
     "🌲ɢʀɛɛռ🏡ɦօʊֆɛ🌲": {
