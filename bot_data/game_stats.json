@@ -3323,9 +3323,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 100,
+        "plays": 101,
         "points": 6000,
-        "staked": 50000
+        "staked": 50500
       },
       "farm": {
         "plays": 40,
