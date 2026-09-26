@@ -572,6 +572,10 @@
     "alasmr.ab": {
       "username": "alasmr.ab",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "⊹˚.الوصيه.˚⊹": {
+      "username": "⊹˚.الوصيه.˚⊹",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
