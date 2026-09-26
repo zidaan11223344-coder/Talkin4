@@ -2,8 +2,9 @@
   "rooms": {
     "ادم": {
       "swear": false,
-      "flood": false,
+      "flood": true,
       "joinleave": false,
+      "no_photo": false,
       "repeat_limit": 3
     },
     "اتكيت": {
