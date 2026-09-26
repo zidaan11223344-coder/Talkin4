@@ -176,6 +176,11 @@
         "plays": 1,
         "points": 4991,
         "staked": 0
+      },
+      "volcano": {
+        "plays": 1,
+        "points": 4781,
+        "staked": 0
       }
     }
   },
@@ -2978,8 +2983,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 18,
-        "points": 1010,
+        "plays": 19,
+        "points": 1040,
         "staked": 0
       },
       "steal": {
