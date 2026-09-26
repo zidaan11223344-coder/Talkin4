@@ -5368,8 +5368,8 @@
     "username": "👸឵឵",
     "games": {
       "rps": {
-        "plays": 4,
-        "points": 200,
+        "plays": 5,
+        "points": 400,
         "staked": 0
       },
       "luck_free": {
@@ -5383,13 +5383,13 @@
         "staked": 2281
       },
       "volcano": {
-        "plays": 4,
+        "plays": 5,
         "points": 12311,
         "staked": 0
       },
       "monster": {
-        "plays": 3,
-        "points": 0,
+        "plays": 4,
+        "points": 3702,
         "staked": 0
       }
     }
