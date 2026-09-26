@@ -1,8 +1,8 @@
 {
-  "room": "ادم",
-  "target": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
-  "operation": "member",
-  "inverse": "none",
-  "created_at": 1790445408,
+  "room": "مشاعر",
+  "target": "឵☕",
+  "operation": "kick",
+  "inverse": "member",
+  "created_at": 1790458144,
   "undone": false
 }
