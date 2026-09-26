@@ -576,6 +576,10 @@
     "⊹˚.الوصيه.˚⊹": {
       "username": "⊹˚.الوصيه.˚⊹",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "نك": {
+      "username": "نك",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
