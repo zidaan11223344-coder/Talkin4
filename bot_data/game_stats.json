@@ -851,6 +851,11 @@
         "plays": 1,
         "points": 500,
         "staked": 500
+      },
+      "wheel": {
+        "plays": 1,
+        "points": 1029,
+        "staked": 0
       }
     }
   },
