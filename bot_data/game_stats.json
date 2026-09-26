@@ -2623,9 +2623,9 @@
     "username": "🃏اﺄلجـٖـــ𖢲͜͡🐲ـ𖢲͜͡ـ͜ـــو̲୭ڪر🃏",
     "games": {
       "steal": {
-        "plays": 1,
-        "points": -500,
-        "staked": 500
+        "plays": 2,
+        "points": -1000,
+        "staked": 1000
       },
       "صيد": {
         "plays": 1,
@@ -3103,9 +3103,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 272,
-        "points": 8000,
-        "staked": 136000
+        "plays": 273,
+        "points": 8500,
+        "staked": 136500
       },
       "كنز": {
         "plays": 2,
