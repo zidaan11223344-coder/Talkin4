@@ -5338,5 +5338,15 @@
         "staked": 0
       }
     }
+  },
+  "👸឵឵": {
+    "username": "👸឵឵",
+    "games": {
+      "rps": {
+        "plays": 1,
+        "points": 200,
+        "staked": 0
+      }
+    }
   }
 }
