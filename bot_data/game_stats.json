@@ -743,8 +743,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 213,
-        "points": 8620,
+        "plays": 214,
+        "points": 8640,
         "staked": 0
       },
       "billion": {
@@ -918,7 +918,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 480,
+        "plays": 481,
         "points": 5000000,
         "staked": 0
       },
@@ -3128,9 +3128,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 279,
+        "plays": 280,
         "points": 8500,
-        "staked": 139500
+        "staked": 140000
       },
       "كنز": {
         "plays": 2,
