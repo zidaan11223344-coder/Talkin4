@@ -463,12 +463,12 @@
     "username": "឵឵ㅤ",
     "games": {
       "million": {
-        "plays": 41,
+        "plays": 42,
         "points": 1000000,
         "staked": 0
       },
       "billion": {
-        "plays": 30,
+        "plays": 31,
         "points": 1000000000,
         "staked": 0
       },
@@ -5298,8 +5298,8 @@
     "username": "взтнян𑁤",
     "games": {
       "volcano": {
-        "plays": 4,
-        "points": 5940,
+        "plays": 5,
+        "points": 9404,
         "staked": 0
       }
     }
