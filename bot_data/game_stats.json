@@ -5511,6 +5511,11 @@
         "plays": 1,
         "points": 50,
         "staked": 0
+      },
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   }
