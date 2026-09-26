@@ -1888,7 +1888,7 @@
     "username": "basel94",
     "games": {
       "million": {
-        "plays": 22,
+        "plays": 23,
         "points": 1000000,
         "staked": 0
       },
@@ -3338,9 +3338,9 @@
     "username": "🍯َ",
     "games": {
       "steal": {
-        "plays": 102,
+        "plays": 103,
         "points": 6000,
-        "staked": 51000
+        "staked": 51500
       },
       "farm": {
         "plays": 41,
