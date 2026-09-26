@@ -5243,7 +5243,7 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 15,
+        "plays": 16,
         "points": 15075,
         "staked": 15075
       },
@@ -5258,8 +5258,8 @@
         "staked": 6000
       },
       "coin": {
-        "plays": 3,
-        "points": 0,
+        "plays": 4,
+        "points": 2811,
         "staked": 0
       }
     }
