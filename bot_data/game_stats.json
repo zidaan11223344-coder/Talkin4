@@ -5428,5 +5428,20 @@
         "staked": 0
       }
     }
+  },
+  "آلــۦـخـۦـتــۦℋۦــيـۦــآآڕ": {
+    "username": "آلــۦـخـۦـتــۦℋۦــيـۦــآآڕ",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      },
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
