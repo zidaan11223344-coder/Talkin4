@@ -373,7 +373,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 1,
+        "plays": 2,
         "points": 0,
         "staked": 0
       },
@@ -3148,8 +3148,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 420,
-        "points": 18440,
+        "plays": 421,
+        "points": 18490,
         "staked": 0
       },
       "box": {
