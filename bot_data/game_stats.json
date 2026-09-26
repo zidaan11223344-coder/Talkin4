@@ -3123,8 +3123,8 @@
         "staked": 13100
       },
       "volcano": {
-        "plays": 204,
-        "points": 442528,
+        "plays": 205,
+        "points": 446182,
         "staked": 0
       },
       "luck_free": {
@@ -5348,13 +5348,13 @@
     "username": "👸឵឵",
     "games": {
       "rps": {
-        "plays": 3,
+        "plays": 4,
         "points": 200,
         "staked": 0
       },
       "luck_free": {
-        "plays": 2,
-        "points": 40,
+        "plays": 3,
+        "points": 50,
         "staked": 0
       },
       "اونو": {
@@ -5368,7 +5368,7 @@
         "staked": 0
       },
       "monster": {
-        "plays": 2,
+        "plays": 3,
         "points": 0,
         "staked": 0
       }
