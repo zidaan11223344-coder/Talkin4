@@ -1013,7 +1013,7 @@
         "staked": 1007353
       },
       "bird": {
-        "plays": 322,
+        "plays": 323,
         "points": 824178,
         "staked": 0
       },
@@ -3708,9 +3708,9 @@
         "staked": 8500
       },
       "luck": {
-        "plays": 48,
-        "points": -16000,
-        "staked": 306000
+        "plays": 49,
+        "points": -7000,
+        "staked": 307000
       },
       "farm": {
         "plays": 22,
