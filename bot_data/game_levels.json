@@ -649,7 +649,7 @@
       "username": "𝐒𝐎𝐔☀𝐑𝐄𝐀",
       "level": 7,
       "label": "إمبراطور الألعاب",
-      "plays": 2510,
+      "plays": 2511,
       "star_rank": 2
     },
     "aaa": {
@@ -1287,6 +1287,13 @@
       "level": 1,
       "label": "لاعب جديد",
       "plays": 2,
+      "star_rank": null
+    },
+    "آ̱لَ̠خ̣ـ̞𓃗ــ̭آل": {
+      "username": "آ̱لَ̠خ̣ـ̞𓃗ــ̭آل",
+      "level": 1,
+      "label": "لاعب جديد",
+      "plays": 1,
       "star_rank": null
     }
   }
