@@ -1068,9 +1068,9 @@
         "staked": 1000
       },
       "طاولة": {
-        "plays": 100,
-        "points": 129986,
-        "staked": 129986
+        "plays": 101,
+        "points": 134794,
+        "staked": 134794
       },
       "billion": {
         "plays": 58,
@@ -1088,23 +1088,23 @@
         "staked": 0
       },
       "bird": {
-        "plays": 236,
-        "points": 543512,
+        "plays": 237,
+        "points": 546789,
         "staked": 0
       },
       "star": {
-        "plays": 234,
-        "points": 553189,
+        "plays": 235,
+        "points": 554353,
         "staked": 0
       },
       "wheel": {
-        "plays": 146,
-        "points": 360208,
+        "plays": 147,
+        "points": 361524,
         "staked": 0
       },
       "volcano": {
-        "plays": 211,
-        "points": 499740,
+        "plays": 212,
+        "points": 504452,
         "staked": 0
       },
       "rps": {
