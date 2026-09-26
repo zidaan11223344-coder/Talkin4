@@ -5503,5 +5503,15 @@
         "staked": 0
       }
     }
+  },
+  "alasmr.ab": {
+    "username": "alasmr.ab",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 50,
+        "staked": 0
+      }
+    }
   }
 }
