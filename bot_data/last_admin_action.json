@@ -4,5 +4,5 @@
   "operation": "owner",
   "inverse": "none",
   "created_at": 1790429478,
-  "undone": false
+  "undone": true
 }
