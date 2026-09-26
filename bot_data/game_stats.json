@@ -248,8 +248,8 @@
         "staked": 10000
       },
       "luck_free": {
-        "plays": 32,
-        "points": 1590,
+        "plays": 33,
+        "points": 1600,
         "staked": 0
       },
       "cup": {
@@ -2403,8 +2403,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 220,
-        "points": 8600,
+        "plays": 221,
+        "points": 8610,
         "staked": 0
       },
       "ياقوت": {
@@ -2433,18 +2433,18 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 121,
-        "points": 274229,
+        "plays": 122,
+        "points": 279206,
         "staked": 0
       },
       "bird": {
-        "plays": 87,
-        "points": 206949,
+        "plays": 88,
+        "points": 209483,
         "staked": 0
       },
       "volcano": {
-        "plays": 103,
-        "points": 229309,
+        "plays": 104,
+        "points": 233961,
         "staked": 0
       },
       "star": {
