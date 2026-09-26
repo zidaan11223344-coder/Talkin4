@@ -5328,5 +5328,15 @@
         "staked": 0
       }
     }
+  },
+  "𝑲𝒂𝒓𝒊𝒎": {
+    "username": "𝑲𝒂𝒓𝒊𝒎",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 100,
+        "staked": 0
+      }
+    }
   }
 }
