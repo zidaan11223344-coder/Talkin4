@@ -12917,6 +12917,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790508365
+      },
+      "-fake": {
+        "username": "-fake",
+        "role": "member",
+        "user_id": "",
+        "last_seen": 1790510122
       }
     },
     "بنات_المجرة🎀": {
@@ -39718,7 +39724,7 @@
         "username": "mo.ali",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790507883
+        "last_seen": 1790510119
       },
       ".k7la.": {
         "username": ".k7la.",
