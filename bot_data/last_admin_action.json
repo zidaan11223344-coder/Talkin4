@@ -1,8 +1,8 @@
 {
   "room": "اتكيت",
-  "target": "ا░▒▓█★آلُأكـــــ°ـــــآبــــ√ــــــر••►•█▓▒░ا",
-  "operation": "owner",
-  "inverse": "none",
-  "created_at": 1790461554,
+  "target": "deios",
+  "operation": "ban",
+  "inverse": "member",
+  "created_at": 1790503277,
   "undone": false
 }
