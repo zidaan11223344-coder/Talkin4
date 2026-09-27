@@ -13846,9 +13846,9 @@
       },
       ".beryyy.": {
         "username": ".beryyy.",
-        "role": "owner",
+        "role": "none",
         "user_id": "",
-        "last_seen": 1790250401
+        "last_seen": 1790497493
       },
       "__anoo": {
         "username": "__anoo",
@@ -62115,6 +62115,12 @@
         "role": "member",
         "user_id": "",
         "last_seen": 1790497191
+      },
+      "👻": {
+        "username": "👻",
+        "role": "none",
+        "user_id": "",
+        "last_seen": 1790497493
       }
     },
     "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
