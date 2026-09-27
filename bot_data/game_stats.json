@@ -873,9 +873,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 3,
-        "points": -500,
-        "staked": 1500
+        "plays": 4,
+        "points": 0,
+        "staked": 2000
       },
       "برق": {
         "plays": 1,
@@ -3218,9 +3218,9 @@
         "staked": 0
       },
       "سنارة": {
-        "plays": 40,
-        "points": -2000,
-        "staked": 20000
+        "plays": 41,
+        "points": -2500,
+        "staked": 20500
       },
       "luck": {
         "plays": 6,
@@ -5603,7 +5603,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 10,
+        "plays": 11,
         "points": 0,
         "staked": 0
       }
