@@ -4636,6 +4636,11 @@
         "plays": 1,
         "points": 4207,
         "staked": 4207
+      },
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
       }
     }
   },
