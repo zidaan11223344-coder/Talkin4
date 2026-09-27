@@ -31654,9 +31654,9 @@
       },
       "ادم": {
         "username": "ادم",
-        "role": "owner",
+        "role": "none",
         "user_id": "",
-        "last_seen": 1790484334
+        "last_seen": 1790491206
       },
       "░▒▓█วค๖rนt••►๖ຖt★๓işrih█▓▒░": {
         "username": "░▒▓█วค๖rนt••►๖ຖt★๓işrih█▓▒░",
@@ -61761,6 +61761,12 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790490623
+      },
+      "boy": {
+        "username": "boy",
+        "role": "owner",
+        "user_id": "",
+        "last_seen": 1790491205
       }
     },
     "شماليٰ_✮_والشماليٰ_✮_بٰٰكيٰفہٰه": {
