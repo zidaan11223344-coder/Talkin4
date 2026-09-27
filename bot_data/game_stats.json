@@ -603,7 +603,7 @@
     "username": "ࡅٜߺ𐬠ܭ.ᘓɹ̇ᒪ",
     "games": {
       "million": {
-        "plays": 333,
+        "plays": 334,
         "points": 1000000,
         "staked": 0
       },
@@ -3293,8 +3293,8 @@
         "staked": 1000
       },
       "bird": {
-        "plays": 119,
-        "points": 272125,
+        "plays": 120,
+        "points": 274905,
         "staked": 0
       },
       "star": {
