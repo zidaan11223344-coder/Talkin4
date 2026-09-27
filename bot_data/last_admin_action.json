@@ -1,8 +1,8 @@
 {
   "room": "اتكيت",
-  "target": "56eer..",
-  "operation": "admin",
+  "target": "sha.s",
+  "operation": "ban",
   "inverse": "member",
-  "created_at": 1790541086,
+  "created_at": 1790549429,
   "undone": false
 }
