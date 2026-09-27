@@ -3103,9 +3103,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 4,
+        "plays": 5,
         "points": -500,
-        "staked": 2000
+        "staked": 2500
       },
       "سنارة": {
         "plays": 2,
@@ -3128,8 +3128,8 @@
         "staked": 0
       },
       "coin": {
-        "plays": 3,
-        "points": 7009,
+        "plays": 4,
+        "points": 11860,
         "staked": 0
       },
       "luck": {
@@ -3138,8 +3138,8 @@
         "staked": 10000
       },
       "volcano": {
-        "plays": 2,
-        "points": 5793,
+        "plays": 3,
+        "points": 7274,
         "staked": 0
       },
       "rps": {
