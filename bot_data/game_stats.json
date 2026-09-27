@@ -1048,7 +1048,7 @@
         "staked": 0
       },
       "طاولة": {
-        "plays": 271,
+        "plays": 272,
         "points": 316703,
         "staked": 316703
       },
@@ -3713,9 +3713,9 @@
         "staked": 8500
       },
       "luck": {
-        "plays": 50,
-        "points": 2000,
-        "staked": 308000
+        "plays": 51,
+        "points": 1000,
+        "staked": 309000
       },
       "farm": {
         "plays": 22,
