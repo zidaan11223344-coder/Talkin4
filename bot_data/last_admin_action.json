@@ -1,8 +1,8 @@
 {
   "room": "اتكيت",
-  "target": "deios",
-  "operation": "ban",
+  "target": "asd2040",
+  "operation": "admin",
   "inverse": "member",
-  "created_at": 1790503277,
+  "created_at": 1790509403,
   "undone": false
 }
