@@ -592,6 +592,10 @@
     "7lm": {
       "username": "7lm",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "mashal": {
+      "username": "mashal",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
