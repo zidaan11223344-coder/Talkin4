@@ -5733,5 +5733,15 @@
         "staked": 0
       }
     }
+  },
+  "sourea": {
+    "username": "sourea",
+    "games": {
+      "million": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
   }
 }
