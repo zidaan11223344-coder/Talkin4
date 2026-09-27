@@ -3198,9 +3198,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 297,
+        "plays": 298,
         "points": 10500,
-        "staked": 148500
+        "staked": 149000
       },
       "كنز": {
         "plays": 2,
@@ -3248,7 +3248,7 @@
         "staked": 0
       },
       "box": {
-        "plays": 186,
+        "plays": 187,
         "points": 168318,
         "staked": 0
       },
@@ -3313,8 +3313,8 @@
         "staked": 0
       },
       "cup": {
-        "plays": 144,
-        "points": 141965,
+        "plays": 145,
+        "points": 145459,
         "staked": 0
       },
       "wheel": {
