@@ -733,9 +733,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 10,
-        "points": 1000,
-        "staked": 5000
+        "plays": 11,
+        "points": 500,
+        "staked": 5500
       },
       "box": {
         "plays": 7,
@@ -5683,9 +5683,9 @@
         "staked": 0
       },
       "steal": {
-        "plays": 1,
-        "points": 500,
-        "staked": 500
+        "plays": 2,
+        "points": 1000,
+        "staked": 1000
       },
       "star": {
         "plays": 1,
