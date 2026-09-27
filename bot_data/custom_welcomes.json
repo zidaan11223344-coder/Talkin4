@@ -604,6 +604,10 @@
     "₁": {
       "username": "₁",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "يمنيہٌ": {
+      "username": "يمنيہٌ",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
