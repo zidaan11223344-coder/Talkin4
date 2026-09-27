@@ -588,6 +588,10 @@
     "bnt_lebnen": {
       "username": "bnt_lebnen",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "7lm": {
+      "username": "7lm",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
