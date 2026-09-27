@@ -600,6 +600,10 @@
     "²឵឵឵឵": {
       "username": "²឵឵឵឵",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "₁": {
+      "username": "₁",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
