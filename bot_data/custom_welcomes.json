@@ -620,6 +620,14 @@
     "✦➤𝐩𝐑𝕆ƒє🅢ˢ𝐈𝕆η𝐀𝐋•𝆺𝅥⃝🐉": {
       "username": "✦➤𝐩𝐑𝕆ƒє🅢ˢ𝐈𝕆η𝐀𝐋•𝆺𝅥⃝🐉",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "جــــــــــــوليــــــــــــا": {
+      "username": "جــــــــــــوليــــــــــــا",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "-fake": {
+      "username": "-fake",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
