@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1790592025,
+  "generated_at": 1790592120,
   "files": {
     "blocked_rooms.json": {
       "sha256": "2db52d0a788c7bbfc420779179155ef7f65e4c1b9a8c8e2c2881365935bbb5c7",
@@ -99,8 +99,8 @@
       "bytes": 1201
     },
     "room_users.json": {
-      "sha256": "31212d9bf1ef5198399e293196bb9460b051edc143b30dcea3cf29b1dd9c64b7",
-      "bytes": 3387759
+      "sha256": "e2ebd6cac0a0afdf26d2764a865bce33ee3c08c9a251fc8048466a43b82969a4",
+      "bytes": 3387763
     },
     "telegram_chat_id.json": {
       "sha256": "32d6fae4cbfb8e5a2d9606f23db429222b91994a76d41fb1c0ef6ed1fb88525e",
