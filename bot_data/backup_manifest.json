@@ -1,22 +1,26 @@
 {
   "version": 1,
-  "generated_at": 1790539179,
+  "generated_at": 1790592025,
   "files": {
     "blocked_rooms.json": {
       "sha256": "2db52d0a788c7bbfc420779179155ef7f65e4c1b9a8c8e2c2881365935bbb5c7",
       "bytes": 307
     },
+    "bot_bans.json": {
+      "sha256": "8b0f87ceb47965ff00ebe88681ab11c4fa3e0dbee5553eec5d321474d0d48991",
+      "bytes": 294
+    },
     "crop_plots.json": {
-      "sha256": "1cbc2f8a66a1dc89ea9e73518eda033bedbb1072681bb0a44ccfdc4c951bf1d3",
-      "bytes": 266
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2
     },
     "custom_welcomes.json": {
-      "sha256": "f95bf0d6f47e51f80d7c817612ad0911f5dd2965130a1aa417808977a74a24f8",
-      "bytes": 30063
+      "sha256": "c23705576dc060abe8f44929c40fe0bc2452bb23f04ab87453ae97c9b9ba0d25",
+      "bytes": 30663
     },
     "filter_bans.json": {
-      "sha256": "74f7aa8aae854a77a7d51fffe05ac9903955394ed9b2381524017ce5583ec136",
-      "bytes": 76296
+      "sha256": "f848b960e1dad5470c02ab6cb456816c7139b82f2cabb54df08993af66128e96",
+      "bytes": 77287
     },
     "filter_exceptions.json": {
       "sha256": "c44d3b91a4a6a338d66a801409f7d48d53bac8998ab16acf1250a79a24a8dd95",
@@ -27,24 +31,28 @@
       "bytes": 88
     },
     "game_levels.json": {
-      "sha256": "f482f7fa7ecb6a439859b179de2a9bb88918218030511e92bf27d0382980e593",
-      "bytes": 42734
+      "sha256": "202c4e20d5efdce876c4928b98a09283bf5057f2e389d7da1e5834562ac3e61a",
+      "bytes": 42876
     },
     "game_stats.json": {
-      "sha256": "a657c38cb53437a8e784e252228c80cac668324c574bbe377cb345cff7614cc7",
-      "bytes": 115040
+      "sha256": "dcefd46d512a46af69c4a0867664ae7079c44b1c52d05950043c14f89657d679",
+      "bytes": 115914
     },
     "last_action.json": {
-      "sha256": "57e3976e98f2b683a0db23599f5a0f9d0db16816f6226f6b65444a4f962c35ec",
-      "bytes": 168
+      "sha256": "c972416e9f12368f86396afd58aa627612195e87afa3c5a4c464bf604fa4e14a",
+      "bytes": 205
     },
     "last_admin_action.json": {
-      "sha256": "3f25f083999562142f428f0d5865dd20622de178255b8d6ece3b010ab84ec88a",
-      "bytes": 189
+      "sha256": "8af3baeea2b5fa915f1ecb1363f505da54014e3c65d01bddad24e136297fe383",
+      "bytes": 183
     },
     "masters.json": {
       "sha256": "bde774be8addafb169aabaa4c1dde980a92654c3c5e3d1d6b517dca25a02e4ad",
       "bytes": 294
+    },
+    "media_stats.json": {
+      "sha256": "4704ff686eff6cf7b8b8de54b309d388c6e944c0deebc627ae9fcd743180d489",
+      "bytes": 405
     },
     "messages.json": {
       "sha256": "3f25a47e35a881dcbc007a8ca0b2597a2e3b1ae84401bfb35527d993825e41c8",
@@ -67,8 +75,8 @@
       "bytes": 460
     },
     "points.json": {
-      "sha256": "db4331786e44464b5b964855a3643ce8daaed04f107ca05dd1011801a97404ee",
-      "bytes": 20757
+      "sha256": "c87ff4c06670f59783064b9de65675fe89d7bfad0d0e3aa4fcc38eb8e622bae9",
+      "bytes": 20815
     },
     "publish_bans.json": {
       "sha256": "a2a3f1f3a4a77b576b54ab0a81446423e5bbe1b7d9cf278d409e5572e3ae2342",
@@ -87,32 +95,32 @@
       "bytes": 146
     },
     "room_protection.json": {
-      "sha256": "32c85f1f9a029234e8a49f9f19a982bfa419fbcb7b48461c1b57f43ea70fc7fd",
-      "bytes": 1202
+      "sha256": "a4c126fbaadd73da7a6cde5c731a456be779b5386c3274f079f8044eeb781972",
+      "bytes": 1201
     },
     "room_users.json": {
-      "sha256": "0c3359b6def15d14aeb9527575ce5e2e2621d42a0857ed44bdabd18032ba5558",
-      "bytes": 2923319
+      "sha256": "31212d9bf1ef5198399e293196bb9460b051edc143b30dcea3cf29b1dd9c64b7",
+      "bytes": 3387759
     },
     "telegram_chat_id.json": {
       "sha256": "32d6fae4cbfb8e5a2d9606f23db429222b91994a76d41fb1c0ef6ed1fb88525e",
       "bytes": 67
     },
     "tracked_rooms.json": {
-      "sha256": "cea3a37e7a6de3a2dc5bb0bbd5d8a2677b5d232ade8b349f15ba293af1d28e1d",
-      "bytes": 534
+      "sha256": "40af18abcbdfb12155e3ad0a1290c35242206323e263d179cf38aade4cc31c17",
+      "bytes": 424
     },
     "verified_users.json": {
       "sha256": "b5121b4600988b44aecfa504c8b064a5b1fb8ab7a68d32ef9b0a7886ff022aa4",
       "bytes": 266204
     },
     "vip_users.json": {
-      "sha256": "da563200343f239ffdb207596866605de2bfdbfe5e72c38e2690a6a5e2049953",
-      "bytes": 36092
+      "sha256": "76a006a4e998fa7aaf5944299562611c426af12a18eb6808e0c780f880c16141",
+      "bytes": 36804
     },
     "wager_state.json": {
-      "sha256": "c96c64ff050cc289a516e56b97c1bde4f759c655c03a804dd71bab462b137122",
-      "bytes": 23
+      "sha256": "e5a3e79ec669cc8f6b542a48cdb77b7a9b817c061ae36c370bd68a0c57eef991",
+      "bytes": 20
     }
   }
 }
