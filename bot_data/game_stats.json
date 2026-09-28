@@ -228,7 +228,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 100,
+        "plays": 101,
         "points": 0,
         "staked": 0
       },
@@ -273,8 +273,8 @@
         "staked": 10000
       },
       "luck_free": {
-        "plays": 40,
-        "points": 1940,
+        "plays": 41,
+        "points": 1970,
         "staked": 0
       },
       "cup": {
