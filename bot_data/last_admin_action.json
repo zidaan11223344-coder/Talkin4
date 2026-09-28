@@ -1,8 +1,8 @@
 {
-  "room": "اتكيت",
-  "target": "sha.s",
+  "room": "♟_لَعــــ_«حب»ـــبّــــــة_♟",
+  "target": "-fake",
   "operation": "ban",
   "inverse": "member",
-  "created_at": 1790549429,
-  "undone": false
+  "created_at": 1790570255,
+  "undone": true
 }
