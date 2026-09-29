@@ -6996,9 +6996,11 @@
       },
       "adam1994": {
         "username": "adam1994",
-        "role": "none",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1790274180
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711300
       },
       "⛔": {
         "username": "⛔",
