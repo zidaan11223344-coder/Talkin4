@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1790667595,
+  "generated_at": 1790670932,
   "files": {
     "blocked_rooms.json": {
       "sha256": "2db52d0a788c7bbfc420779179155ef7f65e4c1b9a8c8e2c2881365935bbb5c7",
@@ -31,16 +31,16 @@
       "bytes": 88
     },
     "game_levels.json": {
-      "sha256": "6c385776b4c4b51b3f21d5276b22c44ed6310cc086a61821cf1bc497fa717fcc",
-      "bytes": 43450
+      "sha256": "ba6b1f20232044557d292d4c176e3c96e2c301f5a81f01766ebf0e87831dc91c",
+      "bytes": 43601
     },
     "game_stats.json": {
-      "sha256": "5c3345c84dc3edbf4507e72fa384fe8b71694fb4593deaab4e31966b859e4b42",
-      "bytes": 117958
+      "sha256": "0571142b7d176cc8b1e88b87dc02f585d801f11334e98f069ad8db4da37c6bcc",
+      "bytes": 118108
     },
     "last_action.json": {
-      "sha256": "28f6a69d544fce8b46302ce25105f0118a048eeb85d7bfa711829619f0ec9961",
-      "bytes": 209
+      "sha256": "244718f9300ae5d26463d3517f81969aa602fc51f81ae6a2b6e27b27580f7f43",
+      "bytes": 126
     },
     "last_admin_action.json": {
       "sha256": "bf7175926bb0e39e4cd8ca005101e610edb3b6ed73fb1dce3efa0d6ccb08c8d5",
@@ -51,8 +51,8 @@
       "bytes": 294
     },
     "media_stats.json": {
-      "sha256": "a1cb9e723e9eef317d9f4a34bc70922794904b8222ae9e376de0f74291117ee5",
-      "bytes": 256
+      "sha256": "6b9903224a0229d81eafe25da76a97541808bb9790963202f70788fc7ca969a5",
+      "bytes": 291
     },
     "messages.json": {
       "sha256": "3f25a47e35a881dcbc007a8ca0b2597a2e3b1ae84401bfb35527d993825e41c8",
@@ -75,8 +75,8 @@
       "bytes": 515
     },
     "points.json": {
-      "sha256": "9ac3045cc8cadc3b70bb897221326559c43927da56728692ac2d337cc3b7200e",
-      "bytes": 20883
+      "sha256": "81e506ae593cbd445f1225e2e41333b0cab598c7c2c8fe1a050726bb8dc83c85",
+      "bytes": 20944
     },
     "publish_bans.json": {
       "sha256": "5de827eb99471eeb2ba1f11fa4bea396f6da94523f7241df5053dec702992adf",
@@ -99,8 +99,8 @@
       "bytes": 1201
     },
     "room_users.json": {
-      "sha256": "b67454402481507a77e9a3a6a599ba964556358634c4f8bcf91b1c67f8511811",
-      "bytes": 3585876
+      "sha256": "c03db15d3e25bc5684176b782180eb5bb222566e9dbc05479f5686bf806e8a4d",
+      "bytes": 3591749
     },
     "telegram_chat_id.json": {
       "sha256": "32d6fae4cbfb8e5a2d9606f23db429222b91994a76d41fb1c0ef6ed1fb88525e",
