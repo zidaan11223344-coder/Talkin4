@@ -20432,9 +20432,11 @@
       },
       "₁": {
         "username": "₁",
-        "role": "member",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790285090
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711430
       },
       "حًکْمً🍂أّلَهّـوٌى": {
         "username": "حًکْمً🍂أّلَهّـوٌى",
