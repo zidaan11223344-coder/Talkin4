@@ -8190,11 +8190,19 @@
       },
       "₇": {
         "username": "₇",
-        "role": "none",
+        "role": "member",
         "user_id": "195678908",
         "online": "off",
         "is_present": "off",
-        "last_seen": 1790711451
+        "last_seen": 1790711554
+      },
+      "wi..fi": {
+        "username": "wi..fi",
+        "role": "none",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711552
       }
     },
     "بنات_المجرة🎀": {
