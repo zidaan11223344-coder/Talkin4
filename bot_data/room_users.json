@@ -3142,7 +3142,7 @@
         "user_id": "",
         "online": null,
         "is_present": null,
-        "last_seen": 1790711855
+        "last_seen": 1790711950
       },
       "almazareta": {
         "username": "almazareta",
@@ -18202,7 +18202,9 @@
         "username": "ɱ",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790273955
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711953
       },
       "looolty": {
         "username": "looolty",
