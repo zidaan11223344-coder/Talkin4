@@ -27495,6 +27495,14 @@
         "online": null,
         "is_present": null,
         "last_seen": 1790710598
+      },
+      "2_6_2": {
+        "username": "2_6_2",
+        "role": "admin",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711286
       }
     },
     "سوالف": {
@@ -33699,10 +33707,10 @@
       "⚜ا̍ڶـفَـتۑْۧ☻ا̍ڵـذَهبېْۧ⚜": {
         "username": "⚜ا̍ڶـفَـتۑْۧ☻ا̍ڵـذَهبېْۧ⚜",
         "role": "owner",
-        "user_id": "",
-        "online": null,
-        "is_present": null,
-        "last_seen": 1790710599
+        "user_id": "389341231",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790711285
       },
       "🖤آرٍۆآدِ": {
         "username": "🖤آرٍۆآدِ",
