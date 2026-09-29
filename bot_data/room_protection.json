@@ -9,7 +9,7 @@
     },
     "اتكيت": {
       "swear": false,
-      "flood": false,
+      "flood": true,
       "joinleave": false,
       "no_photo": false,
       "repeat_limit": 3
