@@ -21384,9 +21384,11 @@
       },
       "ِდ": {
         "username": "ِდ",
-        "role": "none",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1790282788
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790712555
       },
       "fawaz..": {
         "username": "fawaz..",
