@@ -19596,9 +19596,11 @@
       },
       "asd2040": {
         "username": "asd2040",
-        "role": "admin",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790258970
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711019
       },
       "__7roof__": {
         "username": "__7roof__",
@@ -31457,6 +31459,14 @@
         "online": null,
         "is_present": null,
         "last_seen": 1790710842
+      },
+      "taha222": {
+        "username": "taha222",
+        "role": "none",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711019
       }
     },
     "سوريا.احلا.شله": {
@@ -32060,7 +32070,7 @@
         "user_id": "",
         "online": null,
         "is_present": null,
-        "last_seen": 1790710865
+        "last_seen": 1790711017
       },
       "basel94": {
         "username": "basel94",
