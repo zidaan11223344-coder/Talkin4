@@ -20456,7 +20456,9 @@
         "username": "darrk.-.man",
         "role": "member",
         "user_id": "",
-        "last_seen": 1790253597
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711462
       },
       "gawhara-aljana": {
         "username": "gawhara-aljana",
@@ -30235,10 +30237,10 @@
       "🦉ّ": {
         "username": "🦉ّ",
         "role": "owner",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710506
+        "user_id": "366763381",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790711464
       },
       "....shmallle....": {
         "username": "....shmallle....",
