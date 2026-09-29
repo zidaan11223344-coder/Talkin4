@@ -20396,9 +20396,9 @@
         "username": "ادم",
         "role": "owner",
         "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710511
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790712818
       },
       "lawrence.007": {
         "username": "lawrence.007",
