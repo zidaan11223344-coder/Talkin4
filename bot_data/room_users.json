@@ -3011,6 +3011,14 @@
         "online": "",
         "is_present": "",
         "last_seen": 1790710508
+      },
+      "roof_": {
+        "username": "roof_",
+        "role": "none",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711015
       }
     },
     "اتكيت": {
@@ -5684,9 +5692,11 @@
       },
       "₁": {
         "username": "₁",
-        "role": "member",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1790189408
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711015
       },
       "❥͜͡ڊلُـِـِِـِِِـِِـِـͫـͬـ̈ـــــــــعٌ𓇢˚𝆺𝅥⃝ꗃـ": {
         "username": "❥͜͡ڊلُـِـِِـِِِـِِـِـͫـͬـ̈ـــــــــعٌ𓇢˚𝆺𝅥⃝ꗃـ",
@@ -23398,7 +23408,7 @@
         "user_id": "",
         "online": null,
         "is_present": null,
-        "last_seen": 1790710865
+        "last_seen": 1790711017
       },
       "𝗩𝗘𝗟𝗘𝗡𝗢": {
         "username": "𝗩𝗘𝗟𝗘𝗡𝗢",
@@ -31204,9 +31214,11 @@
       },
       "𝐑𝐀𝐖𝐀𝐍": {
         "username": "𝐑𝐀𝐖𝐀𝐍",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790258876
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711014
       },
       "عآيَشُ❥علُے❥ڏگرآگ": {
         "username": "عآيَشُ❥علُے❥ڏگرآگ",
