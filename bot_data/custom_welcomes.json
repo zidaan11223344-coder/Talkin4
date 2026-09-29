@@ -628,6 +628,30 @@
     "-fake": {
       "username": "-fake",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "mazagangy": {
+      "username": "mazagangy",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "⚜ا̍ڶـفَـتۑْۧ☻ا̍ڵـذَهبېْۧ⚜": {
+      "username": "⚜ا̍ڶـفَـتۑْۧ☻ا̍ڵـذَهبېْۧ⚜",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "قــہ✯ہــديـــہـس♡الــمـہ✯ـہٰـشـأعـہـر": {
+      "username": "قــہ✯ہــديـــہـس♡الــمـہ✯ـہٰـشـأعـہـر",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "شمــــــــ🇮🇶ـــــــوخ♡عراقي": {
+      "username": "شمــــــــ🇮🇶ـــــــوخ♡عراقي",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "سايكو": {
+      "username": "سايكو",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "تيم": {
+      "username": "تيم",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
