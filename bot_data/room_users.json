@@ -30520,9 +30520,9 @@
         "username": "󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊󠄊🇱🇧",
         "role": "owner",
         "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710506
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711500
       },
       "_____x1_____": {
         "username": "_____x1_____",
@@ -30998,7 +30998,9 @@
         "username": "ﺣــۧـورآء•❥𝆕",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790283912
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711500
       },
       "aljrih": {
         "username": "aljrih",
