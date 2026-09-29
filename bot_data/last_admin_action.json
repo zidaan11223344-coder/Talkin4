@@ -4,5 +4,5 @@
   "operation": "ban",
   "inverse": "member",
   "created_at": 1790717915,
-  "undone": false
+  "undone": true
 }
