@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1790689195,
+  "generated_at": 1790692533,
   "files": {
     "blocked_rooms.json": {
       "sha256": "2db52d0a788c7bbfc420779179155ef7f65e4c1b9a8c8e2c2881365935bbb5c7",
@@ -31,16 +31,16 @@
       "bytes": 88
     },
     "game_levels.json": {
-      "sha256": "3106207c0e5bcc62f0b2f0577daa0b5ee0d98ad99c06a7e4bc5d45df8bf5c7af",
-      "bytes": 43602
+      "sha256": "69cda9580f05cf9960ee90dbaa79322e6be88106cc251443471d1f702737e4a2",
+      "bytes": 43604
     },
     "game_stats.json": {
-      "sha256": "c8e5a5e9252d4bd26db6d0a9e7c24f71f0165250228efabca7b37b76f9caab5d",
+      "sha256": "a2c232cb0a5f95116d177db89677753d84b6e422212a9ca18884e157d87020c4",
       "bytes": 118726
     },
     "last_action.json": {
-      "sha256": "792722b87ba851bb1c7fac017326cb19ad8cc12e6d8933b4be6f99796b5ff31c",
-      "bytes": 142
+      "sha256": "63a7aeeb83f8351ee2748540949e9f98e3e31aa9df07f0d3aeffb83727b15ba1",
+      "bytes": 250
     },
     "last_admin_action.json": {
       "sha256": "bf7175926bb0e39e4cd8ca005101e610edb3b6ed73fb1dce3efa0d6ccb08c8d5",
@@ -51,8 +51,8 @@
       "bytes": 294
     },
     "media_stats.json": {
-      "sha256": "57460c017f4e6a59da3591bd38787a0f5e8a1169512a456aea9884a647e3044d",
-      "bytes": 266
+      "sha256": "1c8318ea84c6a0d03c49b28ae7196e72450e2f83b4dab1e6ce95aa0fbbcc9371",
+      "bytes": 325
     },
     "messages.json": {
       "sha256": "3f25a47e35a881dcbc007a8ca0b2597a2e3b1ae84401bfb35527d993825e41c8",
@@ -99,8 +99,8 @@
       "bytes": 1200
     },
     "room_users.json": {
-      "sha256": "fbcbdfe2218ff85fbee12a51dfc2e60a380074a13b0bf52d5effb3d9bd9eb7c2",
-      "bytes": 3621248
+      "sha256": "79ff0abd844cdbd821d168738179628e1f2596f72e00a25c345730a0a3058e50",
+      "bytes": 3627275
     },
     "telegram_chat_id.json": {
       "sha256": "32d6fae4cbfb8e5a2d9606f23db429222b91994a76d41fb1c0ef6ed1fb88525e",
