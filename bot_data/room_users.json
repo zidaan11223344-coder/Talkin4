@@ -19368,7 +19368,9 @@
         "username": "🖤آرٍۆآدِ",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790273108
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710747
       },
       "karthh.konehh": {
         "username": "karthh.konehh",
@@ -19633,10 +19635,10 @@
       "al-gmila": {
         "username": "al-gmila",
         "role": "owner",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710502
+        "user_id": "788596483",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790710748
       },
       "..syria..love..": {
         "username": "..syria..love..",
@@ -33646,9 +33648,9 @@
         "username": "𝐒𝐎𝐔☀𝐑𝐄𝐀",
         "role": "owner",
         "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710515
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710750
       }
     }
   }
