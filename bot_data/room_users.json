@@ -6006,11 +6006,11 @@
       },
       "ࢪيــــــــــ፝֯֟͢ــــــــــم": {
         "username": "ࢪيــــــــــ፝֯֟͢ــــــــــم",
-        "role": "owner",
+        "role": "none",
         "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710488
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711148
       },
       "l7ali": {
         "username": "l7ali",
