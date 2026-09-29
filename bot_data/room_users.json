@@ -257,10 +257,10 @@
       "⎀": {
         "username": "⎀",
         "role": "admin",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710508
+        "user_id": "063577966",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790710532
       },
       "🦉ّ": {
         "username": "🦉ّ",
@@ -5615,10 +5615,10 @@
       "̨̨̥̬̩̥̬̩": {
         "username": "̨̨̥̬̩̥̬̩",
         "role": "owner",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710488
+        "user_id": "555429103",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790710533
       },
       "♛『الُـِـِِـِِِـِِـِـڊبـٌـٌٌـٌٌٌـٌٌـٌوُر』♛": {
         "username": "♛『الُـِـِِـِِِـِِـِـڊبـٌـٌٌـٌٌٌـٌٌـٌوُر』♛",
@@ -19207,6 +19207,14 @@
         "online": "off",
         "is_present": "off",
         "last_seen": 1790710523
+      },
+      "الْـــــفَـــــآخِــــ✦ـر": {
+        "username": "الْـــــفَـــــآخِــــ✦ـر",
+        "role": "none",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710534
       }
     },
     "سورياالحب": {
@@ -33383,10 +33391,10 @@
       "⎀": {
         "username": "⎀",
         "role": "admin",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710509
+        "user_id": "063577966",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790710532
       },
       "🦉ّ": {
         "username": "🦉ّ",
