@@ -265,10 +265,10 @@
       "🦉ّ": {
         "username": "🦉ّ",
         "role": "admin",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710508
+        "user_id": "366763381",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790711455
       },
       "-3rpyd": {
         "username": "-3rpyd",
@@ -6010,11 +6010,11 @@
       },
       "ࢪيــــــــــ፝֯֟͢ــــــــــم": {
         "username": "ࢪيــــــــــ፝֯֟͢ــــــــــم",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
         "online": null,
         "is_present": null,
-        "last_seen": 1790711390
+        "last_seen": 1790711456
       },
       "l7ali": {
         "username": "l7ali",
