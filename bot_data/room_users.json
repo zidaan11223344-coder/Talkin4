@@ -72,7 +72,9 @@
         "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
         "role": "none",
         "user_id": "",
-        "last_seen": 1790272636
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790717447
       },
       "sousou97": {
         "username": "sousou97",
@@ -121,10 +123,10 @@
       "<٠٠٠>": {
         "username": "<٠٠٠>",
         "role": "admin",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790717438
+        "user_id": "025771053",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790717447
       },
       "2024-bot": {
         "username": "2024-bot",
