@@ -88,33 +88,43 @@
       },
       "selga": {
         "username": "selga",
-        "role": "member",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1790222539
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
       },
       "⎀": {
         "username": "⎀",
         "role": "admin",
         "user_id": "",
-        "last_seen": 1790241052
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
       },
       "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
         "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
-        "role": "admin",
+        "role": "member",
         "user_id": "",
-        "last_seen": 1790261727
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
       },
       "anooooooo": {
         "username": "anooooooo",
-        "role": "owner",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1790262197
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
       },
       "<٠٠٠>": {
         "username": "<٠٠٠>",
-        "role": "member",
+        "role": "admin",
         "user_id": "",
-        "last_seen": 1790216442
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
       },
       "2024-bot": {
         "username": "2024-bot",
@@ -211,6 +221,38 @@
         "role": "none",
         "user_id": "",
         "last_seen": 1790287213
+      },
+      "_bot_": {
+        "username": "_bot_",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
+      },
+      "✵": {
+        "username": "✵",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
+      },
+      "𓅇": {
+        "username": "𓅇",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
+      },
+      "🦉ّ": {
+        "username": "🦉ّ",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790717438
       }
     },
     "قصتنا💔خلصت": {
