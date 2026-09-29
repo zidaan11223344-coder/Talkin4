@@ -33443,6 +33443,14 @@
         "online": null,
         "is_present": null,
         "last_seen": 1790711175
+      },
+      "₁": {
+        "username": "₁",
+        "role": "none",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711223
       }
     },
     "لوك`~`لوك": {
@@ -33811,10 +33819,10 @@
       "لاتغرگ♫الضحگہ♫ترےگلے♫احزانـ♫": {
         "username": "لاتغرگ♫الضحگہ♫ترےگلے♫احزانـ♫",
         "role": "owner",
-        "user_id": "377496868",
-        "online": "off",
-        "is_present": "off",
-        "last_seen": 1790710561
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711223
       },
       "ْْ": {
         "username": "ْْ",
