@@ -20666,7 +20666,9 @@
         "username": "nragelmasry",
         "role": "none",
         "user_id": "",
-        "last_seen": 1790262835
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710785
       },
       ".beryyy.": {
         "username": ".beryyy.",
