@@ -6302,7 +6302,9 @@
         "username": "halaz",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790254946
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711795
       },
       "memo.20": {
         "username": "memo.20",
