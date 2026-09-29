@@ -20410,7 +20410,9 @@
         "username": "𝗢²",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790246833
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790712387
       },
       "i_gamd_i": {
         "username": "i_gamd_i",
@@ -20695,10 +20697,10 @@
       "<٠٠٠>": {
         "username": "<٠٠٠>",
         "role": "admin",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790712352
+        "user_id": "025771053",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790712384
       },
       "ۦ˺مــشـــٱعࢪ⃪𓂃⃪ֶ𓏲": {
         "username": "ۦ˺مــشـــٱعࢪ⃪𓂃⃪ֶ𓏲",
