@@ -6301,10 +6301,10 @@
       "halaz": {
         "username": "halaz",
         "role": "owner",
-        "user_id": "",
-        "online": null,
-        "is_present": null,
-        "last_seen": 1790711795
+        "user_id": "476486578",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790711806
       },
       "memo.20": {
         "username": "memo.20",
@@ -33838,7 +33838,7 @@
         "user_id": "",
         "online": null,
         "is_present": null,
-        "last_seen": 1790711298
+        "last_seen": 1790711805
       },
       "night.fury": {
         "username": "night.fury",
