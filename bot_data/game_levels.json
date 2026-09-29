@@ -1428,6 +1428,13 @@
       "label": "لاعب جديد",
       "plays": 1,
       "star_rank": null
+    },
+    "..-shahd-..": {
+      "username": "..-shahd-..",
+      "level": 1,
+      "label": "لاعب جديد",
+      "plays": 1,
+      "star_rank": null
     }
   }
 }
