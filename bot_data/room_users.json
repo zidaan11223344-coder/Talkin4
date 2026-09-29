@@ -8198,11 +8198,11 @@
       },
       "wi..fi": {
         "username": "wi..fi",
-        "role": "none",
+        "role": "member",
         "user_id": "",
         "online": null,
         "is_present": null,
-        "last_seen": 1790711552
+        "last_seen": 1790711557
       }
     },
     "بنات_المجرة🎀": {
@@ -31007,10 +31007,10 @@
       "ﺣــۧـورآء•❥𝆕": {
         "username": "ﺣــۧـورآء•❥𝆕",
         "role": "owner",
-        "user_id": "",
-        "online": null,
-        "is_present": null,
-        "last_seen": 1790711500
+        "user_id": "928517465",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790711557
       },
       "aljrih": {
         "username": "aljrih",
