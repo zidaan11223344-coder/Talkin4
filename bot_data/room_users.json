@@ -19473,10 +19473,10 @@
       "₁": {
         "username": "₁",
         "role": "owner",
-        "user_id": "",
-        "online": null,
-        "is_present": null,
-        "last_seen": 1790711092
+        "user_id": "615253072",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790711105
       },
       "thegood": {
         "username": "thegood",
