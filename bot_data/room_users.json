@@ -33351,10 +33351,10 @@
       "..-shahd-..": {
         "username": "..-shahd-..",
         "role": "none",
-        "user_id": "049677176",
-        "online": "off",
-        "is_present": "off",
-        "last_seen": 1790710531
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710998
       },
       "..pinocchio.-": {
         "username": "..pinocchio.-",
