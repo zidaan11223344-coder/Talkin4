@@ -6985,10 +6985,10 @@
       "rojana": {
         "username": "rojana",
         "role": "member",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710488
+        "user_id": "646355135",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790710664
       },
       "hdooo2-": {
         "username": "hdooo2-",
@@ -23199,6 +23199,14 @@
         "online": null,
         "is_present": null,
         "last_seen": 1790710550
+      },
+      "f-.._": {
+        "username": "f-.._",
+        "role": "none",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710664
       }
     },
     "شام": {
