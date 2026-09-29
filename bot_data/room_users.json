@@ -19472,9 +19472,11 @@
       },
       "₁": {
         "username": "₁",
-        "role": "member",
+        "role": "owner",
         "user_id": "",
-        "last_seen": 1790195837
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790711092
       },
       "thegood": {
         "username": "thegood",
