@@ -5646,7 +5646,9 @@
         "username": "iiii.",
         "role": "owner",
         "user_id": "",
-        "last_seen": 1790228920
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710778
       },
       "••𝓗𝒪𝒪𝓡••": {
         "username": "••𝓗𝒪𝒪𝓡••",
@@ -23223,6 +23225,14 @@
         "online": null,
         "is_present": null,
         "last_seen": 1790710664
+      },
+      "..-shahd-..": {
+        "username": "..-shahd-..",
+        "role": "none",
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710776
       }
     },
     "شام": {
