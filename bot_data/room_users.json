@@ -3108,9 +3108,9 @@
         "username": "‏̅‏𝐶̵̩͜𝑙𝑎̅𝑠̅𝑠̅𝑖̅𝑐",
         "role": "creator",
         "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790710488
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790710592
       },
       "almazareta": {
         "username": "almazareta",
