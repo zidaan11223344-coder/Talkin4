@@ -1,8 +1,8 @@
 {
   "room": "سوريانا",
-  "target": "gggggg",
-  "operation": "ban",
+  "target": "s-boot",
+  "operation": "owner",
   "inverse": "member",
-  "created_at": 1790771760,
+  "created_at": 1790777977,
   "undone": false
 }
