@@ -20695,10 +20695,10 @@
       "ܩߺࡋߺߺܭܘ߳↟ٌܴ🧡َِ۬͢": {
         "username": "ܩߺࡋߺߺܭܘ߳↟ٌܴ🧡َِ۬͢",
         "role": "owner",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790712352
+        "user_id": "668895963",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790771925
       },
       "ا̍ﻼ̍ۙ𖤣نۨـــېْۧـــڦـــۃ..𐔌ᦈ⃘ᨩ꙼": {
         "username": "ا̍ﻼ̍ۙ𖤣نۨـــېْۧـــڦـــۃ..𐔌ᦈ⃘ᨩ꙼",
@@ -20722,7 +20722,7 @@
         "user_id": "366763381",
         "online": "off",
         "is_present": "off",
-        "last_seen": 1790712658
+        "last_seen": 1790771926
       },
       "↠𓆩〭〬⁕݊𝒔𝒐𝒇𝒊𝒂꧖᭄": {
         "username": "↠𓆩〭〬⁕݊𝒔𝒐𝒇𝒊𝒂꧖᭄",
@@ -20762,7 +20762,7 @@
         "user_id": "025771053",
         "online": "off",
         "is_present": "off",
-        "last_seen": 1790712384
+        "last_seen": 1790771929
       },
       "ۦ˺مــشـــٱعࢪ⃪𓂃⃪ֶ𓏲": {
         "username": "ۦ˺مــشـــٱعࢪ⃪𓂃⃪ֶ𓏲",
@@ -20775,10 +20775,10 @@
       "˛឵𝃛𐇵𝅮∙ڠــــࢪﯣب𔓘ׂㅤ᷼܃﹒": {
         "username": "˛឵𝃛𐇵𝅮∙ڠــــࢪﯣب𔓘ׂㅤ᷼܃﹒",
         "role": "owner",
-        "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790712352
+        "user_id": "268513119",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790771926
       },
       "بــدࢪ𓏲ִִֶֶָָּ᭡آلنـْـعٓـام❀𝆕𓂃⃪ֶᮀᮀ": {
         "username": "بــدࢪ𓏲ִִֶֶָָּ᭡آلنـْـعٓـام❀𝆕𓂃⃪ֶᮀᮀ",
@@ -20847,10 +20847,10 @@
       "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫": {
         "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
         "role": "owner",
-        "user_id": "261660093",
-        "online": "off",
-        "is_present": "off",
-        "last_seen": 1790712384
+        "user_id": "",
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790771929
       },
       "هيرو": {
         "username": "هيرو",
@@ -23577,6 +23577,14 @@
         "online": null,
         "is_present": null,
         "last_seen": 1790712725
+      },
+      "឵☕": {
+        "username": "឵☕",
+        "role": "owner",
+        "user_id": "112705799",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790771930
       }
     },
     "شام": {
@@ -26018,11 +26026,11 @@
       },
       "🦉ّ": {
         "username": "🦉ّ",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
         "online": "",
         "is_present": "",
-        "last_seen": 1790770442
+        "last_seen": 1790771926
       },
       "mnya-_-": {
         "username": "mnya-_-",
@@ -26034,11 +26042,11 @@
       },
       "<٠٠٠>": {
         "username": "<٠٠٠>",
-        "role": "member",
+        "role": "admin",
         "user_id": "",
-        "online": null,
-        "is_present": null,
-        "last_seen": 1790743202
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
       },
       "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫": {
         "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
@@ -26050,11 +26058,11 @@
       },
       "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
         "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
-        "role": "none",
+        "role": "owner",
         "user_id": "",
         "online": "",
         "is_present": "",
-        "last_seen": 1790770442
+        "last_seen": 1790771926
       },
       "♔كُآتُيَ♔": {
         "username": "♔كُآتُيَ♔",
@@ -26083,10 +26091,10 @@
       "឵☕": {
         "username": "឵☕",
         "role": "owner",
-        "user_id": "112705799",
-        "online": "off",
-        "is_present": "off",
-        "last_seen": 1790761624
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
       },
       "alasmr.ab": {
         "username": "alasmr.ab",
@@ -26346,11 +26354,11 @@
       },
       "⎀": {
         "username": "⎀",
-        "role": "none",
+        "role": "admin",
         "user_id": "",
         "online": "",
         "is_present": "",
-        "last_seen": 1790770442
+        "last_seen": 1790771926
       },
       "ڪـــ✦ــاريــــــــزمــا": {
         "username": "ڪـــ✦ــاريــــــــزمــا",
@@ -26615,6 +26623,366 @@
         "online": null,
         "is_present": null,
         "last_seen": 1790736920
+      },
+      "رۅڒٍيـۦٰ۬ـ✿ـتـ✿ـۦٰ۬ـآ": {
+        "username": "رۅڒٍيـۦٰ۬ـ✿ـتـ✿ـۦٰ۬ـآ",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "سيدۃ᯽̸᜔᮫المࢪ࣪اج᯽̸᜔᮫الأولى": {
+        "username": "سيدۃ᯽̸᜔᮫المࢪ࣪اج᯽̸᜔᮫الأولى",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "𝆞𑁍السِنِيَــوٌࢪةّꫂ᭪݁": {
+        "username": "𝆞𑁍السِنِيَــوٌࢪةّꫂ᭪݁",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "آلُـِـِِـِِِـِِـِـصُـ,ـيآڊ": {
+        "username": "آلُـِـِِـِِِـِِـِـصُـ,ـيآڊ",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ٍᎯᏧᎯᗰ": {
+        "username": "ٍᎯᏧᎯᗰ",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "mahmoudsh93": {
+        "username": "mahmoudsh93",
+        "role": "none",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "مِڪِۥـاެبـِۥـڕهٖہ⤸♪؍؍🤎•": {
+        "username": "مِڪِۥـاެبـِۥـڕهٖہ⤸♪؍؍🤎•",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "﹒شُــ۶ـ֪ــآܸع𝄈ࣳ☀️ꪆ୧": {
+        "username": "﹒شُــ۶ـ֪ــآܸع𝄈ࣳ☀️ꪆ୧",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "᛫𝆺𝅥𓈒𝐌͟𝐞͟𝐫͟𝐦͟𝐚͟𝐢𝐝ˬ🫧𝁘": {
+        "username": "᛫𝆺𝅥𓈒𝐌͟𝐞͟𝐫͟𝐦͟𝐚͟𝐢𝐝ˬ🫧𝁘",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ࢪوඋ": {
+        "username": "ࢪوඋ",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "1q1q1q1q1q": {
+        "username": "1q1q1q1q1q",
+        "role": "none",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "𑣲𝅮𓈒⃪ᓚᓆɹɹ̈̇ɹɕ𝆟ࠥ𝂅ࠥ♡゙໋⃬": {
+        "username": "𑣲𝅮𓈒⃪ᓚᓆɹɹ̈̇ɹɕ𝆟ࠥ𝂅ࠥ♡゙໋⃬",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "versaace": {
+        "username": "versaace",
+        "role": "member",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "فــخᬼــ⃪⃪مــ⃪⃪⃪⃪م↵𓆩ۥَِ۠•": {
+        "username": "فــخᬼــ⃪⃪مــ⃪⃪⃪⃪م↵𓆩ۥَِ۠•",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "𑱄𝃛آ۾؏ـيوٍڼ𐦍حـلوٍيڼ𓆪₎": {
+        "username": "𑱄𝃛آ۾؏ـيوٍڼ𐦍حـلوٍيڼ𓆪₎",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ܩߺࡋߺߺܭܘ߳↟ٌܴ🧡َِ۬͢": {
+        "username": "ܩߺࡋߺߺܭܘ߳↟ٌܴ🧡َِ۬͢",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "♪دڵــٔوٰعــِۧـ🎀،ۦـهٔـۛۂ͢ۦ،♔ۦ": {
+        "username": "♪دڵــٔوٰعــِۧـ🎀،ۦـهٔـۛۂ͢ۦ،♔ۦ",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ᨵ᪲مۘـــڜـــٰا̍ڠـــبـــۃ𔓘ׂ": {
+        "username": "ᨵ᪲مۘـــڜـــٰا̍ڠـــبـــۃ𔓘ׂ",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ۦ˺مــشـــٱعࢪ⃪𓂃⃪ֶ𓏲": {
+        "username": "ۦ˺مــشـــٱعࢪ⃪𓂃⃪ֶ𓏲",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ꪜ͇̿𝓲͇̿ρ͇̿شَـطٓــْـبنَاٰ": {
+        "username": "ꪜ͇̿𝓲͇̿ρ͇̿شَـطٓــْـبنَاٰ",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "mo.ali": {
+        "username": "mo.ali",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "daisy_11": {
+        "username": "daisy_11",
+        "role": "member",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ހވ឵ۥ♥ۥވޱ": {
+        "username": "ހވ឵ۥ♥ۥވޱ",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "˛឵𝃛𐇵𝅮∙ڠــــࢪﯣب𔓘ׂㅤ᷼܃﹒": {
+        "username": "˛឵𝃛𐇵𝅮∙ڠــــࢪﯣب𔓘ׂㅤ᷼܃﹒",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ݪيـآلـٖـيᤳ𖣶𝃛𓏺": {
+        "username": "ݪيـآلـٖـيᤳ𖣶𝃛𓏺",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "مخٖـᬼٰٰٰٰٖٖ🤍ـᬼٰٰٰٰٖٖتلٖفٖۿٰٕہِٰ۬ۛ": {
+        "username": "مخٖـᬼٰٰٰٰٖٖ🤍ـᬼٰٰٰٰٖٖتلٖفٖۿٰٕہِٰ۬ۛ",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "឵឵ㅤ": {
+        "username": "឵឵ㅤ",
+        "role": "member",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ۦٰ🍂آلـْٰخــ፝֯֟ـ🍁ـ፝֯֟ـࢪيـْٰف🍂ۦٰ": {
+        "username": "ۦٰ🍂آلـْٰخــ፝֯֟ـ🍁ـ፝֯֟ـࢪيـْٰف🍂ۦٰ",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "سـ⃪⃐ـتᡃ͢᯽̸᜔᮫𝄒ٱلـ⃪ح⃪ـســ⃪ـ⃮טּ𓈒𓈒": {
+        "username": "سـ⃪⃐ـتᡃ͢᯽̸᜔᮫𝄒ٱلـ⃪ح⃪ـســ⃪ـ⃮טּ𓈒𓈒",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "عـᬼآڜقـᬼةاللـ𓆩❥્᭄͜͡ـيل": {
+        "username": "عـᬼآڜقـᬼةاللـ𓆩❥્᭄͜͡ـيل",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ا̍ﻼ̍ۙ𖤣نۨـــېْۧـــڦـــۃ..𐔌ᦈ⃘ᨩ꙼": {
+        "username": "ا̍ﻼ̍ۙ𖤣نۨـــېْۧـــڦـــۃ..𐔌ᦈ⃘ᨩ꙼",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "forzza": {
+        "username": "forzza",
+        "role": "none",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "farisfaris89": {
+        "username": "farisfaris89",
+        "role": "none",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "knight-25": {
+        "username": "knight-25",
+        "role": "none",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "cuti-pie": {
+        "username": "cuti-pie",
+        "role": "member",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "__.so.so.al.sanfora.__": {
+        "username": "__.so.so.al.sanfora.__",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "_-queen-_": {
+        "username": "_-queen-_",
+        "role": "member",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "مــلــگ♤متـمـــــرد": {
+        "username": "مــلــگ♤متـمـــــرد",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "💘𝐒𝒶řⓐ💞": {
+        "username": "💘𝐒𝒶ŘⒶ💞",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "ـ°☆°صـــٰٓـٰـ✯ـوت❈ٰٓالـمٰٰٓٓـٰ✯ــَٰٓـ͡ـطــر°☆°": {
+        "username": "ـ°☆°صـــٰٓـٰـ✯ـوت❈ٰٓالـمٰٰٓٓـٰ✯ــَٰٓـ͡ـطــر°☆°",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "░▒▓█วค๖rนt••►๖ຖt★๓işrih█▓▒░": {
+        "username": "░▒▓█วค๖rนt••►๖ຖt★๓işrih█▓▒░",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "↠𓆩〭〬⁕݊𝒔𝒐𝒇𝒊𝒂꧖᭄": {
+        "username": "↠𓆩〭〬⁕݊𝒔𝒐𝒇𝒊𝒂꧖᭄",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "جوهـᬼ💎ـᬼرة": {
+        "username": "جوهـᬼ💎ـᬼرة",
+        "role": "owner",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "بــدࢪ𓏲ִִֶֶָָּ᭡آلنـْـعٓـام❀𝆕𓂃⃪ֶᮀᮀ": {
+        "username": "بــدࢪ𓏲ִִֶֶָָּ᭡آلنـْـعٓـام❀𝆕𓂃⃪ֶᮀᮀ",
+        "role": "admin",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
+      },
+      "scaandal": {
+        "username": "scaandal",
+        "role": "member",
+        "user_id": "",
+        "online": "",
+        "is_present": "",
+        "last_seen": 1790771926
       }
     },
     "بلاد♡الشام": {
