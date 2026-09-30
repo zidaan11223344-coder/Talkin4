@@ -8,7 +8,7 @@
         "staked": 3447300
       },
       "million": {
-        "plays": 115,
+        "plays": 114,
         "points": 1000000,
         "staked": 0
       },
@@ -113,8 +113,8 @@
         "staked": 0
       },
       "wheel": {
-        "plays": 16,
-        "points": 42421,
+        "plays": 15,
+        "points": 40395,
         "staked": 0
       },
       "اونو": {
@@ -153,49 +153,79 @@
     "username": "سَمبُوسَايَہٰۦ𖹭ۦ",
     "games": {
       "million": {
-        "plays": 68,
+        "plays": 81,
         "points": 0,
         "staked": 0
       },
       "steal": {
-        "plays": 3,
+        "plays": 5,
         "points": -1000,
-        "staked": 1500
+        "staked": 2500
       },
       "billion": {
-        "plays": 54,
+        "plays": 63,
         "points": 1000000000,
         "staked": 0
       },
       "monster": {
-        "plays": 2,
+        "plays": 3,
         "points": 0,
         "staked": 0
       },
       "wheel": {
-        "plays": 6,
-        "points": 21736,
+        "plays": 7,
+        "points": 24378,
         "staked": 0
       },
       "volcano": {
-        "plays": 2,
-        "points": 4781,
+        "plays": 3,
+        "points": 8487,
         "staked": 0
       },
       "luck_free": {
-        "plays": 6,
-        "points": 330,
+        "plays": 7,
+        "points": 430,
         "staked": 0
       },
       "luck": {
-        "plays": 1,
-        "points": 100000,
-        "staked": 100000
+        "plays": 4,
+        "points": -900000,
+        "staked": 1120000
       },
       "farm": {
         "plays": 1,
         "points": 7000,
         "staked": 0
+      },
+      "investment": {
+        "plays": 1,
+        "points": 10000,
+        "staked": 10000
+      },
+      "rps": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      },
+      "bird": {
+        "plays": 1,
+        "points": 1103,
+        "staked": 0
+      },
+      "star": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      },
+      "طاولة": {
+        "plays": 1,
+        "points": 3885,
+        "staked": 3885
+      },
+      "اونو": {
+        "plays": 1,
+        "points": 4597,
+        "staked": 4597
       }
     }
   },
@@ -613,7 +643,7 @@
     "username": "ࡅٜߺ𐬠ܭ.ᘓɹ̇ᒪ",
     "games": {
       "million": {
-        "plays": 426,
+        "plays": 427,
         "points": 1000000,
         "staked": 0
       },
@@ -703,7 +733,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 359,
+        "plays": 360,
         "points": 3000000000,
         "staked": 0
       },
@@ -758,8 +788,8 @@
     "username": "⇡⁽ℳ₎⇣",
     "games": {
       "luck_free": {
-        "plays": 15,
-        "points": 660,
+        "plays": 16,
+        "points": 680,
         "staked": 0
       },
       "million": {
@@ -784,7 +814,7 @@
       },
       "luck_free": {
         "plays": 291,
-        "points": 12340,
+        "points": 12530,
         "staked": 0
       },
       "billion": {
@@ -813,7 +843,7 @@
     "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
     "games": {
       "million": {
-        "plays": 491,
+        "plays": 492,
         "points": 10000000,
         "staked": 0
       },
@@ -843,7 +873,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 235,
+        "plays": 236,
         "points": 0,
         "staked": 0
       },
@@ -958,7 +988,7 @@
     "username": "ɱ",
     "games": {
       "million": {
-        "plays": 568,
+        "plays": 575,
         "points": 5000000,
         "staked": 0
       },
@@ -993,7 +1023,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 325,
+        "plays": 331,
         "points": 3000000000,
         "staked": 0
       },
@@ -1018,8 +1048,8 @@
         "staked": 15000
       },
       "volcano": {
-        "plays": 431,
-        "points": 1072332,
+        "plays": 432,
+        "points": 1074278,
         "staked": 0
       },
       "farm": {
@@ -1028,9 +1058,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 380,
-        "points": 844647,
-        "staked": 1045353
+        "plays": 383,
+        "points": 861647,
+        "staked": 1048353
       },
       "bird": {
         "plays": 339,
@@ -1093,7 +1123,7 @@
         "staked": 0
       },
       "million": {
-        "plays": 141,
+        "plays": 143,
         "points": 2000000,
         "staked": 0
       },
@@ -1123,12 +1153,12 @@
         "staked": 139417
       },
       "billion": {
-        "plays": 76,
+        "plays": 78,
         "points": 0,
         "staked": 0
       },
       "monster": {
-        "plays": 183,
+        "plays": 184,
         "points": 214446,
         "staked": 0
       },
@@ -1138,23 +1168,23 @@
         "staked": 0
       },
       "bird": {
-        "plays": 238,
-        "points": 547915,
+        "plays": 240,
+        "points": 553184,
         "staked": 0
       },
       "star": {
-        "plays": 239,
-        "points": 566911,
+        "plays": 241,
+        "points": 573248,
         "staked": 0
       },
       "wheel": {
-        "plays": 148,
-        "points": 361524,
+        "plays": 150,
+        "points": 369379,
         "staked": 0
       },
       "volcano": {
-        "plays": 216,
-        "points": 513320,
+        "plays": 218,
+        "points": 515216,
         "staked": 0
       },
       "rps": {
@@ -1288,7 +1318,7 @@
     "username": "__________nickname__________",
     "games": {
       "million": {
-        "plays": 134,
+        "plays": 137,
         "points": 2000000,
         "staked": 0
       },
@@ -1333,7 +1363,7 @@
         "staked": 0
       },
       "billion": {
-        "plays": 26,
+        "plays": 28,
         "points": 1000000000,
         "staked": 0
       },
@@ -1568,18 +1598,18 @@
     "username": "آلَلَيّــʳᵉᵉᵐـــدُيّ⃝𓆞",
     "games": {
       "million": {
-        "plays": 30,
+        "plays": 37,
         "points": 0,
         "staked": 0
       },
       "billion": {
-        "plays": 24,
+        "plays": 32,
         "points": 1000000000,
         "staked": 0
       },
       "luck_free": {
-        "plays": 4,
-        "points": 160,
+        "plays": 7,
+        "points": 270,
         "staked": 0
       },
       "monster": {
@@ -1728,8 +1758,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 216,
-        "points": 8530,
+        "plays": 225,
+        "points": 8940,
         "staked": 0
       },
       "صيد": {
@@ -1783,7 +1813,7 @@
         "staked": 1500
       },
       "billion": {
-        "plays": 26,
+        "plays": 27,
         "points": 0,
         "staked": 0
       },
@@ -1988,7 +2018,7 @@
     "username": "basel94",
     "games": {
       "million": {
-        "plays": 144,
+        "plays": 151,
         "points": 4000000,
         "staked": 0
       },
@@ -2008,7 +2038,7 @@
         "staked": 11000
       },
       "billion": {
-        "plays": 157,
+        "plays": 163,
         "points": 0,
         "staked": 0
       },
@@ -2113,9 +2143,9 @@
         "staked": 0
       },
       "luck": {
-        "plays": 3,
-        "points": -10000,
-        "staked": 30000
+        "plays": 6,
+        "points": -60000,
+        "staked": 90000
       },
       "سنارة": {
         "plays": 2,
@@ -2468,8 +2498,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 9,
-        "points": 260,
+        "plays": 10,
+        "points": 360,
         "staked": 0
       },
       "box": {
@@ -2891,6 +2921,11 @@
         "plays": 3,
         "points": 17000,
         "staked": 0
+      },
+      "luck": {
+        "plays": 2,
+        "points": 100000,
+        "staked": 110000
       }
     }
   },
@@ -2918,8 +2953,8 @@
         "staked": 0
       },
       "luck_free": {
-        "plays": 6,
-        "points": 170,
+        "plays": 7,
+        "points": 190,
         "staked": 0
       },
       "rps": {
@@ -3073,12 +3108,12 @@
     "username": "☆اِلِـِـِـِلـِـِـِ♬ـِـِـِوِرِڊِ☆اِلِـِـِڛـِـِ♬ـِـِوِرِي☆",
     "games": {
       "million": {
-        "plays": 177,
+        "plays": 178,
         "points": 1000000,
         "staked": 0
       },
       "billion": {
-        "plays": 122,
+        "plays": 124,
         "points": 1000000000,
         "staked": 0
       },
@@ -3763,8 +3798,8 @@
         "staked": 0
       },
       "star": {
-        "plays": 331,
-        "points": 796660,
+        "plays": 333,
+        "points": 799866,
         "staked": 0
       },
       "طاولة": {
@@ -3778,8 +3813,8 @@
         "staked": 0
       },
       "volcano": {
-        "plays": 260,
-        "points": 633461,
+        "plays": 262,
+        "points": 640555,
         "staked": 0
       },
       "luck_free": {
@@ -3788,12 +3823,12 @@
         "staked": 0
       },
       "billion": {
-        "plays": 164,
+        "plays": 169,
         "points": 0,
         "staked": 0
       },
       "million": {
-        "plays": 197,
+        "plays": 203,
         "points": 1000000,
         "staked": 0
       },
@@ -3818,7 +3853,7 @@
         "staked": 1500
       },
       "bird": {
-        "plays": 337,
+        "plays": 338,
         "points": 789737,
         "staked": 0
       },
@@ -5113,12 +5148,12 @@
     "username": "sham12",
     "games": {
       "billion": {
-        "plays": 15,
+        "plays": 16,
         "points": 0,
         "staked": 0
       },
       "million": {
-        "plays": 1,
+        "plays": 2,
         "points": 0,
         "staked": 0
       },
@@ -5153,6 +5188,11 @@
         "staked": 500
       },
       "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      },
+      "cup": {
         "plays": 1,
         "points": 0,
         "staked": 0
@@ -5191,6 +5231,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "investment": {
+        "plays": 1,
+        "points": -10000,
+        "staked": 10000
       }
     }
   },
@@ -5558,8 +5603,8 @@
     "username": "взтнян𑁤",
     "games": {
       "volcano": {
-        "plays": 7,
-        "points": 12058,
+        "plays": 9,
+        "points": 17790,
         "staked": 0
       }
     }
@@ -5951,6 +5996,11 @@
         "plays": 1,
         "points": 0,
         "staked": 0
+      },
+      "cup": {
+        "plays": 2,
+        "points": 0,
+        "staked": 0
       }
     }
   },
@@ -6028,7 +6078,12 @@
     "username": "⚜ا̍ڶـفَـتۑْۧ☻ا̍ڵـذَهبېْۧ⚜",
     "games": {
       "billion": {
-        "plays": 1,
+        "plays": 2,
+        "points": 0,
+        "staked": 0
+      },
+      "million": {
+        "plays": 3,
         "points": 0,
         "staked": 0
       }
@@ -6115,6 +6170,46 @@
       "luck_free": {
         "plays": 1,
         "points": 20,
+        "staked": 0
+      }
+    }
+  },
+  "al7lwa": {
+    "username": "al7lwa",
+    "games": {
+      "billion": {
+        "plays": 1,
+        "points": 0,
+        "staked": 0
+      }
+    }
+  },
+  "mo-abdellatif": {
+    "username": "mo-abdellatif",
+    "games": {
+      "billion": {
+        "plays": 2,
+        "points": 0,
+        "staked": 0
+      }
+    }
+  },
+  "2_6_2": {
+    "username": "2_6_2",
+    "games": {
+      "luck_free": {
+        "plays": 1,
+        "points": 20,
+        "staked": 0
+      }
+    }
+  },
+  "التيفاحه": {
+    "username": "التيفاحه",
+    "games": {
+      "billion": {
+        "plays": 1,
+        "points": 0,
         "staked": 0
       }
     }
