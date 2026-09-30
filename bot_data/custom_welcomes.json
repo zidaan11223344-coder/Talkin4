@@ -684,6 +684,14 @@
     "القيصر": {
       "username": "القيصر",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "al7lwa": {
+      "username": "al7lwa",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "☯𓂀المـُاتـرٴيـٖ፝֯֟͡͡͡ــكـ͢͡س𓂀☯": {
+      "username": "☯𓂀المـُاتـرٴيـٖ፝֯֟͡͡͡ــكـ͢͡س𓂀☯",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
