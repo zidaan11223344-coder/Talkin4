@@ -26195,10 +26195,10 @@
       "..skndr..": {
         "username": "..skndr..",
         "role": "owner",
-        "user_id": "",
-        "online": null,
-        "is_present": null,
-        "last_seen": 1790810459
+        "user_id": "833841833",
+        "online": "off",
+        "is_present": "off",
+        "last_seen": 1790810486
       },
       "_bot_": {
         "username": "_bot_",
