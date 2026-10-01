@@ -28644,9 +28644,9 @@
         "username": "mcha3r",
         "role": "owner",
         "user_id": "",
-        "online": "",
-        "is_present": "",
-        "last_seen": 1790815133
+        "online": null,
+        "is_present": null,
+        "last_seen": 1790816707
       },
       "-sbot-": {
         "username": "-sbot-",
