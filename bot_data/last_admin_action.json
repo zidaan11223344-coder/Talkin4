@@ -1,8 +1,8 @@
 {
-  "room": "اتكيت",
-  "target": "asd2040",
-  "operation": "admin",
+  "room": "مشاعر",
+  "target": "asoadd",
+  "operation": "owner",
   "inverse": "member",
-  "created_at": 1791011478,
+  "created_at": 1791040783,
   "undone": false
 }
