@@ -379,6 +379,12 @@
       "replies": [
         "مو قد كرهي لك🤨"
       ]
+    },
+    "🐜": {
+      "trigger": "🐜",
+      "replies": [
+        "نمولة رزه"
+      ]
     }
   },
   "auto_replies_enabled": true
