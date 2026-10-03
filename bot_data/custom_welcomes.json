@@ -740,6 +740,22 @@
     ".shoka": {
       "username": ".shoka",
       "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    ":༅｡ٱحۂٰۣ۫ﹻ۬مدོالفلسۂٰۣ۫ﹻ۬طۂٰۣ۫ﹻـيني｡༅:ﾟ": {
+      "username": ":༅｡ٱحۂٰۣ۫ﹻ۬مدོالفلسۂٰۣ۫ﹻ۬طۂٰۣ۫ﹻـيني｡༅:ﾟ",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "حسسآم": {
+      "username": "حسسآم",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    ".-_amira_-.": {
+      "username": ".-_amira_-.",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
+    },
+    "-off_": {
+      "username": "-off_",
+      "message": "👑 عضو Vip\n👤 {username}\n🏠 الغرفة: {room}"
     }
   }
 }
